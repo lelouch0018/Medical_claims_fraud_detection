@@ -1,0 +1,7 @@
+Invoice ID: C100291
+Provider: P1071
+Patient: U2314
+Procedure: PROC_A
+Amount: 643.66
+Details: Generic invoice for services rendered.
+Notes: Standard billing.

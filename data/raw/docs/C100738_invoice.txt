@@ -1,0 +1,9 @@
+Invoice ID: C100738
+Provider: P1001
+Patient: U2177
+Procedure: PROC_C
+Amount: 4703.97
+Details: Generic invoice for services rendered.
+Notes: Standard billing.
+Note: BILLED HOURS: 999
+Extra line: Equipment: EXTERNAL_URGENT_IMPLANT

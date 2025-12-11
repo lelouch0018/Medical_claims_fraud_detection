@@ -1,0 +1,7 @@
+Invoice ID: C100577
+Provider: P1067
+Patient: U2458
+Procedure: PROC_A
+Amount: 653.86
+Details: Generic invoice for services rendered.
+Notes: Standard billing.

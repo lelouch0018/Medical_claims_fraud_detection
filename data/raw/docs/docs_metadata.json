@@ -1,0 +1,3554 @@
+[
+  {
+    "claim_id": "C100037",
+    "file": "C100037_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100726",
+    "file": "C100726_invoice.txt",
+    "type": "text",
+    "provider_id": "P1005"
+  },
+  {
+    "claim_id": "C100846",
+    "file": "C100846_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100295",
+    "file": "C100295_invoice.txt",
+    "type": "text",
+    "provider_id": "P1003"
+  },
+  {
+    "claim_id": "C100924",
+    "file": "C100924_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100658",
+    "file": "C100658_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100658",
+    "file": "C100658_invoice.png",
+    "type": "image",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100682",
+    "file": "C100682_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100286",
+    "file": "C100286_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100286",
+    "file": "C100286_invoice.png",
+    "type": "image",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100880",
+    "file": "C100880_invoice.txt",
+    "type": "text",
+    "provider_id": "P1006"
+  },
+  {
+    "claim_id": "C100272",
+    "file": "C100272_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100137",
+    "file": "C100137_invoice.txt",
+    "type": "text",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100137",
+    "file": "C100137_invoice.png",
+    "type": "image",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100954",
+    "file": "C100954_invoice.txt",
+    "type": "text",
+    "provider_id": "P1015"
+  },
+  {
+    "claim_id": "C100515",
+    "file": "C100515_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100788",
+    "file": "C100788_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100788",
+    "file": "C100788_invoice.png",
+    "type": "image",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100860",
+    "file": "C100860_invoice.txt",
+    "type": "text",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100860",
+    "file": "C100860_invoice.png",
+    "type": "image",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100640",
+    "file": "C100640_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100737",
+    "file": "C100737_invoice.txt",
+    "type": "text",
+    "provider_id": "P1000"
+  },
+  {
+    "claim_id": "C100683",
+    "file": "C100683_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100412",
+    "file": "C100412_invoice.txt",
+    "type": "text",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100412",
+    "file": "C100412_invoice.png",
+    "type": "image",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100071",
+    "file": "C100071_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100213",
+    "file": "C100213_invoice.txt",
+    "type": "text",
+    "provider_id": "P1012"
+  },
+  {
+    "claim_id": "C100067",
+    "file": "C100067_invoice.txt",
+    "type": "text",
+    "provider_id": "P1014"
+  },
+  {
+    "claim_id": "C100231",
+    "file": "C100231_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100856",
+    "file": "C100856_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100197",
+    "file": "C100197_invoice.txt",
+    "type": "text",
+    "provider_id": "P1003"
+  },
+  {
+    "claim_id": "C100639",
+    "file": "C100639_invoice.txt",
+    "type": "text",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100376",
+    "file": "C100376_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100376",
+    "file": "C100376_invoice.png",
+    "type": "image",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100192",
+    "file": "C100192_invoice.txt",
+    "type": "text",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100099",
+    "file": "C100099_invoice.txt",
+    "type": "text",
+    "provider_id": "P1009"
+  },
+  {
+    "claim_id": "C100678",
+    "file": "C100678_invoice.txt",
+    "type": "text",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100678",
+    "file": "C100678_invoice.png",
+    "type": "image",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100650",
+    "file": "C100650_invoice.txt",
+    "type": "text",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100650",
+    "file": "C100650_invoice.png",
+    "type": "image",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100223",
+    "file": "C100223_invoice.txt",
+    "type": "text",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100205",
+    "file": "C100205_invoice.txt",
+    "type": "text",
+    "provider_id": "P1064"
+  },
+  {
+    "claim_id": "C100748",
+    "file": "C100748_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100462",
+    "file": "C100462_invoice.txt",
+    "type": "text",
+    "provider_id": "P1073"
+  },
+  {
+    "claim_id": "C100146",
+    "file": "C100146_invoice.txt",
+    "type": "text",
+    "provider_id": "P1035"
+  },
+  {
+    "claim_id": "C100020",
+    "file": "C100020_invoice.txt",
+    "type": "text",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100897",
+    "file": "C100897_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100546",
+    "file": "C100546_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100646",
+    "file": "C100646_invoice.txt",
+    "type": "text",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100646",
+    "file": "C100646_invoice.png",
+    "type": "image",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100687",
+    "file": "C100687_invoice.txt",
+    "type": "text",
+    "provider_id": "P1000"
+  },
+  {
+    "claim_id": "C100935",
+    "file": "C100935_invoice.txt",
+    "type": "text",
+    "provider_id": "P1044"
+  },
+  {
+    "claim_id": "C100821",
+    "file": "C100821_invoice.txt",
+    "type": "text",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100553",
+    "file": "C100553_invoice.txt",
+    "type": "text",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100589",
+    "file": "C100589_invoice.txt",
+    "type": "text",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100370",
+    "file": "C100370_invoice.txt",
+    "type": "text",
+    "provider_id": "P1068"
+  },
+  {
+    "claim_id": "C100596",
+    "file": "C100596_invoice.txt",
+    "type": "text",
+    "provider_id": "P1003"
+  },
+  {
+    "claim_id": "C100886",
+    "file": "C100886_invoice.txt",
+    "type": "text",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100886",
+    "file": "C100886_invoice.png",
+    "type": "image",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100794",
+    "file": "C100794_invoice.txt",
+    "type": "text",
+    "provider_id": "P1072"
+  },
+  {
+    "claim_id": "C100913",
+    "file": "C100913_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100913",
+    "file": "C100913_invoice.png",
+    "type": "image",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100015",
+    "file": "C100015_invoice.txt",
+    "type": "text",
+    "provider_id": "P1033"
+  },
+  {
+    "claim_id": "C100757",
+    "file": "C100757_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100444",
+    "file": "C100444_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100330",
+    "file": "C100330_invoice.txt",
+    "type": "text",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100871",
+    "file": "C100871_invoice.txt",
+    "type": "text",
+    "provider_id": "P1033"
+  },
+  {
+    "claim_id": "C100984",
+    "file": "C100984_invoice.txt",
+    "type": "text",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100984",
+    "file": "C100984_invoice.png",
+    "type": "image",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100543",
+    "file": "C100543_invoice.txt",
+    "type": "text",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100543",
+    "file": "C100543_invoice.png",
+    "type": "image",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100525",
+    "file": "C100525_invoice.txt",
+    "type": "text",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100164",
+    "file": "C100164_invoice.txt",
+    "type": "text",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100863",
+    "file": "C100863_invoice.txt",
+    "type": "text",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100182",
+    "file": "C100182_invoice.txt",
+    "type": "text",
+    "provider_id": "P1010"
+  },
+  {
+    "claim_id": "C100927",
+    "file": "C100927_invoice.txt",
+    "type": "text",
+    "provider_id": "P1056"
+  },
+  {
+    "claim_id": "C100101",
+    "file": "C100101_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100578",
+    "file": "C100578_invoice.txt",
+    "type": "text",
+    "provider_id": "P1072"
+  },
+  {
+    "claim_id": "C100185",
+    "file": "C100185_invoice.txt",
+    "type": "text",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100068",
+    "file": "C100068_invoice.txt",
+    "type": "text",
+    "provider_id": "P1019"
+  },
+  {
+    "claim_id": "C100615",
+    "file": "C100615_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100549",
+    "file": "C100549_invoice.txt",
+    "type": "text",
+    "provider_id": "P1050"
+  },
+  {
+    "claim_id": "C100338",
+    "file": "C100338_invoice.txt",
+    "type": "text",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100322",
+    "file": "C100322_invoice.txt",
+    "type": "text",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100322",
+    "file": "C100322_invoice.png",
+    "type": "image",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100279",
+    "file": "C100279_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100288",
+    "file": "C100288_invoice.txt",
+    "type": "text",
+    "provider_id": "P1019"
+  },
+  {
+    "claim_id": "C100288",
+    "file": "C100288_invoice.png",
+    "type": "image",
+    "provider_id": "P1019"
+  },
+  {
+    "claim_id": "C100251",
+    "file": "C100251_invoice.txt",
+    "type": "text",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100251",
+    "file": "C100251_invoice.png",
+    "type": "image",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100908",
+    "file": "C100908_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100236",
+    "file": "C100236_invoice.txt",
+    "type": "text",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100508",
+    "file": "C100508_invoice.txt",
+    "type": "text",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100716",
+    "file": "C100716_invoice.txt",
+    "type": "text",
+    "provider_id": "P1022"
+  },
+  {
+    "claim_id": "C100931",
+    "file": "C100931_invoice.txt",
+    "type": "text",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100230",
+    "file": "C100230_invoice.txt",
+    "type": "text",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100621",
+    "file": "C100621_invoice.txt",
+    "type": "text",
+    "provider_id": "P1078"
+  },
+  {
+    "claim_id": "C100727",
+    "file": "C100727_invoice.txt",
+    "type": "text",
+    "provider_id": "P1004"
+  },
+  {
+    "claim_id": "C100232",
+    "file": "C100232_invoice.txt",
+    "type": "text",
+    "provider_id": "P1073"
+  },
+  {
+    "claim_id": "C100832",
+    "file": "C100832_invoice.txt",
+    "type": "text",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100832",
+    "file": "C100832_invoice.png",
+    "type": "image",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100409",
+    "file": "C100409_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100797",
+    "file": "C100797_invoice.txt",
+    "type": "text",
+    "provider_id": "P1044"
+  },
+  {
+    "claim_id": "C100143",
+    "file": "C100143_invoice.txt",
+    "type": "text",
+    "provider_id": "P1057"
+  },
+  {
+    "claim_id": "C100143",
+    "file": "C100143_invoice.png",
+    "type": "image",
+    "provider_id": "P1057"
+  },
+  {
+    "claim_id": "C100906",
+    "file": "C100906_invoice.txt",
+    "type": "text",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100906",
+    "file": "C100906_invoice.png",
+    "type": "image",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100599",
+    "file": "C100599_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100199",
+    "file": "C100199_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100065",
+    "file": "C100065_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100179",
+    "file": "C100179_invoice.txt",
+    "type": "text",
+    "provider_id": "P1039"
+  },
+  {
+    "claim_id": "C100280",
+    "file": "C100280_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100830",
+    "file": "C100830_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100742",
+    "file": "C100742_invoice.txt",
+    "type": "text",
+    "provider_id": "P1066"
+  },
+  {
+    "claim_id": "C100463",
+    "file": "C100463_invoice.txt",
+    "type": "text",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100158",
+    "file": "C100158_invoice.txt",
+    "type": "text",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100158",
+    "file": "C100158_invoice.png",
+    "type": "image",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100715",
+    "file": "C100715_invoice.txt",
+    "type": "text",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100715",
+    "file": "C100715_invoice.png",
+    "type": "image",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100881",
+    "file": "C100881_invoice.txt",
+    "type": "text",
+    "provider_id": "P1060"
+  },
+  {
+    "claim_id": "C100824",
+    "file": "C100824_invoice.txt",
+    "type": "text",
+    "provider_id": "P1066"
+  },
+  {
+    "claim_id": "C100518",
+    "file": "C100518_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100653",
+    "file": "C100653_invoice.txt",
+    "type": "text",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100653",
+    "file": "C100653_invoice.png",
+    "type": "image",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100258",
+    "file": "C100258_invoice.txt",
+    "type": "text",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100951",
+    "file": "C100951_invoice.txt",
+    "type": "text",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100951",
+    "file": "C100951_invoice.png",
+    "type": "image",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100396",
+    "file": "C100396_invoice.txt",
+    "type": "text",
+    "provider_id": "P1065"
+  },
+  {
+    "claim_id": "C100557",
+    "file": "C100557_invoice.txt",
+    "type": "text",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100834",
+    "file": "C100834_invoice.txt",
+    "type": "text",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100432",
+    "file": "C100432_invoice.txt",
+    "type": "text",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100426",
+    "file": "C100426_invoice.txt",
+    "type": "text",
+    "provider_id": "P1003"
+  },
+  {
+    "claim_id": "C100522",
+    "file": "C100522_invoice.txt",
+    "type": "text",
+    "provider_id": "P1022"
+  },
+  {
+    "claim_id": "C100504",
+    "file": "C100504_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100732",
+    "file": "C100732_invoice.txt",
+    "type": "text",
+    "provider_id": "P1059"
+  },
+  {
+    "claim_id": "C100698",
+    "file": "C100698_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100007",
+    "file": "C100007_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100912",
+    "file": "C100912_invoice.txt",
+    "type": "text",
+    "provider_id": "P1005"
+  },
+  {
+    "claim_id": "C100580",
+    "file": "C100580_invoice.txt",
+    "type": "text",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100580",
+    "file": "C100580_invoice.png",
+    "type": "image",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100193",
+    "file": "C100193_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100691",
+    "file": "C100691_invoice.txt",
+    "type": "text",
+    "provider_id": "P1013"
+  },
+  {
+    "claim_id": "C100556",
+    "file": "C100556_invoice.txt",
+    "type": "text",
+    "provider_id": "P1048"
+  },
+  {
+    "claim_id": "C100685",
+    "file": "C100685_invoice.txt",
+    "type": "text",
+    "provider_id": "P1021"
+  },
+  {
+    "claim_id": "C100840",
+    "file": "C100840_invoice.txt",
+    "type": "text",
+    "provider_id": "P1077"
+  },
+  {
+    "claim_id": "C100411",
+    "file": "C100411_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100411",
+    "file": "C100411_invoice.png",
+    "type": "image",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100465",
+    "file": "C100465_invoice.txt",
+    "type": "text",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100974",
+    "file": "C100974_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100664",
+    "file": "C100664_invoice.txt",
+    "type": "text",
+    "provider_id": "P1078"
+  },
+  {
+    "claim_id": "C100267",
+    "file": "C100267_invoice.txt",
+    "type": "text",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100212",
+    "file": "C100212_invoice.txt",
+    "type": "text",
+    "provider_id": "P1063"
+  },
+  {
+    "claim_id": "C100887",
+    "file": "C100887_invoice.txt",
+    "type": "text",
+    "provider_id": "P1021"
+  },
+  {
+    "claim_id": "C100423",
+    "file": "C100423_invoice.txt",
+    "type": "text",
+    "provider_id": "P1068"
+  },
+  {
+    "claim_id": "C100423",
+    "file": "C100423_invoice.png",
+    "type": "image",
+    "provider_id": "P1068"
+  },
+  {
+    "claim_id": "C100293",
+    "file": "C100293_invoice.txt",
+    "type": "text",
+    "provider_id": "P1039"
+  },
+  {
+    "claim_id": "C100827",
+    "file": "C100827_invoice.txt",
+    "type": "text",
+    "provider_id": "P1064"
+  },
+  {
+    "claim_id": "C100815",
+    "file": "C100815_invoice.txt",
+    "type": "text",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100812",
+    "file": "C100812_invoice.txt",
+    "type": "text",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100812",
+    "file": "C100812_invoice.png",
+    "type": "image",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100612",
+    "file": "C100612_invoice.txt",
+    "type": "text",
+    "provider_id": "P1075"
+  },
+  {
+    "claim_id": "C100869",
+    "file": "C100869_invoice.txt",
+    "type": "text",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100652",
+    "file": "C100652_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100089",
+    "file": "C100089_invoice.txt",
+    "type": "text",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100089",
+    "file": "C100089_invoice.png",
+    "type": "image",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100141",
+    "file": "C100141_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100141",
+    "file": "C100141_invoice.png",
+    "type": "image",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100418",
+    "file": "C100418_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100418",
+    "file": "C100418_invoice.png",
+    "type": "image",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100310",
+    "file": "C100310_invoice.txt",
+    "type": "text",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100733",
+    "file": "C100733_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100733",
+    "file": "C100733_invoice.png",
+    "type": "image",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100481",
+    "file": "C100481_invoice.txt",
+    "type": "text",
+    "provider_id": "P1060"
+  },
+  {
+    "claim_id": "C100239",
+    "file": "C100239_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100070",
+    "file": "C100070_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100375",
+    "file": "C100375_invoice.txt",
+    "type": "text",
+    "provider_id": "P1002"
+  },
+  {
+    "claim_id": "C100312",
+    "file": "C100312_invoice.txt",
+    "type": "text",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100398",
+    "file": "C100398_invoice.txt",
+    "type": "text",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100455",
+    "file": "C100455_invoice.txt",
+    "type": "text",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100363",
+    "file": "C100363_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100828",
+    "file": "C100828_invoice.txt",
+    "type": "text",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100848",
+    "file": "C100848_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100614",
+    "file": "C100614_invoice.txt",
+    "type": "text",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100929",
+    "file": "C100929_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100397",
+    "file": "C100397_invoice.txt",
+    "type": "text",
+    "provider_id": "P1077"
+  },
+  {
+    "claim_id": "C100445",
+    "file": "C100445_invoice.txt",
+    "type": "text",
+    "provider_id": "P1072"
+  },
+  {
+    "claim_id": "C100414",
+    "file": "C100414_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100379",
+    "file": "C100379_invoice.txt",
+    "type": "text",
+    "provider_id": "P1005"
+  },
+  {
+    "claim_id": "C100291",
+    "file": "C100291_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100074",
+    "file": "C100074_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100226",
+    "file": "C100226_invoice.txt",
+    "type": "text",
+    "provider_id": "P1059"
+  },
+  {
+    "claim_id": "C100486",
+    "file": "C100486_invoice.txt",
+    "type": "text",
+    "provider_id": "P1004"
+  },
+  {
+    "claim_id": "C100333",
+    "file": "C100333_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100084",
+    "file": "C100084_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100480",
+    "file": "C100480_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100480",
+    "file": "C100480_invoice.png",
+    "type": "image",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100694",
+    "file": "C100694_invoice.txt",
+    "type": "text",
+    "provider_id": "P1021"
+  },
+  {
+    "claim_id": "C100284",
+    "file": "C100284_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100209",
+    "file": "C100209_invoice.txt",
+    "type": "text",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100209",
+    "file": "C100209_invoice.png",
+    "type": "image",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100142",
+    "file": "C100142_invoice.txt",
+    "type": "text",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100250",
+    "file": "C100250_invoice.txt",
+    "type": "text",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100925",
+    "file": "C100925_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100355",
+    "file": "C100355_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100576",
+    "file": "C100576_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100388",
+    "file": "C100388_invoice.txt",
+    "type": "text",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100535",
+    "file": "C100535_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100829",
+    "file": "C100829_invoice.txt",
+    "type": "text",
+    "provider_id": "P1021"
+  },
+  {
+    "claim_id": "C100464",
+    "file": "C100464_invoice.txt",
+    "type": "text",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100464",
+    "file": "C100464_invoice.png",
+    "type": "image",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100001",
+    "file": "C100001_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100183",
+    "file": "C100183_invoice.txt",
+    "type": "text",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100183",
+    "file": "C100183_invoice.png",
+    "type": "image",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100109",
+    "file": "C100109_invoice.txt",
+    "type": "text",
+    "provider_id": "P1030"
+  },
+  {
+    "claim_id": "C100160",
+    "file": "C100160_invoice.txt",
+    "type": "text",
+    "provider_id": "P1006"
+  },
+  {
+    "claim_id": "C100937",
+    "file": "C100937_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100811",
+    "file": "C100811_invoice.txt",
+    "type": "text",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100431",
+    "file": "C100431_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100391",
+    "file": "C100391_invoice.txt",
+    "type": "text",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100391",
+    "file": "C100391_invoice.png",
+    "type": "image",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100901",
+    "file": "C100901_invoice.txt",
+    "type": "text",
+    "provider_id": "P1004"
+  },
+  {
+    "claim_id": "C100172",
+    "file": "C100172_invoice.txt",
+    "type": "text",
+    "provider_id": "P1022"
+  },
+  {
+    "claim_id": "C100128",
+    "file": "C100128_invoice.txt",
+    "type": "text",
+    "provider_id": "P1019"
+  },
+  {
+    "claim_id": "C100802",
+    "file": "C100802_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100798",
+    "file": "C100798_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100779",
+    "file": "C100779_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100169",
+    "file": "C100169_invoice.txt",
+    "type": "text",
+    "provider_id": "P1075"
+  },
+  {
+    "claim_id": "C100484",
+    "file": "C100484_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100484",
+    "file": "C100484_invoice.png",
+    "type": "image",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100451",
+    "file": "C100451_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100577",
+    "file": "C100577_invoice.txt",
+    "type": "text",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100077",
+    "file": "C100077_invoice.txt",
+    "type": "text",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100575",
+    "file": "C100575_invoice.txt",
+    "type": "text",
+    "provider_id": "P1010"
+  },
+  {
+    "claim_id": "C100839",
+    "file": "C100839_invoice.txt",
+    "type": "text",
+    "provider_id": "P1004"
+  },
+  {
+    "claim_id": "C100810",
+    "file": "C100810_invoice.txt",
+    "type": "text",
+    "provider_id": "P1006"
+  },
+  {
+    "claim_id": "C100930",
+    "file": "C100930_invoice.txt",
+    "type": "text",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100616",
+    "file": "C100616_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100809",
+    "file": "C100809_invoice.txt",
+    "type": "text",
+    "provider_id": "P1055"
+  },
+  {
+    "claim_id": "C100175",
+    "file": "C100175_invoice.txt",
+    "type": "text",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100818",
+    "file": "C100818_invoice.txt",
+    "type": "text",
+    "provider_id": "P1033"
+  },
+  {
+    "claim_id": "C100677",
+    "file": "C100677_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100952",
+    "file": "C100952_invoice.txt",
+    "type": "text",
+    "provider_id": "P1005"
+  },
+  {
+    "claim_id": "C100200",
+    "file": "C100200_invoice.txt",
+    "type": "text",
+    "provider_id": "P1015"
+  },
+  {
+    "claim_id": "C100532",
+    "file": "C100532_invoice.txt",
+    "type": "text",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100532",
+    "file": "C100532_invoice.png",
+    "type": "image",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100311",
+    "file": "C100311_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100311",
+    "file": "C100311_invoice.png",
+    "type": "image",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100552",
+    "file": "C100552_invoice.txt",
+    "type": "text",
+    "provider_id": "P1060"
+  },
+  {
+    "claim_id": "C100552",
+    "file": "C100552_invoice.png",
+    "type": "image",
+    "provider_id": "P1060"
+  },
+  {
+    "claim_id": "C100526",
+    "file": "C100526_invoice.txt",
+    "type": "text",
+    "provider_id": "P1014"
+  },
+  {
+    "claim_id": "C100895",
+    "file": "C100895_invoice.txt",
+    "type": "text",
+    "provider_id": "P1008"
+  },
+  {
+    "claim_id": "C100399",
+    "file": "C100399_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100399",
+    "file": "C100399_invoice.png",
+    "type": "image",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100705",
+    "file": "C100705_invoice.txt",
+    "type": "text",
+    "provider_id": "P1040"
+  },
+  {
+    "claim_id": "C100309",
+    "file": "C100309_invoice.txt",
+    "type": "text",
+    "provider_id": "P1055"
+  },
+  {
+    "claim_id": "C100152",
+    "file": "C100152_invoice.txt",
+    "type": "text",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100152",
+    "file": "C100152_invoice.png",
+    "type": "image",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100833",
+    "file": "C100833_invoice.txt",
+    "type": "text",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100273",
+    "file": "C100273_invoice.txt",
+    "type": "text",
+    "provider_id": "P1056"
+  },
+  {
+    "claim_id": "C100819",
+    "file": "C100819_invoice.txt",
+    "type": "text",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100878",
+    "file": "C100878_invoice.txt",
+    "type": "text",
+    "provider_id": "P1039"
+  },
+  {
+    "claim_id": "C100374",
+    "file": "C100374_invoice.txt",
+    "type": "text",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100091",
+    "file": "C100091_invoice.txt",
+    "type": "text",
+    "provider_id": "P1022"
+  },
+  {
+    "claim_id": "C100957",
+    "file": "C100957_invoice.txt",
+    "type": "text",
+    "provider_id": "P1075"
+  },
+  {
+    "claim_id": "C100957",
+    "file": "C100957_invoice.png",
+    "type": "image",
+    "provider_id": "P1075"
+  },
+  {
+    "claim_id": "C100452",
+    "file": "C100452_invoice.txt",
+    "type": "text",
+    "provider_id": "P1065"
+  },
+  {
+    "claim_id": "C100933",
+    "file": "C100933_invoice.txt",
+    "type": "text",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100933",
+    "file": "C100933_invoice.png",
+    "type": "image",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100365",
+    "file": "C100365_invoice.txt",
+    "type": "text",
+    "provider_id": "P1057"
+  },
+  {
+    "claim_id": "C100973",
+    "file": "C100973_invoice.txt",
+    "type": "text",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100973",
+    "file": "C100973_invoice.png",
+    "type": "image",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100318",
+    "file": "C100318_invoice.txt",
+    "type": "text",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100062",
+    "file": "C100062_invoice.txt",
+    "type": "text",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100018",
+    "file": "C100018_invoice.txt",
+    "type": "text",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100018",
+    "file": "C100018_invoice.png",
+    "type": "image",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100976",
+    "file": "C100976_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100976",
+    "file": "C100976_invoice.png",
+    "type": "image",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100982",
+    "file": "C100982_invoice.txt",
+    "type": "text",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100749",
+    "file": "C100749_invoice.txt",
+    "type": "text",
+    "provider_id": "P1059"
+  },
+  {
+    "claim_id": "C100744",
+    "file": "C100744_invoice.txt",
+    "type": "text",
+    "provider_id": "P1050"
+  },
+  {
+    "claim_id": "C100347",
+    "file": "C100347_invoice.txt",
+    "type": "text",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100617",
+    "file": "C100617_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100675",
+    "file": "C100675_invoice.txt",
+    "type": "text",
+    "provider_id": "P1000"
+  },
+  {
+    "claim_id": "C100022",
+    "file": "C100022_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100660",
+    "file": "C100660_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100706",
+    "file": "C100706_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100510",
+    "file": "C100510_invoice.txt",
+    "type": "text",
+    "provider_id": "P1026"
+  },
+  {
+    "claim_id": "C100188",
+    "file": "C100188_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100235",
+    "file": "C100235_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100419",
+    "file": "C100419_invoice.txt",
+    "type": "text",
+    "provider_id": "P1015"
+  },
+  {
+    "claim_id": "C100739",
+    "file": "C100739_invoice.txt",
+    "type": "text",
+    "provider_id": "P1039"
+  },
+  {
+    "claim_id": "C100699",
+    "file": "C100699_invoice.txt",
+    "type": "text",
+    "provider_id": "P1010"
+  },
+  {
+    "claim_id": "C100542",
+    "file": "C100542_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100542",
+    "file": "C100542_invoice.png",
+    "type": "image",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100944",
+    "file": "C100944_invoice.txt",
+    "type": "text",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100315",
+    "file": "C100315_invoice.txt",
+    "type": "text",
+    "provider_id": "P1039"
+  },
+  {
+    "claim_id": "C100227",
+    "file": "C100227_invoice.txt",
+    "type": "text",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100241",
+    "file": "C100241_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100490",
+    "file": "C100490_invoice.txt",
+    "type": "text",
+    "provider_id": "P1064"
+  },
+  {
+    "claim_id": "C100490",
+    "file": "C100490_invoice.png",
+    "type": "image",
+    "provider_id": "P1064"
+  },
+  {
+    "claim_id": "C100673",
+    "file": "C100673_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100107",
+    "file": "C100107_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100898",
+    "file": "C100898_invoice.txt",
+    "type": "text",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100441",
+    "file": "C100441_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100441",
+    "file": "C100441_invoice.png",
+    "type": "image",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100439",
+    "file": "C100439_invoice.txt",
+    "type": "text",
+    "provider_id": "P1063"
+  },
+  {
+    "claim_id": "C100717",
+    "file": "C100717_invoice.txt",
+    "type": "text",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100717",
+    "file": "C100717_invoice.png",
+    "type": "image",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100436",
+    "file": "C100436_invoice.txt",
+    "type": "text",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100436",
+    "file": "C100436_invoice.png",
+    "type": "image",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100343",
+    "file": "C100343_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100473",
+    "file": "C100473_invoice.txt",
+    "type": "text",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100080",
+    "file": "C100080_invoice.txt",
+    "type": "text",
+    "provider_id": "P1068"
+  },
+  {
+    "claim_id": "C100696",
+    "file": "C100696_invoice.txt",
+    "type": "text",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100979",
+    "file": "C100979_invoice.txt",
+    "type": "text",
+    "provider_id": "P1006"
+  },
+  {
+    "claim_id": "C100946",
+    "file": "C100946_invoice.txt",
+    "type": "text",
+    "provider_id": "P1026"
+  },
+  {
+    "claim_id": "C100946",
+    "file": "C100946_invoice.png",
+    "type": "image",
+    "provider_id": "P1026"
+  },
+  {
+    "claim_id": "C100030",
+    "file": "C100030_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100010",
+    "file": "C100010_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100890",
+    "file": "C100890_invoice.txt",
+    "type": "text",
+    "provider_id": "P1004"
+  },
+  {
+    "claim_id": "C100524",
+    "file": "C100524_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100795",
+    "file": "C100795_invoice.txt",
+    "type": "text",
+    "provider_id": "P1078"
+  },
+  {
+    "claim_id": "C100157",
+    "file": "C100157_invoice.txt",
+    "type": "text",
+    "provider_id": "P1075"
+  },
+  {
+    "claim_id": "C100157",
+    "file": "C100157_invoice.png",
+    "type": "image",
+    "provider_id": "P1075"
+  },
+  {
+    "claim_id": "C100346",
+    "file": "C100346_invoice.txt",
+    "type": "text",
+    "provider_id": "P1012"
+  },
+  {
+    "claim_id": "C100752",
+    "file": "C100752_invoice.txt",
+    "type": "text",
+    "provider_id": "P1077"
+  },
+  {
+    "claim_id": "C100257",
+    "file": "C100257_invoice.txt",
+    "type": "text",
+    "provider_id": "P1056"
+  },
+  {
+    "claim_id": "C100317",
+    "file": "C100317_invoice.txt",
+    "type": "text",
+    "provider_id": "P1065"
+  },
+  {
+    "claim_id": "C100317",
+    "file": "C100317_invoice.png",
+    "type": "image",
+    "provider_id": "P1065"
+  },
+  {
+    "claim_id": "C100496",
+    "file": "C100496_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100004",
+    "file": "C100004_invoice.txt",
+    "type": "text",
+    "provider_id": "P1072"
+  },
+  {
+    "claim_id": "C100710",
+    "file": "C100710_invoice.txt",
+    "type": "text",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100198",
+    "file": "C100198_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100116",
+    "file": "C100116_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100204",
+    "file": "C100204_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100692",
+    "file": "C100692_invoice.txt",
+    "type": "text",
+    "provider_id": "P1048"
+  },
+  {
+    "claim_id": "C100174",
+    "file": "C100174_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100701",
+    "file": "C100701_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100202",
+    "file": "C100202_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100756",
+    "file": "C100756_invoice.txt",
+    "type": "text",
+    "provider_id": "P1070"
+  },
+  {
+    "claim_id": "C100920",
+    "file": "C100920_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100119",
+    "file": "C100119_invoice.txt",
+    "type": "text",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100177",
+    "file": "C100177_invoice.txt",
+    "type": "text",
+    "provider_id": "P1014"
+  },
+  {
+    "claim_id": "C100275",
+    "file": "C100275_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100862",
+    "file": "C100862_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100013",
+    "file": "C100013_invoice.txt",
+    "type": "text",
+    "provider_id": "P1068"
+  },
+  {
+    "claim_id": "C100248",
+    "file": "C100248_invoice.txt",
+    "type": "text",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100909",
+    "file": "C100909_invoice.txt",
+    "type": "text",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100345",
+    "file": "C100345_invoice.txt",
+    "type": "text",
+    "provider_id": "P1028"
+  },
+  {
+    "claim_id": "C100345",
+    "file": "C100345_invoice.png",
+    "type": "image",
+    "provider_id": "P1028"
+  },
+  {
+    "claim_id": "C100941",
+    "file": "C100941_invoice.txt",
+    "type": "text",
+    "provider_id": "P1056"
+  },
+  {
+    "claim_id": "C100384",
+    "file": "C100384_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100894",
+    "file": "C100894_invoice.txt",
+    "type": "text",
+    "provider_id": "P1013"
+  },
+  {
+    "claim_id": "C100540",
+    "file": "C100540_invoice.txt",
+    "type": "text",
+    "provider_id": "P1059"
+  },
+  {
+    "claim_id": "C100540",
+    "file": "C100540_invoice.png",
+    "type": "image",
+    "provider_id": "P1059"
+  },
+  {
+    "claim_id": "C100567",
+    "file": "C100567_invoice.txt",
+    "type": "text",
+    "provider_id": "P1035"
+  },
+  {
+    "claim_id": "C100641",
+    "file": "C100641_invoice.txt",
+    "type": "text",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100641",
+    "file": "C100641_invoice.png",
+    "type": "image",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100129",
+    "file": "C100129_invoice.txt",
+    "type": "text",
+    "provider_id": "P1072"
+  },
+  {
+    "claim_id": "C100090",
+    "file": "C100090_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100305",
+    "file": "C100305_invoice.txt",
+    "type": "text",
+    "provider_id": "P1032"
+  },
+  {
+    "claim_id": "C100126",
+    "file": "C100126_invoice.txt",
+    "type": "text",
+    "provider_id": "P1044"
+  },
+  {
+    "claim_id": "C100963",
+    "file": "C100963_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100163",
+    "file": "C100163_invoice.txt",
+    "type": "text",
+    "provider_id": "P1006"
+  },
+  {
+    "claim_id": "C100111",
+    "file": "C100111_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100111",
+    "file": "C100111_invoice.png",
+    "type": "image",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100702",
+    "file": "C100702_invoice.txt",
+    "type": "text",
+    "provider_id": "P1050"
+  },
+  {
+    "claim_id": "C100859",
+    "file": "C100859_invoice.txt",
+    "type": "text",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100868",
+    "file": "C100868_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100453",
+    "file": "C100453_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100719",
+    "file": "C100719_invoice.txt",
+    "type": "text",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100728",
+    "file": "C100728_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100327",
+    "file": "C100327_invoice.txt",
+    "type": "text",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100502",
+    "file": "C100502_invoice.txt",
+    "type": "text",
+    "provider_id": "P1078"
+  },
+  {
+    "claim_id": "C100072",
+    "file": "C100072_invoice.txt",
+    "type": "text",
+    "provider_id": "P1052"
+  },
+  {
+    "claim_id": "C100002",
+    "file": "C100002_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100573",
+    "file": "C100573_invoice.txt",
+    "type": "text",
+    "provider_id": "P1004"
+  },
+  {
+    "claim_id": "C100825",
+    "file": "C100825_invoice.txt",
+    "type": "text",
+    "provider_id": "P1060"
+  },
+  {
+    "claim_id": "C100825",
+    "file": "C100825_invoice.png",
+    "type": "image",
+    "provider_id": "P1060"
+  },
+  {
+    "claim_id": "C100620",
+    "file": "C100620_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100012",
+    "file": "C100012_invoice.txt",
+    "type": "text",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100803",
+    "file": "C100803_invoice.txt",
+    "type": "text",
+    "provider_id": "P1073"
+  },
+  {
+    "claim_id": "C100883",
+    "file": "C100883_invoice.txt",
+    "type": "text",
+    "provider_id": "P1025"
+  },
+  {
+    "claim_id": "C100688",
+    "file": "C100688_invoice.txt",
+    "type": "text",
+    "provider_id": "P1028"
+  },
+  {
+    "claim_id": "C100427",
+    "file": "C100427_invoice.txt",
+    "type": "text",
+    "provider_id": "P1073"
+  },
+  {
+    "claim_id": "C100108",
+    "file": "C100108_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100108",
+    "file": "C100108_invoice.png",
+    "type": "image",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100740",
+    "file": "C100740_invoice.txt",
+    "type": "text",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100969",
+    "file": "C100969_invoice.txt",
+    "type": "text",
+    "provider_id": "P1022"
+  },
+  {
+    "claim_id": "C100969",
+    "file": "C100969_invoice.png",
+    "type": "image",
+    "provider_id": "P1022"
+  },
+  {
+    "claim_id": "C100181",
+    "file": "C100181_invoice.txt",
+    "type": "text",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100923",
+    "file": "C100923_invoice.txt",
+    "type": "text",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100948",
+    "file": "C100948_invoice.txt",
+    "type": "text",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100335",
+    "file": "C100335_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100335",
+    "file": "C100335_invoice.png",
+    "type": "image",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100308",
+    "file": "C100308_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100753",
+    "file": "C100753_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100304",
+    "file": "C100304_invoice.txt",
+    "type": "text",
+    "provider_id": "P1026"
+  },
+  {
+    "claim_id": "C100781",
+    "file": "C100781_invoice.txt",
+    "type": "text",
+    "provider_id": "P1063"
+  },
+  {
+    "claim_id": "C100530",
+    "file": "C100530_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100042",
+    "file": "C100042_invoice.txt",
+    "type": "text",
+    "provider_id": "P1000"
+  },
+  {
+    "claim_id": "C100042",
+    "file": "C100042_invoice.png",
+    "type": "image",
+    "provider_id": "P1000"
+  },
+  {
+    "claim_id": "C100356",
+    "file": "C100356_invoice.txt",
+    "type": "text",
+    "provider_id": "P1032"
+  },
+  {
+    "claim_id": "C100633",
+    "file": "C100633_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100791",
+    "file": "C100791_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100437",
+    "file": "C100437_invoice.txt",
+    "type": "text",
+    "provider_id": "P1020"
+  },
+  {
+    "claim_id": "C100771",
+    "file": "C100771_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100471",
+    "file": "C100471_invoice.txt",
+    "type": "text",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100294",
+    "file": "C100294_invoice.txt",
+    "type": "text",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100294",
+    "file": "C100294_invoice.png",
+    "type": "image",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100600",
+    "file": "C100600_invoice.txt",
+    "type": "text",
+    "provider_id": "P1048"
+  },
+  {
+    "claim_id": "C100867",
+    "file": "C100867_invoice.txt",
+    "type": "text",
+    "provider_id": "P1035"
+  },
+  {
+    "claim_id": "C100558",
+    "file": "C100558_invoice.txt",
+    "type": "text",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100854",
+    "file": "C100854_invoice.txt",
+    "type": "text",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100593",
+    "file": "C100593_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100777",
+    "file": "C100777_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100438",
+    "file": "C100438_invoice.txt",
+    "type": "text",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100340",
+    "file": "C100340_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100055",
+    "file": "C100055_invoice.txt",
+    "type": "text",
+    "provider_id": "P1068"
+  },
+  {
+    "claim_id": "C100786",
+    "file": "C100786_invoice.txt",
+    "type": "text",
+    "provider_id": "P1014"
+  },
+  {
+    "claim_id": "C100786",
+    "file": "C100786_invoice.png",
+    "type": "image",
+    "provider_id": "P1014"
+  },
+  {
+    "claim_id": "C100874",
+    "file": "C100874_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100344",
+    "file": "C100344_invoice.txt",
+    "type": "text",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100344",
+    "file": "C100344_invoice.png",
+    "type": "image",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100216",
+    "file": "C100216_invoice.txt",
+    "type": "text",
+    "provider_id": "P1010"
+  },
+  {
+    "claim_id": "C100460",
+    "file": "C100460_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100460",
+    "file": "C100460_invoice.png",
+    "type": "image",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100040",
+    "file": "C100040_invoice.txt",
+    "type": "text",
+    "provider_id": "P1011"
+  },
+  {
+    "claim_id": "C100642",
+    "file": "C100642_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100989",
+    "file": "C100989_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100899",
+    "file": "C100899_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100899",
+    "file": "C100899_invoice.png",
+    "type": "image",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100711",
+    "file": "C100711_invoice.txt",
+    "type": "text",
+    "provider_id": "P1019"
+  },
+  {
+    "claim_id": "C100178",
+    "file": "C100178_invoice.txt",
+    "type": "text",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100176",
+    "file": "C100176_invoice.txt",
+    "type": "text",
+    "provider_id": "P1075"
+  },
+  {
+    "claim_id": "C100492",
+    "file": "C100492_invoice.txt",
+    "type": "text",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100058",
+    "file": "C100058_invoice.txt",
+    "type": "text",
+    "provider_id": "P1078"
+  },
+  {
+    "claim_id": "C100457",
+    "file": "C100457_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100476",
+    "file": "C100476_invoice.txt",
+    "type": "text",
+    "provider_id": "P1056"
+  },
+  {
+    "claim_id": "C100016",
+    "file": "C100016_invoice.txt",
+    "type": "text",
+    "provider_id": "P1013"
+  },
+  {
+    "claim_id": "C100458",
+    "file": "C100458_invoice.txt",
+    "type": "text",
+    "provider_id": "P1003"
+  },
+  {
+    "claim_id": "C100458",
+    "file": "C100458_invoice.png",
+    "type": "image",
+    "provider_id": "P1003"
+  },
+  {
+    "claim_id": "C100700",
+    "file": "C100700_invoice.txt",
+    "type": "text",
+    "provider_id": "P1077"
+  },
+  {
+    "claim_id": "C100440",
+    "file": "C100440_invoice.txt",
+    "type": "text",
+    "provider_id": "P1050"
+  },
+  {
+    "claim_id": "C100686",
+    "file": "C100686_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100889",
+    "file": "C100889_invoice.txt",
+    "type": "text",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100459",
+    "file": "C100459_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100822",
+    "file": "C100822_invoice.txt",
+    "type": "text",
+    "provider_id": "P1012"
+  },
+  {
+    "claim_id": "C100822",
+    "file": "C100822_invoice.png",
+    "type": "image",
+    "provider_id": "P1012"
+  },
+  {
+    "claim_id": "C100877",
+    "file": "C100877_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100637",
+    "file": "C100637_invoice.txt",
+    "type": "text",
+    "provider_id": "P1025"
+  },
+  {
+    "claim_id": "C100659",
+    "file": "C100659_invoice.txt",
+    "type": "text",
+    "provider_id": "P1056"
+  },
+  {
+    "claim_id": "C100519",
+    "file": "C100519_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100417",
+    "file": "C100417_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100029",
+    "file": "C100029_invoice.txt",
+    "type": "text",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100955",
+    "file": "C100955_invoice.txt",
+    "type": "text",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100400",
+    "file": "C100400_invoice.txt",
+    "type": "text",
+    "provider_id": "P1057"
+  },
+  {
+    "claim_id": "C100669",
+    "file": "C100669_invoice.txt",
+    "type": "text",
+    "provider_id": "P1007"
+  },
+  {
+    "claim_id": "C100783",
+    "file": "C100783_invoice.txt",
+    "type": "text",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100429",
+    "file": "C100429_invoice.txt",
+    "type": "text",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100488",
+    "file": "C100488_invoice.txt",
+    "type": "text",
+    "provider_id": "P1013"
+  },
+  {
+    "claim_id": "C100488",
+    "file": "C100488_invoice.png",
+    "type": "image",
+    "provider_id": "P1013"
+  },
+  {
+    "claim_id": "C100203",
+    "file": "C100203_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100203",
+    "file": "C100203_invoice.png",
+    "type": "image",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100371",
+    "file": "C100371_invoice.txt",
+    "type": "text",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100032",
+    "file": "C100032_invoice.txt",
+    "type": "text",
+    "provider_id": "P1073"
+  },
+  {
+    "claim_id": "C100513",
+    "file": "C100513_invoice.txt",
+    "type": "text",
+    "provider_id": "P1059"
+  },
+  {
+    "claim_id": "C100996",
+    "file": "C100996_invoice.txt",
+    "type": "text",
+    "provider_id": "P1014"
+  },
+  {
+    "claim_id": "C100967",
+    "file": "C100967_invoice.txt",
+    "type": "text",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100967",
+    "file": "C100967_invoice.png",
+    "type": "image",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100156",
+    "file": "C100156_invoice.txt",
+    "type": "text",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100572",
+    "file": "C100572_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100826",
+    "file": "C100826_invoice.txt",
+    "type": "text",
+    "provider_id": "P1010"
+  },
+  {
+    "claim_id": "C100334",
+    "file": "C100334_invoice.txt",
+    "type": "text",
+    "provider_id": "P1043"
+  },
+  {
+    "claim_id": "C100382",
+    "file": "C100382_invoice.txt",
+    "type": "text",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100529",
+    "file": "C100529_invoice.txt",
+    "type": "text",
+    "provider_id": "P1006"
+  },
+  {
+    "claim_id": "C100372",
+    "file": "C100372_invoice.txt",
+    "type": "text",
+    "provider_id": "P1030"
+  },
+  {
+    "claim_id": "C100891",
+    "file": "C100891_invoice.txt",
+    "type": "text",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100579",
+    "file": "C100579_invoice.txt",
+    "type": "text",
+    "provider_id": "P1035"
+  },
+  {
+    "claim_id": "C100601",
+    "file": "C100601_invoice.txt",
+    "type": "text",
+    "provider_id": "P1063"
+  },
+  {
+    "claim_id": "C100003",
+    "file": "C100003_invoice.txt",
+    "type": "text",
+    "provider_id": "P1004"
+  },
+  {
+    "claim_id": "C100663",
+    "file": "C100663_invoice.txt",
+    "type": "text",
+    "provider_id": "P1044"
+  },
+  {
+    "claim_id": "C100747",
+    "file": "C100747_invoice.txt",
+    "type": "text",
+    "provider_id": "P1057"
+  },
+  {
+    "claim_id": "C100130",
+    "file": "C100130_invoice.txt",
+    "type": "text",
+    "provider_id": "P1047"
+  },
+  {
+    "claim_id": "C100626",
+    "file": "C100626_invoice.txt",
+    "type": "text",
+    "provider_id": "P1064"
+  },
+  {
+    "claim_id": "C100624",
+    "file": "C100624_invoice.txt",
+    "type": "text",
+    "provider_id": "P1066"
+  },
+  {
+    "claim_id": "C100342",
+    "file": "C100342_invoice.txt",
+    "type": "text",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100835",
+    "file": "C100835_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100041",
+    "file": "C100041_invoice.txt",
+    "type": "text",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100321",
+    "file": "C100321_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100222",
+    "file": "C100222_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100328",
+    "file": "C100328_invoice.txt",
+    "type": "text",
+    "provider_id": "P1005"
+  },
+  {
+    "claim_id": "C100916",
+    "file": "C100916_invoice.txt",
+    "type": "text",
+    "provider_id": "P1012"
+  },
+  {
+    "claim_id": "C100511",
+    "file": "C100511_invoice.txt",
+    "type": "text",
+    "provider_id": "P1065"
+  },
+  {
+    "claim_id": "C100113",
+    "file": "C100113_invoice.txt",
+    "type": "text",
+    "provider_id": "P1059"
+  },
+  {
+    "claim_id": "C100048",
+    "file": "C100048_invoice.txt",
+    "type": "text",
+    "provider_id": "P1023"
+  },
+  {
+    "claim_id": "C100289",
+    "file": "C100289_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100076",
+    "file": "C100076_invoice.txt",
+    "type": "text",
+    "provider_id": "P1048"
+  },
+  {
+    "claim_id": "C100206",
+    "file": "C100206_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100978",
+    "file": "C100978_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100447",
+    "file": "C100447_invoice.txt",
+    "type": "text",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100285",
+    "file": "C100285_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100285",
+    "file": "C100285_invoice.png",
+    "type": "image",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100936",
+    "file": "C100936_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100386",
+    "file": "C100386_invoice.txt",
+    "type": "text",
+    "provider_id": "P1042"
+  },
+  {
+    "claim_id": "C100225",
+    "file": "C100225_invoice.txt",
+    "type": "text",
+    "provider_id": "P1030"
+  },
+  {
+    "claim_id": "C100707",
+    "file": "C100707_invoice.txt",
+    "type": "text",
+    "provider_id": "P1009"
+  },
+  {
+    "claim_id": "C100707",
+    "file": "C100707_invoice.png",
+    "type": "image",
+    "provider_id": "P1009"
+  },
+  {
+    "claim_id": "C100120",
+    "file": "C100120_invoice.txt",
+    "type": "text",
+    "provider_id": "P1016"
+  },
+  {
+    "claim_id": "C100990",
+    "file": "C100990_invoice.txt",
+    "type": "text",
+    "provider_id": "P1009"
+  },
+  {
+    "claim_id": "C100512",
+    "file": "C100512_invoice.txt",
+    "type": "text",
+    "provider_id": "P1065"
+  },
+  {
+    "claim_id": "C100512",
+    "file": "C100512_invoice.png",
+    "type": "image",
+    "provider_id": "P1065"
+  },
+  {
+    "claim_id": "C100456",
+    "file": "C100456_invoice.txt",
+    "type": "text",
+    "provider_id": "P1002"
+  },
+  {
+    "claim_id": "C100387",
+    "file": "C100387_invoice.txt",
+    "type": "text",
+    "provider_id": "P1051"
+  },
+  {
+    "claim_id": "C100595",
+    "file": "C100595_invoice.txt",
+    "type": "text",
+    "provider_id": "P1057"
+  },
+  {
+    "claim_id": "C100221",
+    "file": "C100221_invoice.txt",
+    "type": "text",
+    "provider_id": "P1003"
+  },
+  {
+    "claim_id": "C100268",
+    "file": "C100268_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100171",
+    "file": "C100171_invoice.txt",
+    "type": "text",
+    "provider_id": "P1027"
+  },
+  {
+    "claim_id": "C100773",
+    "file": "C100773_invoice.txt",
+    "type": "text",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100768",
+    "file": "C100768_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100684",
+    "file": "C100684_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100544",
+    "file": "C100544_invoice.txt",
+    "type": "text",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100544",
+    "file": "C100544_invoice.png",
+    "type": "image",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100884",
+    "file": "C100884_invoice.txt",
+    "type": "text",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100884",
+    "file": "C100884_invoice.png",
+    "type": "image",
+    "provider_id": "P1058"
+  },
+  {
+    "claim_id": "C100864",
+    "file": "C100864_invoice.txt",
+    "type": "text",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100765",
+    "file": "C100765_invoice.txt",
+    "type": "text",
+    "provider_id": "P1035"
+  },
+  {
+    "claim_id": "C100123",
+    "file": "C100123_invoice.txt",
+    "type": "text",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100123",
+    "file": "C100123_invoice.png",
+    "type": "image",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100915",
+    "file": "C100915_invoice.txt",
+    "type": "text",
+    "provider_id": "P1019"
+  },
+  {
+    "claim_id": "C100180",
+    "file": "C100180_invoice.txt",
+    "type": "text",
+    "provider_id": "P1036"
+  },
+  {
+    "claim_id": "C100161",
+    "file": "C100161_invoice.txt",
+    "type": "text",
+    "provider_id": "P1062"
+  },
+  {
+    "claim_id": "C100704",
+    "file": "C100704_invoice.txt",
+    "type": "text",
+    "provider_id": "P1009"
+  },
+  {
+    "claim_id": "C100265",
+    "file": "C100265_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100734",
+    "file": "C100734_invoice.txt",
+    "type": "text",
+    "provider_id": "P1037"
+  },
+  {
+    "claim_id": "C100117",
+    "file": "C100117_invoice.txt",
+    "type": "text",
+    "provider_id": "P1077"
+  },
+  {
+    "claim_id": "C100844",
+    "file": "C100844_invoice.txt",
+    "type": "text",
+    "provider_id": "P1029"
+  },
+  {
+    "claim_id": "C100962",
+    "file": "C100962_invoice.txt",
+    "type": "text",
+    "provider_id": "P1049"
+  },
+  {
+    "claim_id": "C100763",
+    "file": "C100763_invoice.txt",
+    "type": "text",
+    "provider_id": "P1050"
+  },
+  {
+    "claim_id": "C100763",
+    "file": "C100763_invoice.png",
+    "type": "image",
+    "provider_id": "P1050"
+  },
+  {
+    "claim_id": "C100521",
+    "file": "C100521_invoice.txt",
+    "type": "text",
+    "provider_id": "P1069"
+  },
+  {
+    "claim_id": "C100672",
+    "file": "C100672_invoice.txt",
+    "type": "text",
+    "provider_id": "P1034"
+  },
+  {
+    "claim_id": "C100998",
+    "file": "C100998_invoice.txt",
+    "type": "text",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100468",
+    "file": "C100468_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100597",
+    "file": "C100597_invoice.txt",
+    "type": "text",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100597",
+    "file": "C100597_invoice.png",
+    "type": "image",
+    "provider_id": "P1076"
+  },
+  {
+    "claim_id": "C100240",
+    "file": "C100240_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100134",
+    "file": "C100134_invoice.txt",
+    "type": "text",
+    "provider_id": "P1013"
+  },
+  {
+    "claim_id": "C100155",
+    "file": "C100155_invoice.txt",
+    "type": "text",
+    "provider_id": "P1015"
+  },
+  {
+    "claim_id": "C100353",
+    "file": "C100353_invoice.txt",
+    "type": "text",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100353",
+    "file": "C100353_invoice.png",
+    "type": "image",
+    "provider_id": "P1024"
+  },
+  {
+    "claim_id": "C100139",
+    "file": "C100139_invoice.txt",
+    "type": "text",
+    "provider_id": "P1019"
+  },
+  {
+    "claim_id": "C100932",
+    "file": "C100932_invoice.txt",
+    "type": "text",
+    "provider_id": "P1073"
+  },
+  {
+    "claim_id": "C100965",
+    "file": "C100965_invoice.txt",
+    "type": "text",
+    "provider_id": "P1077"
+  },
+  {
+    "claim_id": "C100060",
+    "file": "C100060_invoice.txt",
+    "type": "text",
+    "provider_id": "P1017"
+  },
+  {
+    "claim_id": "C100352",
+    "file": "C100352_invoice.txt",
+    "type": "text",
+    "provider_id": "P1030"
+  },
+  {
+    "claim_id": "C100352",
+    "file": "C100352_invoice.png",
+    "type": "image",
+    "provider_id": "P1030"
+  },
+  {
+    "claim_id": "C100643",
+    "file": "C100643_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100165",
+    "file": "C100165_invoice.txt",
+    "type": "text",
+    "provider_id": "P1006"
+  },
+  {
+    "claim_id": "C100960",
+    "file": "C100960_invoice.txt",
+    "type": "text",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100960",
+    "file": "C100960_invoice.png",
+    "type": "image",
+    "provider_id": "P1074"
+  },
+  {
+    "claim_id": "C100879",
+    "file": "C100879_invoice.txt",
+    "type": "text",
+    "provider_id": "P1033"
+  },
+  {
+    "claim_id": "C100300",
+    "file": "C100300_invoice.txt",
+    "type": "text",
+    "provider_id": "P1053"
+  },
+  {
+    "claim_id": "C100214",
+    "file": "C100214_invoice.txt",
+    "type": "text",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100214",
+    "file": "C100214_invoice.png",
+    "type": "image",
+    "provider_id": "P1018"
+  },
+  {
+    "claim_id": "C100407",
+    "file": "C100407_invoice.txt",
+    "type": "text",
+    "provider_id": "P1056"
+  },
+  {
+    "claim_id": "C100882",
+    "file": "C100882_invoice.txt",
+    "type": "text",
+    "provider_id": "P1067"
+  },
+  {
+    "claim_id": "C100297",
+    "file": "C100297_invoice.txt",
+    "type": "text",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100297",
+    "file": "C100297_invoice.png",
+    "type": "image",
+    "provider_id": "P1041"
+  },
+  {
+    "claim_id": "C100394",
+    "file": "C100394_invoice.txt",
+    "type": "text",
+    "provider_id": "P1045"
+  },
+  {
+    "claim_id": "C100131",
+    "file": "C100131_invoice.txt",
+    "type": "text",
+    "provider_id": "P1014"
+  },
+  {
+    "claim_id": "C100314",
+    "file": "C100314_invoice.txt",
+    "type": "text",
+    "provider_id": "P1055"
+  },
+  {
+    "claim_id": "C100911",
+    "file": "C100911_invoice.txt",
+    "type": "text",
+    "provider_id": "P1025"
+  },
+  {
+    "claim_id": "C100738",
+    "file": "C100738_invoice.txt",
+    "type": "text",
+    "provider_id": "P1001"
+  },
+  {
+    "claim_id": "C100731",
+    "file": "C100731_invoice.txt",
+    "type": "text",
+    "provider_id": "P1028"
+  },
+  {
+    "claim_id": "C100416",
+    "file": "C100416_invoice.txt",
+    "type": "text",
+    "provider_id": "P1009"
+  },
+  {
+    "claim_id": "C100565",
+    "file": "C100565_invoice.txt",
+    "type": "text",
+    "provider_id": "P1061"
+  },
+  {
+    "claim_id": "C100038",
+    "file": "C100038_invoice.txt",
+    "type": "text",
+    "provider_id": "P1009"
+  },
+  {
+    "claim_id": "C100470",
+    "file": "C100470_invoice.txt",
+    "type": "text",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100470",
+    "file": "C100470_invoice.png",
+    "type": "image",
+    "provider_id": "P1071"
+  },
+  {
+    "claim_id": "C100249",
+    "file": "C100249_invoice.txt",
+    "type": "text",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100249",
+    "file": "C100249_invoice.png",
+    "type": "image",
+    "provider_id": "P1079"
+  },
+  {
+    "claim_id": "C100505",
+    "file": "C100505_invoice.txt",
+    "type": "text",
+    "provider_id": "P1068"
+  },
+  {
+    "claim_id": "C100402",
+    "file": "C100402_invoice.txt",
+    "type": "text",
+    "provider_id": "P1035"
+  },
+  {
+    "claim_id": "C100053",
+    "file": "C100053_invoice.txt",
+    "type": "text",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100053",
+    "file": "C100053_invoice.png",
+    "type": "image",
+    "provider_id": "P1038"
+  },
+  {
+    "claim_id": "C100194",
+    "file": "C100194_invoice.txt",
+    "type": "text",
+    "provider_id": "P1046"
+  },
+  {
+    "claim_id": "C100136",
+    "file": "C100136_invoice.txt",
+    "type": "text",
+    "provider_id": "P1054"
+  },
+  {
+    "claim_id": "C100581",
+    "file": "C100581_invoice.txt",
+    "type": "text",
+    "provider_id": "P1050"
+  },
+  {
+    "claim_id": "C100662",
+    "file": "C100662_invoice.txt",
+    "type": "text",
+    "provider_id": "P1015"
+  },
+  {
+    "claim_id": "C100671",
+    "file": "C100671_invoice.txt",
+    "type": "text",
+    "provider_id": "P1031"
+  },
+  {
+    "claim_id": "C100671",
+    "file": "C100671_invoice.png",
+    "type": "image",
+    "provider_id": "P1031"
+  }
+]

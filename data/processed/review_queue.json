@@ -1,0 +1,758 @@
+[
+  {
+    "claim_id": "C100114",
+    "provider_id": "P1074",
+    "amount": 85783.55,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100672_C100672_invoice.txt_chunk0",
+        "claim_id": "C100672",
+        "distance": 0.43496954441070557,
+        "text_preview": "Invoice ID: C100672\nProvider: P1034\nPatient: U2295\nProcedure: PROC_SURG\nAmount: 23707.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100840_C100840_invoice.txt_chunk0",
+        "claim_id": "C100840",
+        "distance": 0.4380590319633484,
+        "text_preview": "Invoice ID: C100840\nProvider: P1077\nPatient: U2316\nProcedure: PROC_SURG\nAmount: 22105.48\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100089_C100089_invoice.txt_chunk0",
+        "claim_id": "C100089",
+        "distance": 0.43897369503974915,
+        "text_preview": "Invoice ID: C100089\nProvider: P1051\nPatient: U2167\nProcedure: PROC_SURG\nAmount: 22500.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100136_C100136_invoice.txt_chunk0",
+        "claim_id": "C100136",
+        "distance": 0.4430893659591675,
+        "text_preview": "Invoice ID: C100136\nProvider: P1054\nPatient: U2272\nProcedure: PROC_SURG\nAmount: 15067.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100471_C100471_invoice.txt_chunk0",
+        "claim_id": "C100471",
+        "distance": 0.44852355122566223,
+        "text_preview": "Invoice ID: C100471\nProvider: P1036\nPatient: U2394\nProcedure: PROC_SURG\nAmount: 18008.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100892",
+    "provider_id": "P1002",
+    "amount": 73359.75,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100672_C100672_invoice.txt_chunk0",
+        "claim_id": "C100672",
+        "distance": 0.4380594789981842,
+        "text_preview": "Invoice ID: C100672\nProvider: P1034\nPatient: U2295\nProcedure: PROC_SURG\nAmount: 23707.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100840_C100840_invoice.txt_chunk0",
+        "claim_id": "C100840",
+        "distance": 0.4432936906814575,
+        "text_preview": "Invoice ID: C100840\nProvider: P1077\nPatient: U2316\nProcedure: PROC_SURG\nAmount: 22105.48\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100089_C100089_invoice.txt_chunk0",
+        "claim_id": "C100089",
+        "distance": 0.44706714153289795,
+        "text_preview": "Invoice ID: C100089\nProvider: P1051\nPatient: U2167\nProcedure: PROC_SURG\nAmount: 22500.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100136_C100136_invoice.txt_chunk0",
+        "claim_id": "C100136",
+        "distance": 0.4517170786857605,
+        "text_preview": "Invoice ID: C100136\nProvider: P1054\nPatient: U2272\nProcedure: PROC_SURG\nAmount: 15067.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100803_C100803_invoice.txt_chunk0",
+        "claim_id": "C100803",
+        "distance": 0.4578814208507538,
+        "text_preview": "Invoice ID: C100803\nProvider: P1073\nPatient: U2403\nProcedure: PROC_SURG\nAmount: 11100.36\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100125",
+    "provider_id": "P1010",
+    "amount": 44250.18,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.4422162175178528,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100617_C100617_invoice.txt_chunk0",
+        "claim_id": "C100617",
+        "distance": 0.4495825469493866,
+        "text_preview": "Invoice ID: C100617\nProvider: P1074\nPatient: U2245\nProcedure: PROC_D\nAmount: 5432.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100169_C100169_invoice.txt_chunk0",
+        "claim_id": "C100169",
+        "distance": 0.4528951644897461,
+        "text_preview": "Invoice ID: C100169\nProvider: P1075\nPatient: U2152\nProcedure: PROC_D\nAmount: 4081.62\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100578_C100578_invoice.txt_chunk0",
+        "claim_id": "C100578",
+        "distance": 0.45543575286865234,
+        "text_preview": "Invoice ID: C100578\nProvider: P1072\nPatient: U2454\nProcedure: PROC_D\nAmount: 5725.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100819_C100819_invoice.txt_chunk0",
+        "claim_id": "C100819",
+        "distance": 0.45743775367736816,
+        "text_preview": "Invoice ID: C100819\nProvider: P1047\nPatient: U2094\nProcedure: PROC_D\nAmount: 5252.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100737",
+    "provider_id": "P1000",
+    "amount": 38189.05,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.47512882947921753,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100007_C100007_invoice.txt_chunk0",
+        "claim_id": "C100007",
+        "distance": 0.4760127067565918,
+        "text_preview": "Invoice ID: C100007\nProvider: P1074\nPatient: U2382\nProcedure: PROC_D\nAmount: 7660.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100578_C100578_invoice.txt_chunk0",
+        "claim_id": "C100578",
+        "distance": 0.4766767621040344,
+        "text_preview": "Invoice ID: C100578\nProvider: P1072\nPatient: U2454\nProcedure: PROC_D\nAmount: 5725.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100819_C100819_invoice.txt_chunk0",
+        "claim_id": "C100819",
+        "distance": 0.47974079847335815,
+        "text_preview": "Invoice ID: C100819\nProvider: P1047\nPatient: U2094\nProcedure: PROC_D\nAmount: 5252.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100141_C100141_invoice.txt_chunk0",
+        "claim_id": "C100141",
+        "distance": 0.4820208251476288,
+        "text_preview": "Invoice ID: C100141\nProvider: P1061\nPatient: U2396\nProcedure: PROC_D\nAmount: 7350.49\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100783",
+    "provider_id": "P1067",
+    "amount": 36926.04,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100007_C100007_invoice.txt_chunk0",
+        "claim_id": "C100007",
+        "distance": 0.4472326338291168,
+        "text_preview": "Invoice ID: C100007\nProvider: P1074\nPatient: U2382\nProcedure: PROC_D\nAmount: 7660.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.4520303010940552,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100578_C100578_invoice.txt_chunk0",
+        "claim_id": "C100578",
+        "distance": 0.4531164765357971,
+        "text_preview": "Invoice ID: C100578\nProvider: P1072\nPatient: U2454\nProcedure: PROC_D\nAmount: 5725.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100617_C100617_invoice.txt_chunk0",
+        "claim_id": "C100617",
+        "distance": 0.4545893371105194,
+        "text_preview": "Invoice ID: C100617\nProvider: P1074\nPatient: U2245\nProcedure: PROC_D\nAmount: 5432.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100819_C100819_invoice.txt_chunk0",
+        "claim_id": "C100819",
+        "distance": 0.45629453659057617,
+        "text_preview": "Invoice ID: C100819\nProvider: P1047\nPatient: U2094\nProcedure: PROC_D\nAmount: 5252.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100798",
+    "provider_id": "P1042",
+    "amount": 23377.59,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.43339595198631287,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100578_C100578_invoice.txt_chunk0",
+        "claim_id": "C100578",
+        "distance": 0.4343872666358948,
+        "text_preview": "Invoice ID: C100578\nProvider: P1072\nPatient: U2454\nProcedure: PROC_D\nAmount: 5725.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100007_C100007_invoice.txt_chunk0",
+        "claim_id": "C100007",
+        "distance": 0.4345642626285553,
+        "text_preview": "Invoice ID: C100007\nProvider: P1074\nPatient: U2382\nProcedure: PROC_D\nAmount: 7660.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100819_C100819_invoice.txt_chunk0",
+        "claim_id": "C100819",
+        "distance": 0.4394932985305786,
+        "text_preview": "Invoice ID: C100819\nProvider: P1047\nPatient: U2094\nProcedure: PROC_D\nAmount: 5252.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100771_C100771_invoice.txt_chunk0",
+        "claim_id": "C100771",
+        "distance": 0.4422021806240082,
+        "text_preview": "Invoice ID: C100771\nProvider: P1069\nPatient: U2245\nProcedure: PROC_D\nAmount: 5343.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100566",
+    "provider_id": "P1070",
+    "amount": 16958.16,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100169_C100169_invoice.txt_chunk0",
+        "claim_id": "C100169",
+        "distance": 0.4844118654727936,
+        "text_preview": "Invoice ID: C100169\nProvider: P1075\nPatient: U2152\nProcedure: PROC_D\nAmount: 4081.62\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100578_C100578_invoice.txt_chunk0",
+        "claim_id": "C100578",
+        "distance": 0.486458957195282,
+        "text_preview": "Invoice ID: C100578\nProvider: P1072\nPatient: U2454\nProcedure: PROC_D\nAmount: 5725.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100819_C100819_invoice.txt_chunk0",
+        "claim_id": "C100819",
+        "distance": 0.4869909882545471,
+        "text_preview": "Invoice ID: C100819\nProvider: P1047\nPatient: U2094\nProcedure: PROC_D\nAmount: 5252.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100007_C100007_invoice.txt_chunk0",
+        "claim_id": "C100007",
+        "distance": 0.4877576231956482,
+        "text_preview": "Invoice ID: C100007\nProvider: P1074\nPatient: U2382\nProcedure: PROC_D\nAmount: 7660.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.48970386385917664,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100028",
+    "provider_id": "P1075",
+    "amount": 11361.91,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.44210949540138245,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100768_C100768_invoice.txt_chunk0",
+        "claim_id": "C100768",
+        "distance": 0.46216124296188354,
+        "text_preview": "Invoice ID: C100768\nProvider: P1049\nPatient: U2143\nProcedure: PROC_B\nAmount: 2607.37\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100717_C100717_invoice.txt_chunk0",
+        "claim_id": "C100717",
+        "distance": 0.4643368422985077,
+        "text_preview": "Invoice ID: C100717\nProvider: P1001\nPatient: U2359\nProcedure: PROC_B\nAmount: 3176.83\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100600_C100600_invoice.txt_chunk0",
+        "claim_id": "C100600",
+        "distance": 0.4655105769634247,
+        "text_preview": "Invoice ID: C100600\nProvider: P1048\nPatient: U2350\nProcedure: PROC_B\nAmount: 2865.36\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100203_C100203_invoice.txt_chunk0",
+        "claim_id": "C100203",
+        "distance": 0.4669569730758667,
+        "text_preview": "Invoice ID: C100203\nProvider: P1049\nPatient: U2074\nProcedure: PROC_B\nAmount: 2851.63\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100266",
+    "provider_id": "P1003",
+    "amount": 8770.87,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.42973554134368896,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100502_C100502_invoice.txt_chunk0",
+        "claim_id": "C100502",
+        "distance": 0.45401531457901,
+        "text_preview": "Invoice ID: C100502\nProvider: P1078\nPatient: U2188\nProcedure: PROC_B\nAmount: 1541.33\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100868_C100868_invoice.txt_chunk0",
+        "claim_id": "C100868",
+        "distance": 0.4545491933822632,
+        "text_preview": "Invoice ID: C100868\nProvider: P1038\nPatient: U2133\nProcedure: PROC_B\nAmount: 3128.03\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100756_C100756_invoice.txt_chunk0",
+        "claim_id": "C100756",
+        "distance": 0.4547078311443329,
+        "text_preview": "Invoice ID: C100756\nProvider: P1070\nPatient: U2284\nProcedure: PROC_B\nAmount: 2120.72\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100884_C100884_invoice.txt_chunk0",
+        "claim_id": "C100884",
+        "distance": 0.45693331956863403,
+        "text_preview": "Invoice ID: C100884\nProvider: P1058\nPatient: U2457\nProcedure: PROC_B\nAmount: 2853.63\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100716",
+    "provider_id": "P1022",
+    "amount": 7756.36,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100161_C100161_invoice.txt_chunk0",
+        "claim_id": "C100161",
+        "distance": 0.4629563093185425,
+        "text_preview": "Invoice ID: C100161\nProvider: P1062\nPatient: U2326\nProcedure: PROC_A\nAmount: 664.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100577_C100577_invoice.txt_chunk0",
+        "claim_id": "C100577",
+        "distance": 0.4686950743198395,
+        "text_preview": "Invoice ID: C100577\nProvider: P1067\nPatient: U2458\nProcedure: PROC_A\nAmount: 653.86\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100007_C100007_invoice.txt_chunk0",
+        "claim_id": "C100007",
+        "distance": 0.4734303057193756,
+        "text_preview": "Invoice ID: C100007\nProvider: P1074\nPatient: U2382\nProcedure: PROC_D\nAmount: 7660.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.47507116198539734,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.47584569454193115,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100487",
+    "provider_id": "P1037",
+    "amount": 5537.56,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100577_C100577_invoice.txt_chunk0",
+        "claim_id": "C100577",
+        "distance": 0.49748852849006653,
+        "text_preview": "Invoice ID: C100577\nProvider: P1067\nPatient: U2458\nProcedure: PROC_A\nAmount: 653.86\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.500087559223175,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100161_C100161_invoice.txt_chunk0",
+        "claim_id": "C100161",
+        "distance": 0.5014156699180603,
+        "text_preview": "Invoice ID: C100161\nProvider: P1062\nPatient: U2326\nProcedure: PROC_A\nAmount: 664.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.5055104494094849,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100578_C100578_invoice.txt_chunk0",
+        "claim_id": "C100578",
+        "distance": 0.5105825662612915,
+        "text_preview": "Invoice ID: C100578\nProvider: P1072\nPatient: U2454\nProcedure: PROC_D\nAmount: 5725.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100980",
+    "provider_id": "P1070",
+    "amount": 4995.95,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100161_C100161_invoice.txt_chunk0",
+        "claim_id": "C100161",
+        "distance": 0.4976452589035034,
+        "text_preview": "Invoice ID: C100161\nProvider: P1062\nPatient: U2326\nProcedure: PROC_A\nAmount: 664.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100089_C100089_invoice.txt_chunk0",
+        "claim_id": "C100089",
+        "distance": 0.49845248460769653,
+        "text_preview": "Invoice ID: C100089\nProvider: P1051\nPatient: U2167\nProcedure: PROC_SURG\nAmount: 22500.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100577_C100577_invoice.txt_chunk0",
+        "claim_id": "C100577",
+        "distance": 0.49930500984191895,
+        "text_preview": "Invoice ID: C100577\nProvider: P1067\nPatient: U2458\nProcedure: PROC_A\nAmount: 653.86\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.5044963955879211,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100512_C100512_invoice.txt_chunk0",
+        "claim_id": "C100512",
+        "distance": 0.5069130063056946,
+        "text_preview": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100738",
+    "provider_id": "P1001",
+    "amount": 4703.97,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100732_C100732_invoice.txt_chunk0",
+        "claim_id": "C100732",
+        "distance": 0.4706366956233978,
+        "text_preview": "Invoice ID: C100732\nProvider: P1059\nPatient: U2035\nProcedure: PROC_C\nAmount: 386.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.47316569089889526,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100400_C100400_invoice.txt_chunk0",
+        "claim_id": "C100400",
+        "distance": 0.4734305739402771,
+        "text_preview": "Invoice ID: C100400\nProvider: P1057\nPatient: U2347\nProcedure: PROC_C\nAmount: 506.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100391_C100391_invoice.txt_chunk0",
+        "claim_id": "C100391",
+        "distance": 0.4792657494544983,
+        "text_preview": "Invoice ID: C100391\nProvider: P1037\nPatient: U2279\nProcedure: PROC_C\nAmount: 627.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100470_C100470_invoice.txt_chunk0",
+        "claim_id": "C100470",
+        "distance": 0.48385727405548096,
+        "text_preview": "Invoice ID: C100470\nProvider: P1071\nPatient: U2142\nProcedure: PROC_C\nAmount: 439.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100757",
+    "provider_id": "P1017",
+    "amount": 3577.23,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100161_C100161_invoice.txt_chunk0",
+        "claim_id": "C100161",
+        "distance": 0.49515578150749207,
+        "text_preview": "Invoice ID: C100161\nProvider: P1062\nPatient: U2326\nProcedure: PROC_A\nAmount: 664.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100577_C100577_invoice.txt_chunk0",
+        "claim_id": "C100577",
+        "distance": 0.49575483798980713,
+        "text_preview": "Invoice ID: C100577\nProvider: P1067\nPatient: U2458\nProcedure: PROC_A\nAmount: 653.86\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.49751025438308716,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100672_C100672_invoice.txt_chunk0",
+        "claim_id": "C100672",
+        "distance": 0.5047589540481567,
+        "text_preview": "Invoice ID: C100672\nProvider: P1034\nPatient: U2295\nProcedure: PROC_SURG\nAmount: 23707.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100752_C100752_invoice.txt_chunk0",
+        "claim_id": "C100752",
+        "distance": 0.5068498849868774,
+        "text_preview": "Invoice ID: C100752\nProvider: P1077\nPatient: U2155\nProcedure: PROC_A\nAmount: 1264.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100365",
+    "provider_id": "P1057",
+    "amount": 2880.96,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100235_C100235_invoice.txt_chunk0",
+        "claim_id": "C100235",
+        "distance": 0.454321026802063,
+        "text_preview": "Invoice ID: C100235\nProvider: P1029\nPatient: U2397\nProcedure: PROC_XRAY\nAmount: 1240.69\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100567_C100567_invoice.txt_chunk0",
+        "claim_id": "C100567",
+        "distance": 0.4591958820819855,
+        "text_preview": "Invoice ID: C100567\nProvider: P1035\nPatient: U2369\nProcedure: PROC_XRAY\nAmount: 790.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100258_C100258_invoice.txt_chunk0",
+        "claim_id": "C100258",
+        "distance": 0.4647975564002991,
+        "text_preview": "Invoice ID: C100258\nProvider: P1047\nPatient: U2050\nProcedure: PROC_XRAY\nAmount: 599.66\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100185_C100185_invoice.txt_chunk0",
+        "claim_id": "C100185",
+        "distance": 0.46492505073547363,
+        "text_preview": "Invoice ID: C100185\nProvider: P1034\nPatient: U2420\nProcedure: PROC_XRAY\nAmount: 876.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100223_C100223_invoice.txt_chunk0",
+        "claim_id": "C100223",
+        "distance": 0.4664101004600525,
+        "text_preview": "Invoice ID: C100223\nProvider: P1052\nPatient: U2271\nProcedure: PROC_XRAY\nAmount: 836.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100842",
+    "provider_id": "P1034",
+    "amount": 2503.25,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100400_C100400_invoice.txt_chunk0",
+        "claim_id": "C100400",
+        "distance": 0.4797692894935608,
+        "text_preview": "Invoice ID: C100400\nProvider: P1057\nPatient: U2347\nProcedure: PROC_C\nAmount: 506.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100732_C100732_invoice.txt_chunk0",
+        "claim_id": "C100732",
+        "distance": 0.48159658908843994,
+        "text_preview": "Invoice ID: C100732\nProvider: P1059\nPatient: U2035\nProcedure: PROC_C\nAmount: 386.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100701_C100701_invoice.txt_chunk0",
+        "claim_id": "C100701",
+        "distance": 0.4827544093132019,
+        "text_preview": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100230_C100230_invoice.txt_chunk0",
+        "claim_id": "C100230",
+        "distance": 0.4902972877025604,
+        "text_preview": "Invoice ID: C100230\nProvider: P1058\nPatient: U2128\nProcedure: PROC_C\nAmount: 525.69\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100391_C100391_invoice.txt_chunk0",
+        "claim_id": "C100391",
+        "distance": 0.4903428554534912,
+        "text_preview": "Invoice ID: C100391\nProvider: P1037\nPatient: U2279\nProcedure: PROC_C\nAmount: 627.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100027",
+    "provider_id": "P1008",
+    "amount": 2253.73,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100391_C100391_invoice.txt_chunk0",
+        "claim_id": "C100391",
+        "distance": 0.47704654932022095,
+        "text_preview": "Invoice ID: C100391\nProvider: P1037\nPatient: U2279\nProcedure: PROC_C\nAmount: 627.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100732_C100732_invoice.txt_chunk0",
+        "claim_id": "C100732",
+        "distance": 0.47956734895706177,
+        "text_preview": "Invoice ID: C100732\nProvider: P1059\nPatient: U2035\nProcedure: PROC_C\nAmount: 386.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100400_C100400_invoice.txt_chunk0",
+        "claim_id": "C100400",
+        "distance": 0.48398637771606445,
+        "text_preview": "Invoice ID: C100400\nProvider: P1057\nPatient: U2347\nProcedure: PROC_C\nAmount: 506.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100470_C100470_invoice.txt_chunk0",
+        "claim_id": "C100470",
+        "distance": 0.48657187819480896,
+        "text_preview": "Invoice ID: C100470\nProvider: P1071\nPatient: U2142\nProcedure: PROC_C\nAmount: 439.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100344_C100344_invoice.txt_chunk0",
+        "claim_id": "C100344",
+        "distance": 0.48667484521865845,
+        "text_preview": "Invoice ID: C100344\nProvider: P1027\nPatient: U2486\nProcedure: PROC_C\nAmount: 793.32\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  },
+  {
+    "claim_id": "C100233",
+    "provider_id": "P1050",
+    "amount": 2184.47,
+    "stage1_score": 1,
+    "is_fraud_label": 1,
+    "verdict": "legit",
+    "stage2_score": 0.3,
+    "reasons": [],
+    "retrieved": [
+      {
+        "doc_id": "C100391_C100391_invoice.txt_chunk0",
+        "claim_id": "C100391",
+        "distance": 0.4859570562839508,
+        "text_preview": "Invoice ID: C100391\nProvider: P1037\nPatient: U2279\nProcedure: PROC_C\nAmount: 627.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100400_C100400_invoice.txt_chunk0",
+        "claim_id": "C100400",
+        "distance": 0.486667275428772,
+        "text_preview": "Invoice ID: C100400\nProvider: P1057\nPatient: U2347\nProcedure: PROC_C\nAmount: 506.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100732_C100732_invoice.txt_chunk0",
+        "claim_id": "C100732",
+        "distance": 0.4868495464324951,
+        "text_preview": "Invoice ID: C100732\nProvider: P1059\nPatient: U2035\nProcedure: PROC_C\nAmount: 386.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100470_C100470_invoice.txt_chunk0",
+        "claim_id": "C100470",
+        "distance": 0.49120092391967773,
+        "text_preview": "Invoice ID: C100470\nProvider: P1071\nPatient: U2142\nProcedure: PROC_C\nAmount: 439.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      },
+      {
+        "doc_id": "C100344_C100344_invoice.txt_chunk0",
+        "claim_id": "C100344",
+        "distance": 0.49150902032852173,
+        "text_preview": "Invoice ID: C100344\nProvider: P1027\nPatient: U2486\nProcedure: PROC_C\nAmount: 793.32\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+      }
+    ]
+  }
+]

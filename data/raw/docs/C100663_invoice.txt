@@ -1,0 +1,7 @@
+Invoice ID: C100663
+Provider: P1044
+Patient: U2301
+Procedure: PROC_SURG
+Amount: 10919.82
+Details: Generic invoice for services rendered.
+Notes: Standard billing.

@@ -1,0 +1,7 @@
+Invoice ID: C100333
+Provider: P1046
+Patient: U2081
+Procedure: PROC_C
+Amount: 690.9
+Details: Generic invoice for services rendered.
+Notes: Standard billing.

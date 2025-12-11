@@ -1,0 +1,3554 @@
+[
+  {
+    "doc_id": "C100037_C100037_invoice.txt_chunk0",
+    "claim_id": "C100037",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100037\nProvider: P1017\nPatient: U2229\nProcedure: PROC_D\nAmount: 4746.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100726_C100726_invoice.txt_chunk0",
+    "claim_id": "C100726",
+    "provider_id": "P1005",
+    "text": "Invoice ID: C100726\nProvider: P1005\nPatient: U2125\nProcedure: PROC_D\nAmount: 3397.03\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100846_C100846_invoice.txt_chunk0",
+    "claim_id": "C100846",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100846\nProvider: P1011\nPatient: U2330\nProcedure: PROC_B\nAmount: 1886.33\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100295_C100295_invoice.txt_chunk0",
+    "claim_id": "C100295",
+    "provider_id": "P1003",
+    "text": "Invoice ID: C100295\nProvider: P1003\nPatient: U2072\nProcedure: PROC_A\nAmount: 1003.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100924_C100924_invoice.txt_chunk0",
+    "claim_id": "C100924",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100924\nProvider: P1061\nPatient: U2435\nProcedure: PROC_D\nAmount: 4793.58\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100658_C100658_invoice.txt_chunk0",
+    "claim_id": "C100658",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100658\nProvider: P1069\nPatient: U2396\nProcedure: PROC_C\nAmount: 316.81\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100658_C100658_invoice.png_chunk0",
+    "claim_id": "C100658",
+    "provider_id": "P1069",
+    "text": "[PLACEHOLDER TEXT for C100658_invoice.png]"
+  },
+  {
+    "doc_id": "C100682_C100682_invoice.txt_chunk0",
+    "claim_id": "C100682",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100682\nProvider: P1054\nPatient: U2490\nProcedure: PROC_B\nAmount: 1324.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100286_C100286_invoice.txt_chunk0",
+    "claim_id": "C100286",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100286\nProvider: P1054\nPatient: U2447\nProcedure: PROC_SURG\nAmount: 12706.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100286_C100286_invoice.png_chunk0",
+    "claim_id": "C100286",
+    "provider_id": "P1054",
+    "text": "[PLACEHOLDER TEXT for C100286_invoice.png]"
+  },
+  {
+    "doc_id": "C100880_C100880_invoice.txt_chunk0",
+    "claim_id": "C100880",
+    "provider_id": "P1006",
+    "text": "Invoice ID: C100880\nProvider: P1006\nPatient: U2240\nProcedure: PROC_SURG\nAmount: 23561.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100272_C100272_invoice.txt_chunk0",
+    "claim_id": "C100272",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100272\nProvider: P1061\nPatient: U2031\nProcedure: PROC_D\nAmount: 3663.58\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100137_C100137_invoice.txt_chunk0",
+    "claim_id": "C100137",
+    "provider_id": "P1043",
+    "text": "Invoice ID: C100137\nProvider: P1043\nPatient: U2331\nProcedure: PROC_A\nAmount: 915.29\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100137_C100137_invoice.png_chunk0",
+    "claim_id": "C100137",
+    "provider_id": "P1043",
+    "text": "[PLACEHOLDER TEXT for C100137_invoice.png]"
+  },
+  {
+    "doc_id": "C100954_C100954_invoice.txt_chunk0",
+    "claim_id": "C100954",
+    "provider_id": "P1015",
+    "text": "Invoice ID: C100954\nProvider: P1015\nPatient: U2096\nProcedure: PROC_D\nAmount: 4096.37\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100515_C100515_invoice.txt_chunk0",
+    "claim_id": "C100515",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100515\nProvider: P1074\nPatient: U2111\nProcedure: PROC_A\nAmount: 776.89\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100788_C100788_invoice.txt_chunk0",
+    "claim_id": "C100788",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100788\nProvider: P1017\nPatient: U2165\nProcedure: PROC_B\nAmount: 3111.65\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100788_C100788_invoice.png_chunk0",
+    "claim_id": "C100788",
+    "provider_id": "P1017",
+    "text": "[PLACEHOLDER TEXT for C100788_invoice.png]"
+  },
+  {
+    "doc_id": "C100860_C100860_invoice.txt_chunk0",
+    "claim_id": "C100860",
+    "provider_id": "P1076",
+    "text": "Invoice ID: C100860\nProvider: P1076\nPatient: U2088\nProcedure: PROC_A\nAmount: 644.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100860_C100860_invoice.png_chunk0",
+    "claim_id": "C100860",
+    "provider_id": "P1076",
+    "text": "[PLACEHOLDER TEXT for C100860_invoice.png]"
+  },
+  {
+    "doc_id": "C100640_C100640_invoice.txt_chunk0",
+    "claim_id": "C100640",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100640\nProvider: P1046\nPatient: U2095\nProcedure: PROC_C\nAmount: 514.83\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100737_C100737_invoice.txt_chunk0",
+    "claim_id": "C100737",
+    "provider_id": "P1000",
+    "text": "Invoice ID: C100737\nProvider: P1000\nPatient: U2077\nProcedure: PROC_D\nAmount: 38189.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100683_C100683_invoice.txt_chunk0",
+    "claim_id": "C100683",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100683\nProvider: P1038\nPatient: U2451\nProcedure: PROC_B\nAmount: 2812.81\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100412_C100412_invoice.txt_chunk0",
+    "claim_id": "C100412",
+    "provider_id": "P1070",
+    "text": "Invoice ID: C100412\nProvider: P1070\nPatient: U2184\nProcedure: PROC_XRAY\nAmount: 997.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100412_C100412_invoice.png_chunk0",
+    "claim_id": "C100412",
+    "provider_id": "P1070",
+    "text": "[PLACEHOLDER TEXT for C100412_invoice.png]"
+  },
+  {
+    "doc_id": "C100071_C100071_invoice.txt_chunk0",
+    "claim_id": "C100071",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100071\nProvider: P1031\nPatient: U2349\nProcedure: PROC_SURG\nAmount: 17280.71\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100213_C100213_invoice.txt_chunk0",
+    "claim_id": "C100213",
+    "provider_id": "P1012",
+    "text": "Invoice ID: C100213\nProvider: P1012\nPatient: U2169\nProcedure: PROC_D\nAmount: 3642.24\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100067_C100067_invoice.txt_chunk0",
+    "claim_id": "C100067",
+    "provider_id": "P1014",
+    "text": "Invoice ID: C100067\nProvider: P1014\nPatient: U2004\nProcedure: PROC_A\nAmount: 941.82\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100231_C100231_invoice.txt_chunk0",
+    "claim_id": "C100231",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100231\nProvider: P1061\nPatient: U2436\nProcedure: PROC_A\nAmount: 1127.02\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100856_C100856_invoice.txt_chunk0",
+    "claim_id": "C100856",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100856\nProvider: P1011\nPatient: U2383\nProcedure: PROC_C\nAmount: 591.1\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100197_C100197_invoice.txt_chunk0",
+    "claim_id": "C100197",
+    "provider_id": "P1003",
+    "text": "Invoice ID: C100197\nProvider: P1003\nPatient: U2062\nProcedure: PROC_SURG\nAmount: 14010.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100639_C100639_invoice.txt_chunk0",
+    "claim_id": "C100639",
+    "provider_id": "P1008",
+    "text": "Invoice ID: C100639\nProvider: P1008\nPatient: U2414\nProcedure: PROC_XRAY\nAmount: 1232.54\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100376_C100376_invoice.txt_chunk0",
+    "claim_id": "C100376",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100376\nProvider: P1049\nPatient: U2325\nProcedure: PROC_C\nAmount: 464.19\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100376_C100376_invoice.png_chunk0",
+    "claim_id": "C100376",
+    "provider_id": "P1049",
+    "text": "[PLACEHOLDER TEXT for C100376_invoice.png]"
+  },
+  {
+    "doc_id": "C100192_C100192_invoice.txt_chunk0",
+    "claim_id": "C100192",
+    "provider_id": "P1051",
+    "text": "Invoice ID: C100192\nProvider: P1051\nPatient: U2059\nProcedure: PROC_XRAY\nAmount: 932.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100099_C100099_invoice.txt_chunk0",
+    "claim_id": "C100099",
+    "provider_id": "P1009",
+    "text": "Invoice ID: C100099\nProvider: P1009\nPatient: U2435\nProcedure: PROC_D\nAmount: 6595.23\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100678_C100678_invoice.txt_chunk0",
+    "claim_id": "C100678",
+    "provider_id": "P1036",
+    "text": "Invoice ID: C100678\nProvider: P1036\nPatient: U2424\nProcedure: PROC_C\nAmount: 772.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100678_C100678_invoice.png_chunk0",
+    "claim_id": "C100678",
+    "provider_id": "P1036",
+    "text": "[PLACEHOLDER TEXT for C100678_invoice.png]"
+  },
+  {
+    "doc_id": "C100650_C100650_invoice.txt_chunk0",
+    "claim_id": "C100650",
+    "provider_id": "P1023",
+    "text": "Invoice ID: C100650\nProvider: P1023\nPatient: U2071\nProcedure: PROC_C\nAmount: 628.48\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100650_C100650_invoice.png_chunk0",
+    "claim_id": "C100650",
+    "provider_id": "P1023",
+    "text": "[PLACEHOLDER TEXT for C100650_invoice.png]"
+  },
+  {
+    "doc_id": "C100223_C100223_invoice.txt_chunk0",
+    "claim_id": "C100223",
+    "provider_id": "P1052",
+    "text": "Invoice ID: C100223\nProvider: P1052\nPatient: U2271\nProcedure: PROC_XRAY\nAmount: 836.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100205_C100205_invoice.txt_chunk0",
+    "claim_id": "C100205",
+    "provider_id": "P1064",
+    "text": "Invoice ID: C100205\nProvider: P1064\nPatient: U2174\nProcedure: PROC_C\nAmount: 754.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100748_C100748_invoice.txt_chunk0",
+    "claim_id": "C100748",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100748\nProvider: P1074\nPatient: U2069\nProcedure: PROC_A\nAmount: 633.19\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100462_C100462_invoice.txt_chunk0",
+    "claim_id": "C100462",
+    "provider_id": "P1073",
+    "text": "Invoice ID: C100462\nProvider: P1073\nPatient: U2016\nProcedure: PROC_SURG\nAmount: 19073.38\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100146_C100146_invoice.txt_chunk0",
+    "claim_id": "C100146",
+    "provider_id": "P1035",
+    "text": "Invoice ID: C100146\nProvider: P1035\nPatient: U2174\nProcedure: PROC_XRAY\nAmount: 1093.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100020_C100020_invoice.txt_chunk0",
+    "claim_id": "C100020",
+    "provider_id": "P1007",
+    "text": "Invoice ID: C100020\nProvider: P1007\nPatient: U2122\nProcedure: PROC_B\nAmount: 2407.44\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100897_C100897_invoice.txt_chunk0",
+    "claim_id": "C100897",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100897\nProvider: P1017\nPatient: U2454\nProcedure: PROC_C\nAmount: 476.73\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100546_C100546_invoice.txt_chunk0",
+    "claim_id": "C100546",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100546\nProvider: P1071\nPatient: U2370\nProcedure: PROC_B\nAmount: 2675.02\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100646_C100646_invoice.txt_chunk0",
+    "claim_id": "C100646",
+    "provider_id": "P1047",
+    "text": "Invoice ID: C100646\nProvider: P1047\nPatient: U2093\nProcedure: PROC_SURG\nAmount: 20703.2\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100646_C100646_invoice.png_chunk0",
+    "claim_id": "C100646",
+    "provider_id": "P1047",
+    "text": "[PLACEHOLDER TEXT for C100646_invoice.png]"
+  },
+  {
+    "doc_id": "C100687_C100687_invoice.txt_chunk0",
+    "claim_id": "C100687",
+    "provider_id": "P1000",
+    "text": "Invoice ID: C100687\nProvider: P1000\nPatient: U2048\nProcedure: PROC_B\nAmount: 2289.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100935_C100935_invoice.txt_chunk0",
+    "claim_id": "C100935",
+    "provider_id": "P1044",
+    "text": "Invoice ID: C100935\nProvider: P1044\nPatient: U2246\nProcedure: PROC_SURG\nAmount: 21137.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100821_C100821_invoice.txt_chunk0",
+    "claim_id": "C100821",
+    "provider_id": "P1034",
+    "text": "Invoice ID: C100821\nProvider: P1034\nPatient: U2428\nProcedure: PROC_XRAY\nAmount: 791.9\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100553_C100553_invoice.txt_chunk0",
+    "claim_id": "C100553",
+    "provider_id": "P1052",
+    "text": "Invoice ID: C100553\nProvider: P1052\nPatient: U2160\nProcedure: PROC_A\nAmount: 1498.9\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100589_C100589_invoice.txt_chunk0",
+    "claim_id": "C100589",
+    "provider_id": "P1023",
+    "text": "Invoice ID: C100589\nProvider: P1023\nPatient: U2221\nProcedure: PROC_SURG\nAmount: 20416.82\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100370_C100370_invoice.txt_chunk0",
+    "claim_id": "C100370",
+    "provider_id": "P1068",
+    "text": "Invoice ID: C100370\nProvider: P1068\nPatient: U2305\nProcedure: PROC_A\nAmount: 1338.45\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100596_C100596_invoice.txt_chunk0",
+    "claim_id": "C100596",
+    "provider_id": "P1003",
+    "text": "Invoice ID: C100596\nProvider: P1003\nPatient: U2052\nProcedure: PROC_A\nAmount: 1214.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100886_C100886_invoice.txt_chunk0",
+    "claim_id": "C100886",
+    "provider_id": "P1007",
+    "text": "Invoice ID: C100886\nProvider: P1007\nPatient: U2160\nProcedure: PROC_A\nAmount: 1566.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100886_C100886_invoice.png_chunk0",
+    "claim_id": "C100886",
+    "provider_id": "P1007",
+    "text": "[PLACEHOLDER TEXT for C100886_invoice.png]"
+  },
+  {
+    "doc_id": "C100794_C100794_invoice.txt_chunk0",
+    "claim_id": "C100794",
+    "provider_id": "P1072",
+    "text": "Invoice ID: C100794\nProvider: P1072\nPatient: U2435\nProcedure: PROC_A\nAmount: 1191.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100913_C100913_invoice.txt_chunk0",
+    "claim_id": "C100913",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100913\nProvider: P1061\nPatient: U2352\nProcedure: PROC_C\nAmount: 703.29\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100913_C100913_invoice.png_chunk0",
+    "claim_id": "C100913",
+    "provider_id": "P1061",
+    "text": "[PLACEHOLDER TEXT for C100913_invoice.png]"
+  },
+  {
+    "doc_id": "C100015_C100015_invoice.txt_chunk0",
+    "claim_id": "C100015",
+    "provider_id": "P1033",
+    "text": "Invoice ID: C100015\nProvider: P1033\nPatient: U2488\nProcedure: PROC_XRAY\nAmount: 629.06\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100757_C100757_invoice.txt_chunk0",
+    "claim_id": "C100757",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100757\nProvider: P1017\nPatient: U2411\nProcedure: PROC_A\nAmount: 3577.23\nDetails: Generic invoice for services rendered.\nNotes: Standard billing.\nNote: EXTERNAL_URGENT_IMPLANT\nExtra line: Equipment: EXTERNAL_URGENT_IMPLANT"
+  },
+  {
+    "doc_id": "C100444_C100444_invoice.txt_chunk0",
+    "claim_id": "C100444",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100444\nProvider: P1046\nPatient: U2372\nProcedure: PROC_D\nAmount: 6400.66\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100330_C100330_invoice.txt_chunk0",
+    "claim_id": "C100330",
+    "provider_id": "P1007",
+    "text": "Invoice ID: C100330\nProvider: P1007\nPatient: U2077\nProcedure: PROC_D\nAmount: 4262.64\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100871_C100871_invoice.txt_chunk0",
+    "claim_id": "C100871",
+    "provider_id": "P1033",
+    "text": "Invoice ID: C100871\nProvider: P1033\nPatient: U2151\nProcedure: PROC_D\nAmount: 6781.07\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100984_C100984_invoice.txt_chunk0",
+    "claim_id": "C100984",
+    "provider_id": "P1023",
+    "text": "Invoice ID: C100984\nProvider: P1023\nPatient: U2038\nProcedure: PROC_B\nAmount: 1533.91\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100984_C100984_invoice.png_chunk0",
+    "claim_id": "C100984",
+    "provider_id": "P1023",
+    "text": "[PLACEHOLDER TEXT for C100984_invoice.png]"
+  },
+  {
+    "doc_id": "C100543_C100543_invoice.txt_chunk0",
+    "claim_id": "C100543",
+    "provider_id": "P1047",
+    "text": "Invoice ID: C100543\nProvider: P1047\nPatient: U2433\nProcedure: PROC_A\nAmount: 684.79\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100543_C100543_invoice.png_chunk0",
+    "claim_id": "C100543",
+    "provider_id": "P1047",
+    "text": "[PLACEHOLDER TEXT for C100543_invoice.png]"
+  },
+  {
+    "doc_id": "C100525_C100525_invoice.txt_chunk0",
+    "claim_id": "C100525",
+    "provider_id": "P1058",
+    "text": "Invoice ID: C100525\nProvider: P1058\nPatient: U2126\nProcedure: PROC_C\nAmount: 623.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100164_C100164_invoice.txt_chunk0",
+    "claim_id": "C100164",
+    "provider_id": "P1008",
+    "text": "Invoice ID: C100164\nProvider: P1008\nPatient: U2058\nProcedure: PROC_D\nAmount: 5563.44\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100863_C100863_invoice.txt_chunk0",
+    "claim_id": "C100863",
+    "provider_id": "P1027",
+    "text": "Invoice ID: C100863\nProvider: P1027\nPatient: U2129\nProcedure: PROC_D\nAmount: 5979.94\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100182_C100182_invoice.txt_chunk0",
+    "claim_id": "C100182",
+    "provider_id": "P1010",
+    "text": "Invoice ID: C100182\nProvider: P1010\nPatient: U2224\nProcedure: PROC_XRAY\nAmount: 920.69\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100927_C100927_invoice.txt_chunk0",
+    "claim_id": "C100927",
+    "provider_id": "P1056",
+    "text": "Invoice ID: C100927\nProvider: P1056\nPatient: U2347\nProcedure: PROC_B\nAmount: 2786.79\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100101_C100101_invoice.txt_chunk0",
+    "claim_id": "C100101",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100101\nProvider: P1031\nPatient: U2204\nProcedure: PROC_B\nAmount: 1993.3\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100578_C100578_invoice.txt_chunk0",
+    "claim_id": "C100578",
+    "provider_id": "P1072",
+    "text": "Invoice ID: C100578\nProvider: P1072\nPatient: U2454\nProcedure: PROC_D\nAmount: 5725.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100185_C100185_invoice.txt_chunk0",
+    "claim_id": "C100185",
+    "provider_id": "P1034",
+    "text": "Invoice ID: C100185\nProvider: P1034\nPatient: U2420\nProcedure: PROC_XRAY\nAmount: 876.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100068_C100068_invoice.txt_chunk0",
+    "claim_id": "C100068",
+    "provider_id": "P1019",
+    "text": "Invoice ID: C100068\nProvider: P1019\nPatient: U2462\nProcedure: PROC_XRAY\nAmount: 1140.09\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100615_C100615_invoice.txt_chunk0",
+    "claim_id": "C100615",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100615\nProvider: P1038\nPatient: U2324\nProcedure: PROC_B\nAmount: 2359.97\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100549_C100549_invoice.txt_chunk0",
+    "claim_id": "C100549",
+    "provider_id": "P1050",
+    "text": "Invoice ID: C100549\nProvider: P1050\nPatient: U2104\nProcedure: PROC_B\nAmount: 1909.68\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100338_C100338_invoice.txt_chunk0",
+    "claim_id": "C100338",
+    "provider_id": "P1018",
+    "text": "Invoice ID: C100338\nProvider: P1018\nPatient: U2339\nProcedure: PROC_C\nAmount: 768.3\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100322_C100322_invoice.txt_chunk0",
+    "claim_id": "C100322",
+    "provider_id": "P1079",
+    "text": "Invoice ID: C100322\nProvider: P1079\nPatient: U2329\nProcedure: PROC_C\nAmount: 304.52\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100322_C100322_invoice.png_chunk0",
+    "claim_id": "C100322",
+    "provider_id": "P1079",
+    "text": "[PLACEHOLDER TEXT for C100322_invoice.png]"
+  },
+  {
+    "doc_id": "C100279_C100279_invoice.txt_chunk0",
+    "claim_id": "C100279",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100279\nProvider: P1029\nPatient: U2231\nProcedure: PROC_D\nAmount: 6126.52\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100288_C100288_invoice.txt_chunk0",
+    "claim_id": "C100288",
+    "provider_id": "P1019",
+    "text": "Invoice ID: C100288\nProvider: P1019\nPatient: U2108\nProcedure: PROC_SURG\nAmount: 13935.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100288_C100288_invoice.png_chunk0",
+    "claim_id": "C100288",
+    "provider_id": "P1019",
+    "text": "[PLACEHOLDER TEXT for C100288_invoice.png]"
+  },
+  {
+    "doc_id": "C100251_C100251_invoice.txt_chunk0",
+    "claim_id": "C100251",
+    "provider_id": "P1052",
+    "text": "Invoice ID: C100251\nProvider: P1052\nPatient: U2154\nProcedure: PROC_A\nAmount: 1062.1\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100251_C100251_invoice.png_chunk0",
+    "claim_id": "C100251",
+    "provider_id": "P1052",
+    "text": "[PLACEHOLDER TEXT for C100251_invoice.png]"
+  },
+  {
+    "doc_id": "C100908_C100908_invoice.txt_chunk0",
+    "claim_id": "C100908",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100908\nProvider: P1053\nPatient: U2070\nProcedure: PROC_A\nAmount: 1041.22\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100236_C100236_invoice.txt_chunk0",
+    "claim_id": "C100236",
+    "provider_id": "P1024",
+    "text": "Invoice ID: C100236\nProvider: P1024\nPatient: U2325\nProcedure: PROC_XRAY\nAmount: 505.04\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100508_C100508_invoice.txt_chunk0",
+    "claim_id": "C100508",
+    "provider_id": "P1070",
+    "text": "Invoice ID: C100508\nProvider: P1070\nPatient: U2031\nProcedure: PROC_XRAY\nAmount: 666.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100716_C100716_invoice.txt_chunk0",
+    "claim_id": "C100716",
+    "provider_id": "P1022",
+    "text": "Invoice ID: C100716\nProvider: P1022\nPatient: U2341\nProcedure: PROC_A\nAmount: 7756.36\nDetails: Generic invoice for services rendered.\nNotes: Standard billing.\nNote: NOT COVERED\nExtra line: Equipment: EXTERNAL_URGENT_IMPLANT"
+  },
+  {
+    "doc_id": "C100931_C100931_invoice.txt_chunk0",
+    "claim_id": "C100931",
+    "provider_id": "P1040",
+    "text": "Invoice ID: C100931\nProvider: P1040\nPatient: U2335\nProcedure: PROC_A\nAmount: 941.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100230_C100230_invoice.txt_chunk0",
+    "claim_id": "C100230",
+    "provider_id": "P1058",
+    "text": "Invoice ID: C100230\nProvider: P1058\nPatient: U2128\nProcedure: PROC_C\nAmount: 525.69\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100621_C100621_invoice.txt_chunk0",
+    "claim_id": "C100621",
+    "provider_id": "P1078",
+    "text": "Invoice ID: C100621\nProvider: P1078\nPatient: U2331\nProcedure: PROC_A\nAmount: 1345.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100727_C100727_invoice.txt_chunk0",
+    "claim_id": "C100727",
+    "provider_id": "P1004",
+    "text": "Invoice ID: C100727\nProvider: P1004\nPatient: U2091\nProcedure: PROC_XRAY\nAmount: 1258.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100232_C100232_invoice.txt_chunk0",
+    "claim_id": "C100232",
+    "provider_id": "P1073",
+    "text": "Invoice ID: C100232\nProvider: P1073\nPatient: U2183\nProcedure: PROC_C\nAmount: 646.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100832_C100832_invoice.txt_chunk0",
+    "claim_id": "C100832",
+    "provider_id": "P1008",
+    "text": "Invoice ID: C100832\nProvider: P1008\nPatient: U2468\nProcedure: PROC_A\nAmount: 692.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100832_C100832_invoice.png_chunk0",
+    "claim_id": "C100832",
+    "provider_id": "P1008",
+    "text": "[PLACEHOLDER TEXT for C100832_invoice.png]"
+  },
+  {
+    "doc_id": "C100409_C100409_invoice.txt_chunk0",
+    "claim_id": "C100409",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100409\nProvider: P1038\nPatient: U2148\nProcedure: PROC_B\nAmount: 3102.81\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100797_C100797_invoice.txt_chunk0",
+    "claim_id": "C100797",
+    "provider_id": "P1044",
+    "text": "Invoice ID: C100797\nProvider: P1044\nPatient: U2121\nProcedure: PROC_C\nAmount: 543.83\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100143_C100143_invoice.txt_chunk0",
+    "claim_id": "C100143",
+    "provider_id": "P1057",
+    "text": "Invoice ID: C100143\nProvider: P1057\nPatient: U2142\nProcedure: PROC_B\nAmount: 1967.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100143_C100143_invoice.png_chunk0",
+    "claim_id": "C100143",
+    "provider_id": "P1057",
+    "text": "[PLACEHOLDER TEXT for C100143_invoice.png]"
+  },
+  {
+    "doc_id": "C100906_C100906_invoice.txt_chunk0",
+    "claim_id": "C100906",
+    "provider_id": "P1001",
+    "text": "Invoice ID: C100906\nProvider: P1001\nPatient: U2355\nProcedure: PROC_C\nAmount: 545.71\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100906_C100906_invoice.png_chunk0",
+    "claim_id": "C100906",
+    "provider_id": "P1001",
+    "text": "[PLACEHOLDER TEXT for C100906_invoice.png]"
+  },
+  {
+    "doc_id": "C100599_C100599_invoice.txt_chunk0",
+    "claim_id": "C100599",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100599\nProvider: P1071\nPatient: U2461\nProcedure: PROC_B\nAmount: 2896.1\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100199_C100199_invoice.txt_chunk0",
+    "claim_id": "C100199",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100199\nProvider: P1011\nPatient: U2208\nProcedure: PROC_B\nAmount: 1411.67\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100065_C100065_invoice.txt_chunk0",
+    "claim_id": "C100065",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100065\nProvider: P1016\nPatient: U2394\nProcedure: PROC_SURG\nAmount: 18643.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100179_C100179_invoice.txt_chunk0",
+    "claim_id": "C100179",
+    "provider_id": "P1039",
+    "text": "Invoice ID: C100179\nProvider: P1039\nPatient: U2405\nProcedure: PROC_XRAY\nAmount: 515.5\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100280_C100280_invoice.txt_chunk0",
+    "claim_id": "C100280",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100280\nProvider: P1053\nPatient: U2204\nProcedure: PROC_SURG\nAmount: 14091.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100830_C100830_invoice.txt_chunk0",
+    "claim_id": "C100830",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100830\nProvider: P1054\nPatient: U2021\nProcedure: PROC_A\nAmount: 714.49\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100742_C100742_invoice.txt_chunk0",
+    "claim_id": "C100742",
+    "provider_id": "P1066",
+    "text": "Invoice ID: C100742\nProvider: P1066\nPatient: U2459\nProcedure: PROC_D\nAmount: 3348.21\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100463_C100463_invoice.txt_chunk0",
+    "claim_id": "C100463",
+    "provider_id": "P1040",
+    "text": "Invoice ID: C100463\nProvider: P1040\nPatient: U2225\nProcedure: PROC_D\nAmount: 6117.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100158_C100158_invoice.txt_chunk0",
+    "claim_id": "C100158",
+    "provider_id": "P1024",
+    "text": "Invoice ID: C100158\nProvider: P1024\nPatient: U2426\nProcedure: PROC_C\nAmount: 791.17\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100158_C100158_invoice.png_chunk0",
+    "claim_id": "C100158",
+    "provider_id": "P1024",
+    "text": "[PLACEHOLDER TEXT for C100158_invoice.png]"
+  },
+  {
+    "doc_id": "C100715_C100715_invoice.txt_chunk0",
+    "claim_id": "C100715",
+    "provider_id": "P1058",
+    "text": "Invoice ID: C100715\nProvider: P1058\nPatient: U2059\nProcedure: PROC_XRAY\nAmount: 1165.5\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100715_C100715_invoice.png_chunk0",
+    "claim_id": "C100715",
+    "provider_id": "P1058",
+    "text": "[PLACEHOLDER TEXT for C100715_invoice.png]"
+  },
+  {
+    "doc_id": "C100881_C100881_invoice.txt_chunk0",
+    "claim_id": "C100881",
+    "provider_id": "P1060",
+    "text": "Invoice ID: C100881\nProvider: P1060\nPatient: U2036\nProcedure: PROC_B\nAmount: 2282.82\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100824_C100824_invoice.txt_chunk0",
+    "claim_id": "C100824",
+    "provider_id": "P1066",
+    "text": "Invoice ID: C100824\nProvider: P1066\nPatient: U2419\nProcedure: PROC_D\nAmount: 4483.64\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100518_C100518_invoice.txt_chunk0",
+    "claim_id": "C100518",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100518\nProvider: P1017\nPatient: U2393\nProcedure: PROC_SURG\nAmount: 15278.71\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100653_C100653_invoice.txt_chunk0",
+    "claim_id": "C100653",
+    "provider_id": "P1062",
+    "text": "Invoice ID: C100653\nProvider: P1062\nPatient: U2209\nProcedure: PROC_D\nAmount: 4378.6\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100653_C100653_invoice.png_chunk0",
+    "claim_id": "C100653",
+    "provider_id": "P1062",
+    "text": "[PLACEHOLDER TEXT for C100653_invoice.png]"
+  },
+  {
+    "doc_id": "C100258_C100258_invoice.txt_chunk0",
+    "claim_id": "C100258",
+    "provider_id": "P1047",
+    "text": "Invoice ID: C100258\nProvider: P1047\nPatient: U2050\nProcedure: PROC_XRAY\nAmount: 599.66\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100951_C100951_invoice.txt_chunk0",
+    "claim_id": "C100951",
+    "provider_id": "P1037",
+    "text": "Invoice ID: C100951\nProvider: P1037\nPatient: U2493\nProcedure: PROC_XRAY\nAmount: 1204.89\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100951_C100951_invoice.png_chunk0",
+    "claim_id": "C100951",
+    "provider_id": "P1037",
+    "text": "[PLACEHOLDER TEXT for C100951_invoice.png]"
+  },
+  {
+    "doc_id": "C100396_C100396_invoice.txt_chunk0",
+    "claim_id": "C100396",
+    "provider_id": "P1065",
+    "text": "Invoice ID: C100396\nProvider: P1065\nPatient: U2186\nProcedure: PROC_SURG\nAmount: 21045.39\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100557_C100557_invoice.txt_chunk0",
+    "claim_id": "C100557",
+    "provider_id": "P1043",
+    "text": "Invoice ID: C100557\nProvider: P1043\nPatient: U2281\nProcedure: PROC_C\nAmount: 565.15\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100834_C100834_invoice.txt_chunk0",
+    "claim_id": "C100834",
+    "provider_id": "P1079",
+    "text": "Invoice ID: C100834\nProvider: P1079\nPatient: U2402\nProcedure: PROC_XRAY\nAmount: 1200.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100432_C100432_invoice.txt_chunk0",
+    "claim_id": "C100432",
+    "provider_id": "P1043",
+    "text": "Invoice ID: C100432\nProvider: P1043\nPatient: U2104\nProcedure: PROC_XRAY\nAmount: 582.72\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100426_C100426_invoice.txt_chunk0",
+    "claim_id": "C100426",
+    "provider_id": "P1003",
+    "text": "Invoice ID: C100426\nProvider: P1003\nPatient: U2021\nProcedure: PROC_A\nAmount: 1232.02\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100522_C100522_invoice.txt_chunk0",
+    "claim_id": "C100522",
+    "provider_id": "P1022",
+    "text": "Invoice ID: C100522\nProvider: P1022\nPatient: U2060\nProcedure: PROC_XRAY\nAmount: 983.44\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100504_C100504_invoice.txt_chunk0",
+    "claim_id": "C100504",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100504\nProvider: P1053\nPatient: U2191\nProcedure: PROC_SURG\nAmount: 12980.81\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100732_C100732_invoice.txt_chunk0",
+    "claim_id": "C100732",
+    "provider_id": "P1059",
+    "text": "Invoice ID: C100732\nProvider: P1059\nPatient: U2035\nProcedure: PROC_C\nAmount: 386.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100698_C100698_invoice.txt_chunk0",
+    "claim_id": "C100698",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100698\nProvider: P1054\nPatient: U2493\nProcedure: PROC_C\nAmount: 352.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100007_C100007_invoice.txt_chunk0",
+    "claim_id": "C100007",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100007\nProvider: P1074\nPatient: U2382\nProcedure: PROC_D\nAmount: 7660.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100912_C100912_invoice.txt_chunk0",
+    "claim_id": "C100912",
+    "provider_id": "P1005",
+    "text": "Invoice ID: C100912\nProvider: P1005\nPatient: U2082\nProcedure: PROC_XRAY\nAmount: 1091.62\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100580_C100580_invoice.txt_chunk0",
+    "claim_id": "C100580",
+    "provider_id": "P1040",
+    "text": "Invoice ID: C100580\nProvider: P1040\nPatient: U2091\nProcedure: PROC_A\nAmount: 1327.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100580_C100580_invoice.png_chunk0",
+    "claim_id": "C100580",
+    "provider_id": "P1040",
+    "text": "[PLACEHOLDER TEXT for C100580_invoice.png]"
+  },
+  {
+    "doc_id": "C100193_C100193_invoice.txt_chunk0",
+    "claim_id": "C100193",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100193\nProvider: P1069\nPatient: U2336\nProcedure: PROC_D\nAmount: 6669.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100691_C100691_invoice.txt_chunk0",
+    "claim_id": "C100691",
+    "provider_id": "P1013",
+    "text": "Invoice ID: C100691\nProvider: P1013\nPatient: U2045\nProcedure: PROC_A\nAmount: 761.62\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100556_C100556_invoice.txt_chunk0",
+    "claim_id": "C100556",
+    "provider_id": "P1048",
+    "text": "Invoice ID: C100556\nProvider: P1048\nPatient: U2117\nProcedure: PROC_XRAY\nAmount: 535.4\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100685_C100685_invoice.txt_chunk0",
+    "claim_id": "C100685",
+    "provider_id": "P1021",
+    "text": "Invoice ID: C100685\nProvider: P1021\nPatient: U2462\nProcedure: PROC_A\nAmount: 1386.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100840_C100840_invoice.txt_chunk0",
+    "claim_id": "C100840",
+    "provider_id": "P1077",
+    "text": "Invoice ID: C100840\nProvider: P1077\nPatient: U2316\nProcedure: PROC_SURG\nAmount: 22105.48\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100411_C100411_invoice.txt_chunk0",
+    "claim_id": "C100411",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100411\nProvider: P1017\nPatient: U2102\nProcedure: PROC_B\nAmount: 1656.16\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100411_C100411_invoice.png_chunk0",
+    "claim_id": "C100411",
+    "provider_id": "P1017",
+    "text": "[PLACEHOLDER TEXT for C100411_invoice.png]"
+  },
+  {
+    "doc_id": "C100465_C100465_invoice.txt_chunk0",
+    "claim_id": "C100465",
+    "provider_id": "P1007",
+    "text": "Invoice ID: C100465\nProvider: P1007\nPatient: U2446\nProcedure: PROC_SURG\nAmount: 16602.58\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100974_C100974_invoice.txt_chunk0",
+    "claim_id": "C100974",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100974\nProvider: P1020\nPatient: U2136\nProcedure: PROC_C\nAmount: 719.67\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100664_C100664_invoice.txt_chunk0",
+    "claim_id": "C100664",
+    "provider_id": "P1078",
+    "text": "Invoice ID: C100664\nProvider: P1078\nPatient: U2084\nProcedure: PROC_B\nAmount: 1986.9\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100267_C100267_invoice.txt_chunk0",
+    "claim_id": "C100267",
+    "provider_id": "P1041",
+    "text": "Invoice ID: C100267\nProvider: P1041\nPatient: U2301\nProcedure: PROC_A\nAmount: 1159.65\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100212_C100212_invoice.txt_chunk0",
+    "claim_id": "C100212",
+    "provider_id": "P1063",
+    "text": "Invoice ID: C100212\nProvider: P1063\nPatient: U2077\nProcedure: PROC_A\nAmount: 609.07\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100887_C100887_invoice.txt_chunk0",
+    "claim_id": "C100887",
+    "provider_id": "P1021",
+    "text": "Invoice ID: C100887\nProvider: P1021\nPatient: U2389\nProcedure: PROC_XRAY\nAmount: 946.39\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100423_C100423_invoice.txt_chunk0",
+    "claim_id": "C100423",
+    "provider_id": "P1068",
+    "text": "Invoice ID: C100423\nProvider: P1068\nPatient: U2314\nProcedure: PROC_A\nAmount: 695.71\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100423_C100423_invoice.png_chunk0",
+    "claim_id": "C100423",
+    "provider_id": "P1068",
+    "text": "[PLACEHOLDER TEXT for C100423_invoice.png]"
+  },
+  {
+    "doc_id": "C100293_C100293_invoice.txt_chunk0",
+    "claim_id": "C100293",
+    "provider_id": "P1039",
+    "text": "Invoice ID: C100293\nProvider: P1039\nPatient: U2390\nProcedure: PROC_C\nAmount: 414.23\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100827_C100827_invoice.txt_chunk0",
+    "claim_id": "C100827",
+    "provider_id": "P1064",
+    "text": "Invoice ID: C100827\nProvider: P1064\nPatient: U2017\nProcedure: PROC_XRAY\nAmount: 989.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100815_C100815_invoice.txt_chunk0",
+    "claim_id": "C100815",
+    "provider_id": "P1076",
+    "text": "Invoice ID: C100815\nProvider: P1076\nPatient: U2421\nProcedure: PROC_D\nAmount: 3569.19\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100812_C100812_invoice.txt_chunk0",
+    "claim_id": "C100812",
+    "provider_id": "P1036",
+    "text": "Invoice ID: C100812\nProvider: P1036\nPatient: U2135\nProcedure: PROC_C\nAmount: 446.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100812_C100812_invoice.png_chunk0",
+    "claim_id": "C100812",
+    "provider_id": "P1036",
+    "text": "[PLACEHOLDER TEXT for C100812_invoice.png]"
+  },
+  {
+    "doc_id": "C100612_C100612_invoice.txt_chunk0",
+    "claim_id": "C100612",
+    "provider_id": "P1075",
+    "text": "Invoice ID: C100612\nProvider: P1075\nPatient: U2102\nProcedure: PROC_XRAY\nAmount: 801.86\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100869_C100869_invoice.txt_chunk0",
+    "claim_id": "C100869",
+    "provider_id": "P1007",
+    "text": "Invoice ID: C100869\nProvider: P1007\nPatient: U2460\nProcedure: PROC_XRAY\nAmount: 559.44\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100652_C100652_invoice.txt_chunk0",
+    "claim_id": "C100652",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100652\nProvider: P1049\nPatient: U2417\nProcedure: PROC_XRAY\nAmount: 705.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100089_C100089_invoice.txt_chunk0",
+    "claim_id": "C100089",
+    "provider_id": "P1051",
+    "text": "Invoice ID: C100089\nProvider: P1051\nPatient: U2167\nProcedure: PROC_SURG\nAmount: 22500.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100089_C100089_invoice.png_chunk0",
+    "claim_id": "C100089",
+    "provider_id": "P1051",
+    "text": "[PLACEHOLDER TEXT for C100089_invoice.png]"
+  },
+  {
+    "doc_id": "C100141_C100141_invoice.txt_chunk0",
+    "claim_id": "C100141",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100141\nProvider: P1061\nPatient: U2396\nProcedure: PROC_D\nAmount: 7350.49\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100141_C100141_invoice.png_chunk0",
+    "claim_id": "C100141",
+    "provider_id": "P1061",
+    "text": "[PLACEHOLDER TEXT for C100141_invoice.png]"
+  },
+  {
+    "doc_id": "C100418_C100418_invoice.txt_chunk0",
+    "claim_id": "C100418",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100418\nProvider: P1016\nPatient: U2393\nProcedure: PROC_D\nAmount: 6357.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100418_C100418_invoice.png_chunk0",
+    "claim_id": "C100418",
+    "provider_id": "P1016",
+    "text": "[PLACEHOLDER TEXT for C100418_invoice.png]"
+  },
+  {
+    "doc_id": "C100310_C100310_invoice.txt_chunk0",
+    "claim_id": "C100310",
+    "provider_id": "P1040",
+    "text": "Invoice ID: C100310\nProvider: P1040\nPatient: U2441\nProcedure: PROC_XRAY\nAmount: 1148.8\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100733_C100733_invoice.txt_chunk0",
+    "claim_id": "C100733",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100733\nProvider: P1011\nPatient: U2167\nProcedure: PROC_XRAY\nAmount: 570.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100733_C100733_invoice.png_chunk0",
+    "claim_id": "C100733",
+    "provider_id": "P1011",
+    "text": "[PLACEHOLDER TEXT for C100733_invoice.png]"
+  },
+  {
+    "doc_id": "C100481_C100481_invoice.txt_chunk0",
+    "claim_id": "C100481",
+    "provider_id": "P1060",
+    "text": "Invoice ID: C100481\nProvider: P1060\nPatient: U2367\nProcedure: PROC_A\nAmount: 773.52\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100239_C100239_invoice.txt_chunk0",
+    "claim_id": "C100239",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100239\nProvider: P1046\nPatient: U2296\nProcedure: PROC_SURG\nAmount: 13811.14\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100070_C100070_invoice.txt_chunk0",
+    "claim_id": "C100070",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100070\nProvider: P1046\nPatient: U2157\nProcedure: PROC_A\nAmount: 1224.15\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100375_C100375_invoice.txt_chunk0",
+    "claim_id": "C100375",
+    "provider_id": "P1002",
+    "text": "Invoice ID: C100375\nProvider: P1002\nPatient: U2283\nProcedure: PROC_D\nAmount: 3601.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100312_C100312_invoice.txt_chunk0",
+    "claim_id": "C100312",
+    "provider_id": "P1041",
+    "text": "Invoice ID: C100312\nProvider: P1041\nPatient: U2494\nProcedure: PROC_B\nAmount: 2010.62\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100398_C100398_invoice.txt_chunk0",
+    "claim_id": "C100398",
+    "provider_id": "P1008",
+    "text": "Invoice ID: C100398\nProvider: P1008\nPatient: U2064\nProcedure: PROC_B\nAmount: 2420.67\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100455_C100455_invoice.txt_chunk0",
+    "claim_id": "C100455",
+    "provider_id": "P1062",
+    "text": "Invoice ID: C100455\nProvider: P1062\nPatient: U2272\nProcedure: PROC_SURG\nAmount: 15755.56\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100363_C100363_invoice.txt_chunk0",
+    "claim_id": "C100363",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100363\nProvider: P1042\nPatient: U2429\nProcedure: PROC_B\nAmount: 2517.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100828_C100828_invoice.txt_chunk0",
+    "claim_id": "C100828",
+    "provider_id": "P1079",
+    "text": "Invoice ID: C100828\nProvider: P1079\nPatient: U2346\nProcedure: PROC_B\nAmount: 1715.21\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100848_C100848_invoice.txt_chunk0",
+    "claim_id": "C100848",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100848\nProvider: P1020\nPatient: U2263\nProcedure: PROC_A\nAmount: 1445.6\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100614_C100614_invoice.txt_chunk0",
+    "claim_id": "C100614",
+    "provider_id": "P1008",
+    "text": "Invoice ID: C100614\nProvider: P1008\nPatient: U2425\nProcedure: PROC_D\nAmount: 6617.02\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100929_C100929_invoice.txt_chunk0",
+    "claim_id": "C100929",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100929\nProvider: P1016\nPatient: U2498\nProcedure: PROC_D\nAmount: 7973.24\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100397_C100397_invoice.txt_chunk0",
+    "claim_id": "C100397",
+    "provider_id": "P1077",
+    "text": "Invoice ID: C100397\nProvider: P1077\nPatient: U2073\nProcedure: PROC_SURG\nAmount: 17713.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100445_C100445_invoice.txt_chunk0",
+    "claim_id": "C100445",
+    "provider_id": "P1072",
+    "text": "Invoice ID: C100445\nProvider: P1072\nPatient: U2026\nProcedure: PROC_XRAY\nAmount: 739.47\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100414_C100414_invoice.txt_chunk0",
+    "claim_id": "C100414",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100414\nProvider: P1061\nPatient: U2367\nProcedure: PROC_XRAY\nAmount: 1095.96\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100379_C100379_invoice.txt_chunk0",
+    "claim_id": "C100379",
+    "provider_id": "P1005",
+    "text": "Invoice ID: C100379\nProvider: P1005\nPatient: U2068\nProcedure: PROC_C\nAmount: 524.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100291_C100291_invoice.txt_chunk0",
+    "claim_id": "C100291",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100291\nProvider: P1071\nPatient: U2314\nProcedure: PROC_A\nAmount: 643.66\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100074_C100074_invoice.txt_chunk0",
+    "claim_id": "C100074",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100074\nProvider: P1042\nPatient: U2091\nProcedure: PROC_D\nAmount: 5437.16\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100226_C100226_invoice.txt_chunk0",
+    "claim_id": "C100226",
+    "provider_id": "P1059",
+    "text": "Invoice ID: C100226\nProvider: P1059\nPatient: U2118\nProcedure: PROC_SURG\nAmount: 13854.15\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100486_C100486_invoice.txt_chunk0",
+    "claim_id": "C100486",
+    "provider_id": "P1004",
+    "text": "Invoice ID: C100486\nProvider: P1004\nPatient: U2478\nProcedure: PROC_D\nAmount: 7613.79\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100333_C100333_invoice.txt_chunk0",
+    "claim_id": "C100333",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100333\nProvider: P1046\nPatient: U2081\nProcedure: PROC_C\nAmount: 690.9\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100084_C100084_invoice.txt_chunk0",
+    "claim_id": "C100084",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100084\nProvider: P1049\nPatient: U2059\nProcedure: PROC_XRAY\nAmount: 903.73\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100480_C100480_invoice.txt_chunk0",
+    "claim_id": "C100480",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100480\nProvider: P1029\nPatient: U2115\nProcedure: PROC_A\nAmount: 680.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100480_C100480_invoice.png_chunk0",
+    "claim_id": "C100480",
+    "provider_id": "P1029",
+    "text": "[PLACEHOLDER TEXT for C100480_invoice.png]"
+  },
+  {
+    "doc_id": "C100694_C100694_invoice.txt_chunk0",
+    "claim_id": "C100694",
+    "provider_id": "P1021",
+    "text": "Invoice ID: C100694\nProvider: P1021\nPatient: U2332\nProcedure: PROC_D\nAmount: 5789.9\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100284_C100284_invoice.txt_chunk0",
+    "claim_id": "C100284",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100284\nProvider: P1016\nPatient: U2415\nProcedure: PROC_XRAY\nAmount: 512.6\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100209_C100209_invoice.txt_chunk0",
+    "claim_id": "C100209",
+    "provider_id": "P1024",
+    "text": "Invoice ID: C100209\nProvider: P1024\nPatient: U2445\nProcedure: PROC_SURG\nAmount: 10261.47\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100209_C100209_invoice.png_chunk0",
+    "claim_id": "C100209",
+    "provider_id": "P1024",
+    "text": "[PLACEHOLDER TEXT for C100209_invoice.png]"
+  },
+  {
+    "doc_id": "C100142_C100142_invoice.txt_chunk0",
+    "claim_id": "C100142",
+    "provider_id": "P1034",
+    "text": "Invoice ID: C100142\nProvider: P1034\nPatient: U2303\nProcedure: PROC_C\nAmount: 737.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100250_C100250_invoice.txt_chunk0",
+    "claim_id": "C100250",
+    "provider_id": "P1008",
+    "text": "Invoice ID: C100250\nProvider: P1008\nPatient: U2113\nProcedure: PROC_SURG\nAmount: 22677.54\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100925_C100925_invoice.txt_chunk0",
+    "claim_id": "C100925",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100925\nProvider: P1016\nPatient: U2057\nProcedure: PROC_SURG\nAmount: 14001.11\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100355_C100355_invoice.txt_chunk0",
+    "claim_id": "C100355",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100355\nProvider: P1053\nPatient: U2270\nProcedure: PROC_B\nAmount: 2087.5\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100576_C100576_invoice.txt_chunk0",
+    "claim_id": "C100576",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100576\nProvider: P1042\nPatient: U2401\nProcedure: PROC_XRAY\nAmount: 1101.16\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100388_C100388_invoice.txt_chunk0",
+    "claim_id": "C100388",
+    "provider_id": "P1023",
+    "text": "Invoice ID: C100388\nProvider: P1023\nPatient: U2173\nProcedure: PROC_D\nAmount: 6039.53\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100535_C100535_invoice.txt_chunk0",
+    "claim_id": "C100535",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100535\nProvider: P1071\nPatient: U2031\nProcedure: PROC_XRAY\nAmount: 683.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100829_C100829_invoice.txt_chunk0",
+    "claim_id": "C100829",
+    "provider_id": "P1021",
+    "text": "Invoice ID: C100829\nProvider: P1021\nPatient: U2088\nProcedure: PROC_B\nAmount: 1281.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100464_C100464_invoice.txt_chunk0",
+    "claim_id": "C100464",
+    "provider_id": "P1052",
+    "text": "Invoice ID: C100464\nProvider: P1052\nPatient: U2104\nProcedure: PROC_XRAY\nAmount: 1171.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100464_C100464_invoice.png_chunk0",
+    "claim_id": "C100464",
+    "provider_id": "P1052",
+    "text": "[PLACEHOLDER TEXT for C100464_invoice.png]"
+  },
+  {
+    "doc_id": "C100001_C100001_invoice.txt_chunk0",
+    "claim_id": "C100001",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100001\nProvider: P1020\nPatient: U2125\nProcedure: PROC_D\nAmount: 7542.25\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100183_C100183_invoice.txt_chunk0",
+    "claim_id": "C100183",
+    "provider_id": "P1041",
+    "text": "Invoice ID: C100183\nProvider: P1041\nPatient: U2376\nProcedure: PROC_XRAY\nAmount: 806.76\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100183_C100183_invoice.png_chunk0",
+    "claim_id": "C100183",
+    "provider_id": "P1041",
+    "text": "[PLACEHOLDER TEXT for C100183_invoice.png]"
+  },
+  {
+    "doc_id": "C100109_C100109_invoice.txt_chunk0",
+    "claim_id": "C100109",
+    "provider_id": "P1030",
+    "text": "Invoice ID: C100109\nProvider: P1030\nPatient: U2248\nProcedure: PROC_C\nAmount: 506.4\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100160_C100160_invoice.txt_chunk0",
+    "claim_id": "C100160",
+    "provider_id": "P1006",
+    "text": "Invoice ID: C100160\nProvider: P1006\nPatient: U2023\nProcedure: PROC_XRAY\nAmount: 613.63\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100937_C100937_invoice.txt_chunk0",
+    "claim_id": "C100937",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100937\nProvider: P1020\nPatient: U2478\nProcedure: PROC_XRAY\nAmount: 563.52\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100811_C100811_invoice.txt_chunk0",
+    "claim_id": "C100811",
+    "provider_id": "P1070",
+    "text": "Invoice ID: C100811\nProvider: P1070\nPatient: U2209\nProcedure: PROC_SURG\nAmount: 17580.73\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100431_C100431_invoice.txt_chunk0",
+    "claim_id": "C100431",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100431\nProvider: P1020\nPatient: U2030\nProcedure: PROC_D\nAmount: 3079.11\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100391_C100391_invoice.txt_chunk0",
+    "claim_id": "C100391",
+    "provider_id": "P1037",
+    "text": "Invoice ID: C100391\nProvider: P1037\nPatient: U2279\nProcedure: PROC_C\nAmount: 627.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100391_C100391_invoice.png_chunk0",
+    "claim_id": "C100391",
+    "provider_id": "P1037",
+    "text": "[PLACEHOLDER TEXT for C100391_invoice.png]"
+  },
+  {
+    "doc_id": "C100901_C100901_invoice.txt_chunk0",
+    "claim_id": "C100901",
+    "provider_id": "P1004",
+    "text": "Invoice ID: C100901\nProvider: P1004\nPatient: U2187\nProcedure: PROC_D\nAmount: 5333.91\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100172_C100172_invoice.txt_chunk0",
+    "claim_id": "C100172",
+    "provider_id": "P1022",
+    "text": "Invoice ID: C100172\nProvider: P1022\nPatient: U2122\nProcedure: PROC_XRAY\nAmount: 872.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100128_C100128_invoice.txt_chunk0",
+    "claim_id": "C100128",
+    "provider_id": "P1019",
+    "text": "Invoice ID: C100128\nProvider: P1019\nPatient: U2318\nProcedure: PROC_B\nAmount: 1430.56\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100802_C100802_invoice.txt_chunk0",
+    "claim_id": "C100802",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100802\nProvider: P1069\nPatient: U2179\nProcedure: PROC_D\nAmount: 6020.36\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100798_C100798_invoice.txt_chunk0",
+    "claim_id": "C100798",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100798\nProvider: P1042\nPatient: U2420\nProcedure: PROC_D\nAmount: 23377.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100779_C100779_invoice.txt_chunk0",
+    "claim_id": "C100779",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100779\nProvider: P1045\nPatient: U2357\nProcedure: PROC_XRAY\nAmount: 905.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100169_C100169_invoice.txt_chunk0",
+    "claim_id": "C100169",
+    "provider_id": "P1075",
+    "text": "Invoice ID: C100169\nProvider: P1075\nPatient: U2152\nProcedure: PROC_D\nAmount: 4081.62\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100484_C100484_invoice.txt_chunk0",
+    "claim_id": "C100484",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100484\nProvider: P1011\nPatient: U2030\nProcedure: PROC_SURG\nAmount: 22990.96\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100484_C100484_invoice.png_chunk0",
+    "claim_id": "C100484",
+    "provider_id": "P1011",
+    "text": "[PLACEHOLDER TEXT for C100484_invoice.png]"
+  },
+  {
+    "doc_id": "C100451_C100451_invoice.txt_chunk0",
+    "claim_id": "C100451",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100451\nProvider: P1042\nPatient: U2365\nProcedure: PROC_D\nAmount: 5811.48\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100577_C100577_invoice.txt_chunk0",
+    "claim_id": "C100577",
+    "provider_id": "P1067",
+    "text": "Invoice ID: C100577\nProvider: P1067\nPatient: U2458\nProcedure: PROC_A\nAmount: 653.86\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100077_C100077_invoice.txt_chunk0",
+    "claim_id": "C100077",
+    "provider_id": "P1058",
+    "text": "Invoice ID: C100077\nProvider: P1058\nPatient: U2102\nProcedure: PROC_C\nAmount: 434.34\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100575_C100575_invoice.txt_chunk0",
+    "claim_id": "C100575",
+    "provider_id": "P1010",
+    "text": "Invoice ID: C100575\nProvider: P1010\nPatient: U2087\nProcedure: PROC_D\nAmount: 7891.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100839_C100839_invoice.txt_chunk0",
+    "claim_id": "C100839",
+    "provider_id": "P1004",
+    "text": "Invoice ID: C100839\nProvider: P1004\nPatient: U2242\nProcedure: PROC_B\nAmount: 3026.57\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100810_C100810_invoice.txt_chunk0",
+    "claim_id": "C100810",
+    "provider_id": "P1006",
+    "text": "Invoice ID: C100810\nProvider: P1006\nPatient: U2080\nProcedure: PROC_A\nAmount: 1062.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100930_C100930_invoice.txt_chunk0",
+    "claim_id": "C100930",
+    "provider_id": "P1052",
+    "text": "Invoice ID: C100930\nProvider: P1052\nPatient: U2454\nProcedure: PROC_D\nAmount: 3071.58\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100616_C100616_invoice.txt_chunk0",
+    "claim_id": "C100616",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100616\nProvider: P1054\nPatient: U2366\nProcedure: PROC_D\nAmount: 6514.72\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100809_C100809_invoice.txt_chunk0",
+    "claim_id": "C100809",
+    "provider_id": "P1055",
+    "text": "Invoice ID: C100809\nProvider: P1055\nPatient: U2015\nProcedure: PROC_SURG\nAmount: 21499.76\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100175_C100175_invoice.txt_chunk0",
+    "claim_id": "C100175",
+    "provider_id": "P1058",
+    "text": "Invoice ID: C100175\nProvider: P1058\nPatient: U2440\nProcedure: PROC_A\nAmount: 823.82\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100818_C100818_invoice.txt_chunk0",
+    "claim_id": "C100818",
+    "provider_id": "P1033",
+    "text": "Invoice ID: C100818\nProvider: P1033\nPatient: U2250\nProcedure: PROC_A\nAmount: 1302.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100677_C100677_invoice.txt_chunk0",
+    "claim_id": "C100677",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100677\nProvider: P1054\nPatient: U2111\nProcedure: PROC_B\nAmount: 2893.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100952_C100952_invoice.txt_chunk0",
+    "claim_id": "C100952",
+    "provider_id": "P1005",
+    "text": "Invoice ID: C100952\nProvider: P1005\nPatient: U2054\nProcedure: PROC_B\nAmount: 2366.51\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100200_C100200_invoice.txt_chunk0",
+    "claim_id": "C100200",
+    "provider_id": "P1015",
+    "text": "Invoice ID: C100200\nProvider: P1015\nPatient: U2236\nProcedure: PROC_SURG\nAmount: 20290.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100532_C100532_invoice.txt_chunk0",
+    "claim_id": "C100532",
+    "provider_id": "P1040",
+    "text": "Invoice ID: C100532\nProvider: P1040\nPatient: U2294\nProcedure: PROC_XRAY\nAmount: 1244.27\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100532_C100532_invoice.png_chunk0",
+    "claim_id": "C100532",
+    "provider_id": "P1040",
+    "text": "[PLACEHOLDER TEXT for C100532_invoice.png]"
+  },
+  {
+    "doc_id": "C100311_C100311_invoice.txt_chunk0",
+    "claim_id": "C100311",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100311\nProvider: P1053\nPatient: U2363\nProcedure: PROC_C\nAmount: 365.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100311_C100311_invoice.png_chunk0",
+    "claim_id": "C100311",
+    "provider_id": "P1053",
+    "text": "[PLACEHOLDER TEXT for C100311_invoice.png]"
+  },
+  {
+    "doc_id": "C100552_C100552_invoice.txt_chunk0",
+    "claim_id": "C100552",
+    "provider_id": "P1060",
+    "text": "Invoice ID: C100552\nProvider: P1060\nPatient: U2050\nProcedure: PROC_C\nAmount: 341.31\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100552_C100552_invoice.png_chunk0",
+    "claim_id": "C100552",
+    "provider_id": "P1060",
+    "text": "[PLACEHOLDER TEXT for C100552_invoice.png]"
+  },
+  {
+    "doc_id": "C100526_C100526_invoice.txt_chunk0",
+    "claim_id": "C100526",
+    "provider_id": "P1014",
+    "text": "Invoice ID: C100526\nProvider: P1014\nPatient: U2479\nProcedure: PROC_A\nAmount: 698.08\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100895_C100895_invoice.txt_chunk0",
+    "claim_id": "C100895",
+    "provider_id": "P1008",
+    "text": "Invoice ID: C100895\nProvider: P1008\nPatient: U2085\nProcedure: PROC_A\nAmount: 732.37\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100399_C100399_invoice.txt_chunk0",
+    "claim_id": "C100399",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100399\nProvider: P1049\nPatient: U2185\nProcedure: PROC_XRAY\nAmount: 799.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100399_C100399_invoice.png_chunk0",
+    "claim_id": "C100399",
+    "provider_id": "P1049",
+    "text": "[PLACEHOLDER TEXT for C100399_invoice.png]"
+  },
+  {
+    "doc_id": "C100705_C100705_invoice.txt_chunk0",
+    "claim_id": "C100705",
+    "provider_id": "P1040",
+    "text": "Invoice ID: C100705\nProvider: P1040\nPatient: U2184\nProcedure: PROC_B\nAmount: 1591.68\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100309_C100309_invoice.txt_chunk0",
+    "claim_id": "C100309",
+    "provider_id": "P1055",
+    "text": "Invoice ID: C100309\nProvider: P1055\nPatient: U2021\nProcedure: PROC_A\nAmount: 1222.97\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100152_C100152_invoice.txt_chunk0",
+    "claim_id": "C100152",
+    "provider_id": "P1070",
+    "text": "Invoice ID: C100152\nProvider: P1070\nPatient: U2242\nProcedure: PROC_XRAY\nAmount: 1162.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100152_C100152_invoice.png_chunk0",
+    "claim_id": "C100152",
+    "provider_id": "P1070",
+    "text": "[PLACEHOLDER TEXT for C100152_invoice.png]"
+  },
+  {
+    "doc_id": "C100833_C100833_invoice.txt_chunk0",
+    "claim_id": "C100833",
+    "provider_id": "P1041",
+    "text": "Invoice ID: C100833\nProvider: P1041\nPatient: U2282\nProcedure: PROC_C\nAmount: 509.47\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100273_C100273_invoice.txt_chunk0",
+    "claim_id": "C100273",
+    "provider_id": "P1056",
+    "text": "Invoice ID: C100273\nProvider: P1056\nPatient: U2251\nProcedure: PROC_A\nAmount: 1289.46\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100819_C100819_invoice.txt_chunk0",
+    "claim_id": "C100819",
+    "provider_id": "P1047",
+    "text": "Invoice ID: C100819\nProvider: P1047\nPatient: U2094\nProcedure: PROC_D\nAmount: 5252.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100878_C100878_invoice.txt_chunk0",
+    "claim_id": "C100878",
+    "provider_id": "P1039",
+    "text": "Invoice ID: C100878\nProvider: P1039\nPatient: U2114\nProcedure: PROC_D\nAmount: 6034.39\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100374_C100374_invoice.txt_chunk0",
+    "claim_id": "C100374",
+    "provider_id": "P1067",
+    "text": "Invoice ID: C100374\nProvider: P1067\nPatient: U2488\nProcedure: PROC_XRAY\nAmount: 828.47\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100091_C100091_invoice.txt_chunk0",
+    "claim_id": "C100091",
+    "provider_id": "P1022",
+    "text": "Invoice ID: C100091\nProvider: P1022\nPatient: U2383\nProcedure: PROC_XRAY\nAmount: 960.41\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100957_C100957_invoice.txt_chunk0",
+    "claim_id": "C100957",
+    "provider_id": "P1075",
+    "text": "Invoice ID: C100957\nProvider: P1075\nPatient: U2234\nProcedure: PROC_XRAY\nAmount: 578.34\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100957_C100957_invoice.png_chunk0",
+    "claim_id": "C100957",
+    "provider_id": "P1075",
+    "text": "[PLACEHOLDER TEXT for C100957_invoice.png]"
+  },
+  {
+    "doc_id": "C100452_C100452_invoice.txt_chunk0",
+    "claim_id": "C100452",
+    "provider_id": "P1065",
+    "text": "Invoice ID: C100452\nProvider: P1065\nPatient: U2310\nProcedure: PROC_B\nAmount: 3123.33\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100933_C100933_invoice.txt_chunk0",
+    "claim_id": "C100933",
+    "provider_id": "P1043",
+    "text": "Invoice ID: C100933\nProvider: P1043\nPatient: U2447\nProcedure: PROC_XRAY\nAmount: 484.53\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100933_C100933_invoice.png_chunk0",
+    "claim_id": "C100933",
+    "provider_id": "P1043",
+    "text": "[PLACEHOLDER TEXT for C100933_invoice.png]"
+  },
+  {
+    "doc_id": "C100365_C100365_invoice.txt_chunk0",
+    "claim_id": "C100365",
+    "provider_id": "P1057",
+    "text": "Invoice ID: C100365\nProvider: P1057\nPatient: U2240\nProcedure: PROC_XRAY\nAmount: 2880.96\nDetails: Generic invoice for services rendered.\nNotes: Standard billing.\nNote: DUPLICATE CHARGE\nExtra line: Equipment: EXTERNAL_URGENT_IMPLANT"
+  },
+  {
+    "doc_id": "C100973_C100973_invoice.txt_chunk0",
+    "claim_id": "C100973",
+    "provider_id": "P1018",
+    "text": "Invoice ID: C100973\nProvider: P1018\nPatient: U2195\nProcedure: PROC_A\nAmount: 1306.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100973_C100973_invoice.png_chunk0",
+    "claim_id": "C100973",
+    "provider_id": "P1018",
+    "text": "[PLACEHOLDER TEXT for C100973_invoice.png]"
+  },
+  {
+    "doc_id": "C100318_C100318_invoice.txt_chunk0",
+    "claim_id": "C100318",
+    "provider_id": "P1018",
+    "text": "Invoice ID: C100318\nProvider: P1018\nPatient: U2179\nProcedure: PROC_B\nAmount: 1918.47\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100062_C100062_invoice.txt_chunk0",
+    "claim_id": "C100062",
+    "provider_id": "P1043",
+    "text": "Invoice ID: C100062\nProvider: P1043\nPatient: U2107\nProcedure: PROC_B\nAmount: 2466.48\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100018_C100018_invoice.txt_chunk0",
+    "claim_id": "C100018",
+    "provider_id": "P1067",
+    "text": "Invoice ID: C100018\nProvider: P1067\nPatient: U2276\nProcedure: PROC_A\nAmount: 979.31\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100018_C100018_invoice.png_chunk0",
+    "claim_id": "C100018",
+    "provider_id": "P1067",
+    "text": "[PLACEHOLDER TEXT for C100018_invoice.png]"
+  },
+  {
+    "doc_id": "C100976_C100976_invoice.txt_chunk0",
+    "claim_id": "C100976",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100976\nProvider: P1069\nPatient: U2385\nProcedure: PROC_A\nAmount: 960.23\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100976_C100976_invoice.png_chunk0",
+    "claim_id": "C100976",
+    "provider_id": "P1069",
+    "text": "[PLACEHOLDER TEXT for C100976_invoice.png]"
+  },
+  {
+    "doc_id": "C100982_C100982_invoice.txt_chunk0",
+    "claim_id": "C100982",
+    "provider_id": "P1047",
+    "text": "Invoice ID: C100982\nProvider: P1047\nPatient: U2360\nProcedure: PROC_XRAY\nAmount: 513.83\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100749_C100749_invoice.txt_chunk0",
+    "claim_id": "C100749",
+    "provider_id": "P1059",
+    "text": "Invoice ID: C100749\nProvider: P1059\nPatient: U2230\nProcedure: PROC_C\nAmount: 504.15\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100744_C100744_invoice.txt_chunk0",
+    "claim_id": "C100744",
+    "provider_id": "P1050",
+    "text": "Invoice ID: C100744\nProvider: P1050\nPatient: U2326\nProcedure: PROC_A\nAmount: 1437.04\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100347_C100347_invoice.txt_chunk0",
+    "claim_id": "C100347",
+    "provider_id": "P1067",
+    "text": "Invoice ID: C100347\nProvider: P1067\nPatient: U2452\nProcedure: PROC_A\nAmount: 1467.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100617_C100617_invoice.txt_chunk0",
+    "claim_id": "C100617",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100617\nProvider: P1074\nPatient: U2245\nProcedure: PROC_D\nAmount: 5432.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100675_C100675_invoice.txt_chunk0",
+    "claim_id": "C100675",
+    "provider_id": "P1000",
+    "text": "Invoice ID: C100675\nProvider: P1000\nPatient: U2297\nProcedure: PROC_SURG\nAmount: 17232.58\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100022_C100022_invoice.txt_chunk0",
+    "claim_id": "C100022",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100022\nProvider: P1016\nPatient: U2392\nProcedure: PROC_B\nAmount: 2927.04\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100660_C100660_invoice.txt_chunk0",
+    "claim_id": "C100660",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100660\nProvider: P1031\nPatient: U2052\nProcedure: PROC_C\nAmount: 566.21\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100706_C100706_invoice.txt_chunk0",
+    "claim_id": "C100706",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100706\nProvider: P1046\nPatient: U2215\nProcedure: PROC_XRAY\nAmount: 906.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100510_C100510_invoice.txt_chunk0",
+    "claim_id": "C100510",
+    "provider_id": "P1026",
+    "text": "Invoice ID: C100510\nProvider: P1026\nPatient: U2059\nProcedure: PROC_SURG\nAmount: 21720.24\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100188_C100188_invoice.txt_chunk0",
+    "claim_id": "C100188",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100188\nProvider: P1011\nPatient: U2496\nProcedure: PROC_D\nAmount: 3307.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100235_C100235_invoice.txt_chunk0",
+    "claim_id": "C100235",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100235\nProvider: P1029\nPatient: U2397\nProcedure: PROC_XRAY\nAmount: 1240.69\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100419_C100419_invoice.txt_chunk0",
+    "claim_id": "C100419",
+    "provider_id": "P1015",
+    "text": "Invoice ID: C100419\nProvider: P1015\nPatient: U2425\nProcedure: PROC_XRAY\nAmount: 1093.32\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100739_C100739_invoice.txt_chunk0",
+    "claim_id": "C100739",
+    "provider_id": "P1039",
+    "text": "Invoice ID: C100739\nProvider: P1039\nPatient: U2192\nProcedure: PROC_A\nAmount: 853.97\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100699_C100699_invoice.txt_chunk0",
+    "claim_id": "C100699",
+    "provider_id": "P1010",
+    "text": "Invoice ID: C100699\nProvider: P1010\nPatient: U2141\nProcedure: PROC_B\nAmount: 2844.21\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100542_C100542_invoice.txt_chunk0",
+    "claim_id": "C100542",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100542\nProvider: P1042\nPatient: U2104\nProcedure: PROC_SURG\nAmount: 19203.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100542_C100542_invoice.png_chunk0",
+    "claim_id": "C100542",
+    "provider_id": "P1042",
+    "text": "[PLACEHOLDER TEXT for C100542_invoice.png]"
+  },
+  {
+    "doc_id": "C100944_C100944_invoice.txt_chunk0",
+    "claim_id": "C100944",
+    "provider_id": "P1070",
+    "text": "Invoice ID: C100944\nProvider: P1070\nPatient: U2285\nProcedure: PROC_A\nAmount: 1468.94\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100315_C100315_invoice.txt_chunk0",
+    "claim_id": "C100315",
+    "provider_id": "P1039",
+    "text": "Invoice ID: C100315\nProvider: P1039\nPatient: U2202\nProcedure: PROC_SURG\nAmount: 21815.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100227_C100227_invoice.txt_chunk0",
+    "claim_id": "C100227",
+    "provider_id": "P1001",
+    "text": "Invoice ID: C100227\nProvider: P1001\nPatient: U2341\nProcedure: PROC_D\nAmount: 7093.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100241_C100241_invoice.txt_chunk0",
+    "claim_id": "C100241",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100241\nProvider: P1046\nPatient: U2448\nProcedure: PROC_XRAY\nAmount: 504.91\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100490_C100490_invoice.txt_chunk0",
+    "claim_id": "C100490",
+    "provider_id": "P1064",
+    "text": "Invoice ID: C100490\nProvider: P1064\nPatient: U2435\nProcedure: PROC_D\nAmount: 4162.76\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100490_C100490_invoice.png_chunk0",
+    "claim_id": "C100490",
+    "provider_id": "P1064",
+    "text": "[PLACEHOLDER TEXT for C100490_invoice.png]"
+  },
+  {
+    "doc_id": "C100673_C100673_invoice.txt_chunk0",
+    "claim_id": "C100673",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100673\nProvider: P1011\nPatient: U2038\nProcedure: PROC_D\nAmount: 7300.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100107_C100107_invoice.txt_chunk0",
+    "claim_id": "C100107",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100107\nProvider: P1020\nPatient: U2228\nProcedure: PROC_SURG\nAmount: 20563.68\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100898_C100898_invoice.txt_chunk0",
+    "claim_id": "C100898",
+    "provider_id": "P1024",
+    "text": "Invoice ID: C100898\nProvider: P1024\nPatient: U2183\nProcedure: PROC_B\nAmount: 2939.94\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100441_C100441_invoice.txt_chunk0",
+    "claim_id": "C100441",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100441\nProvider: P1074\nPatient: U2110\nProcedure: PROC_C\nAmount: 634.8\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100441_C100441_invoice.png_chunk0",
+    "claim_id": "C100441",
+    "provider_id": "P1074",
+    "text": "[PLACEHOLDER TEXT for C100441_invoice.png]"
+  },
+  {
+    "doc_id": "C100439_C100439_invoice.txt_chunk0",
+    "claim_id": "C100439",
+    "provider_id": "P1063",
+    "text": "Invoice ID: C100439\nProvider: P1063\nPatient: U2239\nProcedure: PROC_C\nAmount: 477.5\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100717_C100717_invoice.txt_chunk0",
+    "claim_id": "C100717",
+    "provider_id": "P1001",
+    "text": "Invoice ID: C100717\nProvider: P1001\nPatient: U2359\nProcedure: PROC_B\nAmount: 3176.83\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100717_C100717_invoice.png_chunk0",
+    "claim_id": "C100717",
+    "provider_id": "P1001",
+    "text": "[PLACEHOLDER TEXT for C100717_invoice.png]"
+  },
+  {
+    "doc_id": "C100436_C100436_invoice.txt_chunk0",
+    "claim_id": "C100436",
+    "provider_id": "P1037",
+    "text": "Invoice ID: C100436\nProvider: P1037\nPatient: U2025\nProcedure: PROC_D\nAmount: 3428.29\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100436_C100436_invoice.png_chunk0",
+    "claim_id": "C100436",
+    "provider_id": "P1037",
+    "text": "[PLACEHOLDER TEXT for C100436_invoice.png]"
+  },
+  {
+    "doc_id": "C100343_C100343_invoice.txt_chunk0",
+    "claim_id": "C100343",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100343\nProvider: P1046\nPatient: U2260\nProcedure: PROC_A\nAmount: 1288.21\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100473_C100473_invoice.txt_chunk0",
+    "claim_id": "C100473",
+    "provider_id": "P1036",
+    "text": "Invoice ID: C100473\nProvider: P1036\nPatient: U2140\nProcedure: PROC_A\nAmount: 1592.16\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100080_C100080_invoice.txt_chunk0",
+    "claim_id": "C100080",
+    "provider_id": "P1068",
+    "text": "Invoice ID: C100080\nProvider: P1068\nPatient: U2204\nProcedure: PROC_C\nAmount: 622.53\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100696_C100696_invoice.txt_chunk0",
+    "claim_id": "C100696",
+    "provider_id": "P1027",
+    "text": "Invoice ID: C100696\nProvider: P1027\nPatient: U2440\nProcedure: PROC_A\nAmount: 943.66\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100979_C100979_invoice.txt_chunk0",
+    "claim_id": "C100979",
+    "provider_id": "P1006",
+    "text": "Invoice ID: C100979\nProvider: P1006\nPatient: U2147\nProcedure: PROC_D\nAmount: 7536.0\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100946_C100946_invoice.txt_chunk0",
+    "claim_id": "C100946",
+    "provider_id": "P1026",
+    "text": "Invoice ID: C100946\nProvider: P1026\nPatient: U2287\nProcedure: PROC_SURG\nAmount: 20917.73\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100946_C100946_invoice.png_chunk0",
+    "claim_id": "C100946",
+    "provider_id": "P1026",
+    "text": "[PLACEHOLDER TEXT for C100946_invoice.png]"
+  },
+  {
+    "doc_id": "C100030_C100030_invoice.txt_chunk0",
+    "claim_id": "C100030",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100030\nProvider: P1042\nPatient: U2440\nProcedure: PROC_A\nAmount: 778.04\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100010_C100010_invoice.txt_chunk0",
+    "claim_id": "C100010",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100010\nProvider: P1054\nPatient: U2405\nProcedure: PROC_XRAY\nAmount: 779.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100890_C100890_invoice.txt_chunk0",
+    "claim_id": "C100890",
+    "provider_id": "P1004",
+    "text": "Invoice ID: C100890\nProvider: P1004\nPatient: U2002\nProcedure: PROC_XRAY\nAmount: 1067.66\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100524_C100524_invoice.txt_chunk0",
+    "claim_id": "C100524",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100524\nProvider: P1069\nPatient: U2237\nProcedure: PROC_D\nAmount: 3213.17\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100795_C100795_invoice.txt_chunk0",
+    "claim_id": "C100795",
+    "provider_id": "P1078",
+    "text": "Invoice ID: C100795\nProvider: P1078\nPatient: U2471\nProcedure: PROC_B\nAmount: 2479.21\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100157_C100157_invoice.txt_chunk0",
+    "claim_id": "C100157",
+    "provider_id": "P1075",
+    "text": "Invoice ID: C100157\nProvider: P1075\nPatient: U2370\nProcedure: PROC_XRAY\nAmount: 1109.08\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100157_C100157_invoice.png_chunk0",
+    "claim_id": "C100157",
+    "provider_id": "P1075",
+    "text": "[PLACEHOLDER TEXT for C100157_invoice.png]"
+  },
+  {
+    "doc_id": "C100346_C100346_invoice.txt_chunk0",
+    "claim_id": "C100346",
+    "provider_id": "P1012",
+    "text": "Invoice ID: C100346\nProvider: P1012\nPatient: U2432\nProcedure: PROC_XRAY\nAmount: 1241.45\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100752_C100752_invoice.txt_chunk0",
+    "claim_id": "C100752",
+    "provider_id": "P1077",
+    "text": "Invoice ID: C100752\nProvider: P1077\nPatient: U2155\nProcedure: PROC_A\nAmount: 1264.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100257_C100257_invoice.txt_chunk0",
+    "claim_id": "C100257",
+    "provider_id": "P1056",
+    "text": "Invoice ID: C100257\nProvider: P1056\nPatient: U2111\nProcedure: PROC_D\nAmount: 4551.81\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100317_C100317_invoice.txt_chunk0",
+    "claim_id": "C100317",
+    "provider_id": "P1065",
+    "text": "Invoice ID: C100317\nProvider: P1065\nPatient: U2271\nProcedure: PROC_B\nAmount: 2385.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100317_C100317_invoice.png_chunk0",
+    "claim_id": "C100317",
+    "provider_id": "P1065",
+    "text": "[PLACEHOLDER TEXT for C100317_invoice.png]"
+  },
+  {
+    "doc_id": "C100496_C100496_invoice.txt_chunk0",
+    "claim_id": "C100496",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100496\nProvider: P1031\nPatient: U2165\nProcedure: PROC_A\nAmount: 1202.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100004_C100004_invoice.txt_chunk0",
+    "claim_id": "C100004",
+    "provider_id": "P1072",
+    "text": "Invoice ID: C100004\nProvider: P1072\nPatient: U2108\nProcedure: PROC_SURG\nAmount: 17793.45\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100710_C100710_invoice.txt_chunk0",
+    "claim_id": "C100710",
+    "provider_id": "P1051",
+    "text": "Invoice ID: C100710\nProvider: P1051\nPatient: U2216\nProcedure: PROC_A\nAmount: 1107.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100198_C100198_invoice.txt_chunk0",
+    "claim_id": "C100198",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100198\nProvider: P1020\nPatient: U2363\nProcedure: PROC_C\nAmount: 648.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100116_C100116_invoice.txt_chunk0",
+    "claim_id": "C100116",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100116\nProvider: P1049\nPatient: U2385\nProcedure: PROC_D\nAmount: 7751.19\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100204_C100204_invoice.txt_chunk0",
+    "claim_id": "C100204",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100204\nProvider: P1017\nPatient: U2382\nProcedure: PROC_A\nAmount: 935.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100692_C100692_invoice.txt_chunk0",
+    "claim_id": "C100692",
+    "provider_id": "P1048",
+    "text": "Invoice ID: C100692\nProvider: P1048\nPatient: U2070\nProcedure: PROC_B\nAmount: 1677.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100174_C100174_invoice.txt_chunk0",
+    "claim_id": "C100174",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100174\nProvider: P1029\nPatient: U2016\nProcedure: PROC_C\nAmount: 531.69\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100701_C100701_invoice.txt_chunk0",
+    "claim_id": "C100701",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100701\nProvider: P1038\nPatient: U2013\nProcedure: PROC_B\nAmount: 3128.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100202_C100202_invoice.txt_chunk0",
+    "claim_id": "C100202",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100202\nProvider: P1061\nPatient: U2427\nProcedure: PROC_D\nAmount: 7359.22\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100756_C100756_invoice.txt_chunk0",
+    "claim_id": "C100756",
+    "provider_id": "P1070",
+    "text": "Invoice ID: C100756\nProvider: P1070\nPatient: U2284\nProcedure: PROC_B\nAmount: 2120.72\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100920_C100920_invoice.txt_chunk0",
+    "claim_id": "C100920",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100920\nProvider: P1017\nPatient: U2004\nProcedure: PROC_SURG\nAmount: 20438.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100119_C100119_invoice.txt_chunk0",
+    "claim_id": "C100119",
+    "provider_id": "P1051",
+    "text": "Invoice ID: C100119\nProvider: P1051\nPatient: U2347\nProcedure: PROC_SURG\nAmount: 20385.54\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100177_C100177_invoice.txt_chunk0",
+    "claim_id": "C100177",
+    "provider_id": "P1014",
+    "text": "Invoice ID: C100177\nProvider: P1014\nPatient: U2217\nProcedure: PROC_XRAY\nAmount: 845.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100275_C100275_invoice.txt_chunk0",
+    "claim_id": "C100275",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100275\nProvider: P1074\nPatient: U2324\nProcedure: PROC_XRAY\nAmount: 505.27\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100862_C100862_invoice.txt_chunk0",
+    "claim_id": "C100862",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100862\nProvider: P1054\nPatient: U2140\nProcedure: PROC_D\nAmount: 3127.24\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100013_C100013_invoice.txt_chunk0",
+    "claim_id": "C100013",
+    "provider_id": "P1068",
+    "text": "Invoice ID: C100013\nProvider: P1068\nPatient: U2453\nProcedure: PROC_C\nAmount: 525.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100248_C100248_invoice.txt_chunk0",
+    "claim_id": "C100248",
+    "provider_id": "P1047",
+    "text": "Invoice ID: C100248\nProvider: P1047\nPatient: U2481\nProcedure: PROC_A\nAmount: 1130.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100909_C100909_invoice.txt_chunk0",
+    "claim_id": "C100909",
+    "provider_id": "P1036",
+    "text": "Invoice ID: C100909\nProvider: P1036\nPatient: U2060\nProcedure: PROC_A\nAmount: 1518.73\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100345_C100345_invoice.txt_chunk0",
+    "claim_id": "C100345",
+    "provider_id": "P1028",
+    "text": "Invoice ID: C100345\nProvider: P1028\nPatient: U2098\nProcedure: PROC_B\nAmount: 2571.94\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100345_C100345_invoice.png_chunk0",
+    "claim_id": "C100345",
+    "provider_id": "P1028",
+    "text": "[PLACEHOLDER TEXT for C100345_invoice.png]"
+  },
+  {
+    "doc_id": "C100941_C100941_invoice.txt_chunk0",
+    "claim_id": "C100941",
+    "provider_id": "P1056",
+    "text": "Invoice ID: C100941\nProvider: P1056\nPatient: U2235\nProcedure: PROC_XRAY\nAmount: 985.67\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100384_C100384_invoice.txt_chunk0",
+    "claim_id": "C100384",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100384\nProvider: P1069\nPatient: U2203\nProcedure: PROC_D\nAmount: 7757.39\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100894_C100894_invoice.txt_chunk0",
+    "claim_id": "C100894",
+    "provider_id": "P1013",
+    "text": "Invoice ID: C100894\nProvider: P1013\nPatient: U2066\nProcedure: PROC_D\nAmount: 6554.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100540_C100540_invoice.txt_chunk0",
+    "claim_id": "C100540",
+    "provider_id": "P1059",
+    "text": "Invoice ID: C100540\nProvider: P1059\nPatient: U2073\nProcedure: PROC_A\nAmount: 826.96\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100540_C100540_invoice.png_chunk0",
+    "claim_id": "C100540",
+    "provider_id": "P1059",
+    "text": "[PLACEHOLDER TEXT for C100540_invoice.png]"
+  },
+  {
+    "doc_id": "C100567_C100567_invoice.txt_chunk0",
+    "claim_id": "C100567",
+    "provider_id": "P1035",
+    "text": "Invoice ID: C100567\nProvider: P1035\nPatient: U2369\nProcedure: PROC_XRAY\nAmount: 790.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100641_C100641_invoice.txt_chunk0",
+    "claim_id": "C100641",
+    "provider_id": "P1062",
+    "text": "Invoice ID: C100641\nProvider: P1062\nPatient: U2134\nProcedure: PROC_XRAY\nAmount: 1153.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100641_C100641_invoice.png_chunk0",
+    "claim_id": "C100641",
+    "provider_id": "P1062",
+    "text": "[PLACEHOLDER TEXT for C100641_invoice.png]"
+  },
+  {
+    "doc_id": "C100129_C100129_invoice.txt_chunk0",
+    "claim_id": "C100129",
+    "provider_id": "P1072",
+    "text": "Invoice ID: C100129\nProvider: P1072\nPatient: U2058\nProcedure: PROC_B\nAmount: 2790.68\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100090_C100090_invoice.txt_chunk0",
+    "claim_id": "C100090",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100090\nProvider: P1053\nPatient: U2098\nProcedure: PROC_SURG\nAmount: 19982.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100305_C100305_invoice.txt_chunk0",
+    "claim_id": "C100305",
+    "provider_id": "P1032",
+    "text": "Invoice ID: C100305\nProvider: P1032\nPatient: U2391\nProcedure: PROC_C\nAmount: 736.71\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100126_C100126_invoice.txt_chunk0",
+    "claim_id": "C100126",
+    "provider_id": "P1044",
+    "text": "Invoice ID: C100126\nProvider: P1044\nPatient: U2026\nProcedure: PROC_B\nAmount: 1441.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100963_C100963_invoice.txt_chunk0",
+    "claim_id": "C100963",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100963\nProvider: P1031\nPatient: U2390\nProcedure: PROC_C\nAmount: 701.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100163_C100163_invoice.txt_chunk0",
+    "claim_id": "C100163",
+    "provider_id": "P1006",
+    "text": "Invoice ID: C100163\nProvider: P1006\nPatient: U2494\nProcedure: PROC_C\nAmount: 415.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100111_C100111_invoice.txt_chunk0",
+    "claim_id": "C100111",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100111\nProvider: P1017\nPatient: U2041\nProcedure: PROC_B\nAmount: 2119.36\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100111_C100111_invoice.png_chunk0",
+    "claim_id": "C100111",
+    "provider_id": "P1017",
+    "text": "[PLACEHOLDER TEXT for C100111_invoice.png]"
+  },
+  {
+    "doc_id": "C100702_C100702_invoice.txt_chunk0",
+    "claim_id": "C100702",
+    "provider_id": "P1050",
+    "text": "Invoice ID: C100702\nProvider: P1050\nPatient: U2096\nProcedure: PROC_C\nAmount: 561.66\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100859_C100859_invoice.txt_chunk0",
+    "claim_id": "C100859",
+    "provider_id": "P1001",
+    "text": "Invoice ID: C100859\nProvider: P1001\nPatient: U2010\nProcedure: PROC_D\nAmount: 5152.65\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100868_C100868_invoice.txt_chunk0",
+    "claim_id": "C100868",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100868\nProvider: P1038\nPatient: U2133\nProcedure: PROC_B\nAmount: 3128.03\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100453_C100453_invoice.txt_chunk0",
+    "claim_id": "C100453",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100453\nProvider: P1020\nPatient: U2163\nProcedure: PROC_D\nAmount: 6774.19\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100719_C100719_invoice.txt_chunk0",
+    "claim_id": "C100719",
+    "provider_id": "P1034",
+    "text": "Invoice ID: C100719\nProvider: P1034\nPatient: U2064\nProcedure: PROC_SURG\nAmount: 19877.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100728_C100728_invoice.txt_chunk0",
+    "claim_id": "C100728",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100728\nProvider: P1053\nPatient: U2379\nProcedure: PROC_B\nAmount: 2838.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100327_C100327_invoice.txt_chunk0",
+    "claim_id": "C100327",
+    "provider_id": "P1076",
+    "text": "Invoice ID: C100327\nProvider: P1076\nPatient: U2314\nProcedure: PROC_XRAY\nAmount: 1015.51\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100502_C100502_invoice.txt_chunk0",
+    "claim_id": "C100502",
+    "provider_id": "P1078",
+    "text": "Invoice ID: C100502\nProvider: P1078\nPatient: U2188\nProcedure: PROC_B\nAmount: 1541.33\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100072_C100072_invoice.txt_chunk0",
+    "claim_id": "C100072",
+    "provider_id": "P1052",
+    "text": "Invoice ID: C100072\nProvider: P1052\nPatient: U2452\nProcedure: PROC_XRAY\nAmount: 1168.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100002_C100002_invoice.txt_chunk0",
+    "claim_id": "C100002",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100002\nProvider: P1071\nPatient: U2352\nProcedure: PROC_B\nAmount: 1654.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100573_C100573_invoice.txt_chunk0",
+    "claim_id": "C100573",
+    "provider_id": "P1004",
+    "text": "Invoice ID: C100573\nProvider: P1004\nPatient: U2334\nProcedure: PROC_A\nAmount: 1518.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100825_C100825_invoice.txt_chunk0",
+    "claim_id": "C100825",
+    "provider_id": "P1060",
+    "text": "Invoice ID: C100825\nProvider: P1060\nPatient: U2443\nProcedure: PROC_XRAY\nAmount: 1244.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100825_C100825_invoice.png_chunk0",
+    "claim_id": "C100825",
+    "provider_id": "P1060",
+    "text": "[PLACEHOLDER TEXT for C100825_invoice.png]"
+  },
+  {
+    "doc_id": "C100620_C100620_invoice.txt_chunk0",
+    "claim_id": "C100620",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100620\nProvider: P1031\nPatient: U2055\nProcedure: PROC_SURG\nAmount: 9878.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100012_C100012_invoice.txt_chunk0",
+    "claim_id": "C100012",
+    "provider_id": "P1001",
+    "text": "Invoice ID: C100012\nProvider: P1001\nPatient: U2440\nProcedure: PROC_SURG\nAmount: 21606.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100803_C100803_invoice.txt_chunk0",
+    "claim_id": "C100803",
+    "provider_id": "P1073",
+    "text": "Invoice ID: C100803\nProvider: P1073\nPatient: U2403\nProcedure: PROC_SURG\nAmount: 11100.36\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100883_C100883_invoice.txt_chunk0",
+    "claim_id": "C100883",
+    "provider_id": "P1025",
+    "text": "Invoice ID: C100883\nProvider: P1025\nPatient: U2070\nProcedure: PROC_C\nAmount: 384.17\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100688_C100688_invoice.txt_chunk0",
+    "claim_id": "C100688",
+    "provider_id": "P1028",
+    "text": "Invoice ID: C100688\nProvider: P1028\nPatient: U2303\nProcedure: PROC_XRAY\nAmount: 1085.4\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100427_C100427_invoice.txt_chunk0",
+    "claim_id": "C100427",
+    "provider_id": "P1073",
+    "text": "Invoice ID: C100427\nProvider: P1073\nPatient: U2394\nProcedure: PROC_C\nAmount: 370.89\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100108_C100108_invoice.txt_chunk0",
+    "claim_id": "C100108",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100108\nProvider: P1031\nPatient: U2132\nProcedure: PROC_SURG\nAmount: 10127.07\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100108_C100108_invoice.png_chunk0",
+    "claim_id": "C100108",
+    "provider_id": "P1031",
+    "text": "[PLACEHOLDER TEXT for C100108_invoice.png]"
+  },
+  {
+    "doc_id": "C100740_C100740_invoice.txt_chunk0",
+    "claim_id": "C100740",
+    "provider_id": "P1062",
+    "text": "Invoice ID: C100740\nProvider: P1062\nPatient: U2214\nProcedure: PROC_A\nAmount: 726.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100969_C100969_invoice.txt_chunk0",
+    "claim_id": "C100969",
+    "provider_id": "P1022",
+    "text": "Invoice ID: C100969\nProvider: P1022\nPatient: U2332\nProcedure: PROC_XRAY\nAmount: 523.47\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100969_C100969_invoice.png_chunk0",
+    "claim_id": "C100969",
+    "provider_id": "P1022",
+    "text": "[PLACEHOLDER TEXT for C100969_invoice.png]"
+  },
+  {
+    "doc_id": "C100181_C100181_invoice.txt_chunk0",
+    "claim_id": "C100181",
+    "provider_id": "P1051",
+    "text": "Invoice ID: C100181\nProvider: P1051\nPatient: U2155\nProcedure: PROC_C\nAmount: 464.53\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100923_C100923_invoice.txt_chunk0",
+    "claim_id": "C100923",
+    "provider_id": "P1058",
+    "text": "Invoice ID: C100923\nProvider: P1058\nPatient: U2204\nProcedure: PROC_C\nAmount: 616.27\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100948_C100948_invoice.txt_chunk0",
+    "claim_id": "C100948",
+    "provider_id": "P1079",
+    "text": "Invoice ID: C100948\nProvider: P1079\nPatient: U2286\nProcedure: PROC_XRAY\nAmount: 1013.48\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100335_C100335_invoice.txt_chunk0",
+    "claim_id": "C100335",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100335\nProvider: P1042\nPatient: U2331\nProcedure: PROC_A\nAmount: 1464.22\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100335_C100335_invoice.png_chunk0",
+    "claim_id": "C100335",
+    "provider_id": "P1042",
+    "text": "[PLACEHOLDER TEXT for C100335_invoice.png]"
+  },
+  {
+    "doc_id": "C100308_C100308_invoice.txt_chunk0",
+    "claim_id": "C100308",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100308\nProvider: P1045\nPatient: U2412\nProcedure: PROC_A\nAmount: 959.15\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100753_C100753_invoice.txt_chunk0",
+    "claim_id": "C100753",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100753\nProvider: P1011\nPatient: U2075\nProcedure: PROC_SURG\nAmount: 18761.53\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100304_C100304_invoice.txt_chunk0",
+    "claim_id": "C100304",
+    "provider_id": "P1026",
+    "text": "Invoice ID: C100304\nProvider: P1026\nPatient: U2003\nProcedure: PROC_C\nAmount: 662.63\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100781_C100781_invoice.txt_chunk0",
+    "claim_id": "C100781",
+    "provider_id": "P1063",
+    "text": "Invoice ID: C100781\nProvider: P1063\nPatient: U2428\nProcedure: PROC_XRAY\nAmount: 823.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100530_C100530_invoice.txt_chunk0",
+    "claim_id": "C100530",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100530\nProvider: P1029\nPatient: U2224\nProcedure: PROC_XRAY\nAmount: 780.71\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100042_C100042_invoice.txt_chunk0",
+    "claim_id": "C100042",
+    "provider_id": "P1000",
+    "text": "Invoice ID: C100042\nProvider: P1000\nPatient: U2194\nProcedure: PROC_D\nAmount: 5672.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100042_C100042_invoice.png_chunk0",
+    "claim_id": "C100042",
+    "provider_id": "P1000",
+    "text": "[PLACEHOLDER TEXT for C100042_invoice.png]"
+  },
+  {
+    "doc_id": "C100356_C100356_invoice.txt_chunk0",
+    "claim_id": "C100356",
+    "provider_id": "P1032",
+    "text": "Invoice ID: C100356\nProvider: P1032\nPatient: U2070\nProcedure: PROC_A\nAmount: 1563.35\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100633_C100633_invoice.txt_chunk0",
+    "claim_id": "C100633",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100633\nProvider: P1031\nPatient: U2476\nProcedure: PROC_XRAY\nAmount: 787.07\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100791_C100791_invoice.txt_chunk0",
+    "claim_id": "C100791",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100791\nProvider: P1045\nPatient: U2402\nProcedure: PROC_B\nAmount: 2403.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100437_C100437_invoice.txt_chunk0",
+    "claim_id": "C100437",
+    "provider_id": "P1020",
+    "text": "Invoice ID: C100437\nProvider: P1020\nPatient: U2127\nProcedure: PROC_C\nAmount: 395.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100771_C100771_invoice.txt_chunk0",
+    "claim_id": "C100771",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100771\nProvider: P1069\nPatient: U2245\nProcedure: PROC_D\nAmount: 5343.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100471_C100471_invoice.txt_chunk0",
+    "claim_id": "C100471",
+    "provider_id": "P1036",
+    "text": "Invoice ID: C100471\nProvider: P1036\nPatient: U2394\nProcedure: PROC_SURG\nAmount: 18008.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100294_C100294_invoice.txt_chunk0",
+    "claim_id": "C100294",
+    "provider_id": "P1018",
+    "text": "Invoice ID: C100294\nProvider: P1018\nPatient: U2445\nProcedure: PROC_XRAY\nAmount: 1000.26\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100294_C100294_invoice.png_chunk0",
+    "claim_id": "C100294",
+    "provider_id": "P1018",
+    "text": "[PLACEHOLDER TEXT for C100294_invoice.png]"
+  },
+  {
+    "doc_id": "C100600_C100600_invoice.txt_chunk0",
+    "claim_id": "C100600",
+    "provider_id": "P1048",
+    "text": "Invoice ID: C100600\nProvider: P1048\nPatient: U2350\nProcedure: PROC_B\nAmount: 2865.36\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100867_C100867_invoice.txt_chunk0",
+    "claim_id": "C100867",
+    "provider_id": "P1035",
+    "text": "Invoice ID: C100867\nProvider: P1035\nPatient: U2172\nProcedure: PROC_SURG\nAmount: 19324.11\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100558_C100558_invoice.txt_chunk0",
+    "claim_id": "C100558",
+    "provider_id": "P1062",
+    "text": "Invoice ID: C100558\nProvider: P1062\nPatient: U2494\nProcedure: PROC_D\nAmount: 7479.07\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100854_C100854_invoice.txt_chunk0",
+    "claim_id": "C100854",
+    "provider_id": "P1076",
+    "text": "Invoice ID: C100854\nProvider: P1076\nPatient: U2250\nProcedure: PROC_D\nAmount: 5896.33\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100593_C100593_invoice.txt_chunk0",
+    "claim_id": "C100593",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100593\nProvider: P1011\nPatient: U2054\nProcedure: PROC_A\nAmount: 1591.81\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100777_C100777_invoice.txt_chunk0",
+    "claim_id": "C100777",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100777\nProvider: P1049\nPatient: U2294\nProcedure: PROC_C\nAmount: 470.2\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100438_C100438_invoice.txt_chunk0",
+    "claim_id": "C100438",
+    "provider_id": "P1024",
+    "text": "Invoice ID: C100438\nProvider: P1024\nPatient: U2160\nProcedure: PROC_B\nAmount: 1933.91\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100340_C100340_invoice.txt_chunk0",
+    "claim_id": "C100340",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100340\nProvider: P1071\nPatient: U2158\nProcedure: PROC_D\nAmount: 5261.0\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100055_C100055_invoice.txt_chunk0",
+    "claim_id": "C100055",
+    "provider_id": "P1068",
+    "text": "Invoice ID: C100055\nProvider: P1068\nPatient: U2037\nProcedure: PROC_B\nAmount: 1557.09\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100786_C100786_invoice.txt_chunk0",
+    "claim_id": "C100786",
+    "provider_id": "P1014",
+    "text": "Invoice ID: C100786\nProvider: P1014\nPatient: U2396\nProcedure: PROC_XRAY\nAmount: 1207.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100786_C100786_invoice.png_chunk0",
+    "claim_id": "C100786",
+    "provider_id": "P1014",
+    "text": "[PLACEHOLDER TEXT for C100786_invoice.png]"
+  },
+  {
+    "doc_id": "C100874_C100874_invoice.txt_chunk0",
+    "claim_id": "C100874",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100874\nProvider: P1045\nPatient: U2464\nProcedure: PROC_XRAY\nAmount: 779.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100344_C100344_invoice.txt_chunk0",
+    "claim_id": "C100344",
+    "provider_id": "P1027",
+    "text": "Invoice ID: C100344\nProvider: P1027\nPatient: U2486\nProcedure: PROC_C\nAmount: 793.32\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100344_C100344_invoice.png_chunk0",
+    "claim_id": "C100344",
+    "provider_id": "P1027",
+    "text": "[PLACEHOLDER TEXT for C100344_invoice.png]"
+  },
+  {
+    "doc_id": "C100216_C100216_invoice.txt_chunk0",
+    "claim_id": "C100216",
+    "provider_id": "P1010",
+    "text": "Invoice ID: C100216\nProvider: P1010\nPatient: U2203\nProcedure: PROC_C\nAmount: 351.25\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100460_C100460_invoice.txt_chunk0",
+    "claim_id": "C100460",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100460\nProvider: P1061\nPatient: U2298\nProcedure: PROC_B\nAmount: 1240.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100460_C100460_invoice.png_chunk0",
+    "claim_id": "C100460",
+    "provider_id": "P1061",
+    "text": "[PLACEHOLDER TEXT for C100460_invoice.png]"
+  },
+  {
+    "doc_id": "C100040_C100040_invoice.txt_chunk0",
+    "claim_id": "C100040",
+    "provider_id": "P1011",
+    "text": "Invoice ID: C100040\nProvider: P1011\nPatient: U2496\nProcedure: PROC_B\nAmount: 1331.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100642_C100642_invoice.txt_chunk0",
+    "claim_id": "C100642",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100642\nProvider: P1049\nPatient: U2305\nProcedure: PROC_XRAY\nAmount: 828.14\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100989_C100989_invoice.txt_chunk0",
+    "claim_id": "C100989",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100989\nProvider: P1038\nPatient: U2315\nProcedure: PROC_D\nAmount: 5377.03\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100899_C100899_invoice.txt_chunk0",
+    "claim_id": "C100899",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100899\nProvider: P1029\nPatient: U2009\nProcedure: PROC_B\nAmount: 2691.72\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100899_C100899_invoice.png_chunk0",
+    "claim_id": "C100899",
+    "provider_id": "P1029",
+    "text": "[PLACEHOLDER TEXT for C100899_invoice.png]"
+  },
+  {
+    "doc_id": "C100711_C100711_invoice.txt_chunk0",
+    "claim_id": "C100711",
+    "provider_id": "P1019",
+    "text": "Invoice ID: C100711\nProvider: P1019\nPatient: U2315\nProcedure: PROC_C\nAmount: 401.01\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100178_C100178_invoice.txt_chunk0",
+    "claim_id": "C100178",
+    "provider_id": "P1034",
+    "text": "Invoice ID: C100178\nProvider: P1034\nPatient: U2465\nProcedure: PROC_B\nAmount: 1459.03\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100176_C100176_invoice.txt_chunk0",
+    "claim_id": "C100176",
+    "provider_id": "P1075",
+    "text": "Invoice ID: C100176\nProvider: P1075\nPatient: U2403\nProcedure: PROC_SURG\nAmount: 17894.1\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100492_C100492_invoice.txt_chunk0",
+    "claim_id": "C100492",
+    "provider_id": "P1023",
+    "text": "Invoice ID: C100492\nProvider: P1023\nPatient: U2367\nProcedure: PROC_A\nAmount: 722.04\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100058_C100058_invoice.txt_chunk0",
+    "claim_id": "C100058",
+    "provider_id": "P1078",
+    "text": "Invoice ID: C100058\nProvider: P1078\nPatient: U2154\nProcedure: PROC_SURG\nAmount: 23830.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100457_C100457_invoice.txt_chunk0",
+    "claim_id": "C100457",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100457\nProvider: P1074\nPatient: U2213\nProcedure: PROC_C\nAmount: 697.72\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100476_C100476_invoice.txt_chunk0",
+    "claim_id": "C100476",
+    "provider_id": "P1056",
+    "text": "Invoice ID: C100476\nProvider: P1056\nPatient: U2177\nProcedure: PROC_SURG\nAmount: 17095.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100016_C100016_invoice.txt_chunk0",
+    "claim_id": "C100016",
+    "provider_id": "P1013",
+    "text": "Invoice ID: C100016\nProvider: P1013\nPatient: U2467\nProcedure: PROC_SURG\nAmount: 22048.45\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100458_C100458_invoice.txt_chunk0",
+    "claim_id": "C100458",
+    "provider_id": "P1003",
+    "text": "Invoice ID: C100458\nProvider: P1003\nPatient: U2446\nProcedure: PROC_XRAY\nAmount: 786.02\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100458_C100458_invoice.png_chunk0",
+    "claim_id": "C100458",
+    "provider_id": "P1003",
+    "text": "[PLACEHOLDER TEXT for C100458_invoice.png]"
+  },
+  {
+    "doc_id": "C100700_C100700_invoice.txt_chunk0",
+    "claim_id": "C100700",
+    "provider_id": "P1077",
+    "text": "Invoice ID: C100700\nProvider: P1077\nPatient: U2369\nProcedure: PROC_C\nAmount: 346.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100440_C100440_invoice.txt_chunk0",
+    "claim_id": "C100440",
+    "provider_id": "P1050",
+    "text": "Invoice ID: C100440\nProvider: P1050\nPatient: U2483\nProcedure: PROC_XRAY\nAmount: 833.93\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100686_C100686_invoice.txt_chunk0",
+    "claim_id": "C100686",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100686\nProvider: P1029\nPatient: U2371\nProcedure: PROC_D\nAmount: 4293.1\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100889_C100889_invoice.txt_chunk0",
+    "claim_id": "C100889",
+    "provider_id": "P1051",
+    "text": "Invoice ID: C100889\nProvider: P1051\nPatient: U2219\nProcedure: PROC_D\nAmount: 7083.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100459_C100459_invoice.txt_chunk0",
+    "claim_id": "C100459",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100459\nProvider: P1074\nPatient: U2400\nProcedure: PROC_XRAY\nAmount: 799.45\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100822_C100822_invoice.txt_chunk0",
+    "claim_id": "C100822",
+    "provider_id": "P1012",
+    "text": "Invoice ID: C100822\nProvider: P1012\nPatient: U2341\nProcedure: PROC_A\nAmount: 1011.02\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100822_C100822_invoice.png_chunk0",
+    "claim_id": "C100822",
+    "provider_id": "P1012",
+    "text": "[PLACEHOLDER TEXT for C100822_invoice.png]"
+  },
+  {
+    "doc_id": "C100877_C100877_invoice.txt_chunk0",
+    "claim_id": "C100877",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100877\nProvider: P1042\nPatient: U2484\nProcedure: PROC_SURG\nAmount: 23760.2\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100637_C100637_invoice.txt_chunk0",
+    "claim_id": "C100637",
+    "provider_id": "P1025",
+    "text": "Invoice ID: C100637\nProvider: P1025\nPatient: U2452\nProcedure: PROC_D\nAmount: 5929.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100659_C100659_invoice.txt_chunk0",
+    "claim_id": "C100659",
+    "provider_id": "P1056",
+    "text": "Invoice ID: C100659\nProvider: P1056\nPatient: U2389\nProcedure: PROC_XRAY\nAmount: 975.76\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100519_C100519_invoice.txt_chunk0",
+    "claim_id": "C100519",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100519\nProvider: P1053\nPatient: U2493\nProcedure: PROC_C\nAmount: 429.91\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100417_C100417_invoice.txt_chunk0",
+    "claim_id": "C100417",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100417\nProvider: P1016\nPatient: U2176\nProcedure: PROC_XRAY\nAmount: 1138.09\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100029_C100029_invoice.txt_chunk0",
+    "claim_id": "C100029",
+    "provider_id": "P1007",
+    "text": "Invoice ID: C100029\nProvider: P1007\nPatient: U2323\nProcedure: PROC_B\nAmount: 1640.19\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100955_C100955_invoice.txt_chunk0",
+    "claim_id": "C100955",
+    "provider_id": "P1043",
+    "text": "Invoice ID: C100955\nProvider: P1043\nPatient: U2366\nProcedure: PROC_A\nAmount: 1203.49\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100400_C100400_invoice.txt_chunk0",
+    "claim_id": "C100400",
+    "provider_id": "P1057",
+    "text": "Invoice ID: C100400\nProvider: P1057\nPatient: U2347\nProcedure: PROC_C\nAmount: 506.77\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100669_C100669_invoice.txt_chunk0",
+    "claim_id": "C100669",
+    "provider_id": "P1007",
+    "text": "Invoice ID: C100669\nProvider: P1007\nPatient: U2470\nProcedure: PROC_C\nAmount: 375.62\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100783_C100783_invoice.txt_chunk0",
+    "claim_id": "C100783",
+    "provider_id": "P1067",
+    "text": "Invoice ID: C100783\nProvider: P1067\nPatient: U2010\nProcedure: PROC_D\nAmount: 36926.04\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100429_C100429_invoice.txt_chunk0",
+    "claim_id": "C100429",
+    "provider_id": "P1037",
+    "text": "Invoice ID: C100429\nProvider: P1037\nPatient: U2279\nProcedure: PROC_SURG\nAmount: 15064.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100488_C100488_invoice.txt_chunk0",
+    "claim_id": "C100488",
+    "provider_id": "P1013",
+    "text": "Invoice ID: C100488\nProvider: P1013\nPatient: U2308\nProcedure: PROC_C\nAmount: 387.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100488_C100488_invoice.png_chunk0",
+    "claim_id": "C100488",
+    "provider_id": "P1013",
+    "text": "[PLACEHOLDER TEXT for C100488_invoice.png]"
+  },
+  {
+    "doc_id": "C100203_C100203_invoice.txt_chunk0",
+    "claim_id": "C100203",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100203\nProvider: P1049\nPatient: U2074\nProcedure: PROC_B\nAmount: 2851.63\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100203_C100203_invoice.png_chunk0",
+    "claim_id": "C100203",
+    "provider_id": "P1049",
+    "text": "[PLACEHOLDER TEXT for C100203_invoice.png]"
+  },
+  {
+    "doc_id": "C100371_C100371_invoice.txt_chunk0",
+    "claim_id": "C100371",
+    "provider_id": "P1018",
+    "text": "Invoice ID: C100371\nProvider: P1018\nPatient: U2123\nProcedure: PROC_C\nAmount: 502.07\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100032_C100032_invoice.txt_chunk0",
+    "claim_id": "C100032",
+    "provider_id": "P1073",
+    "text": "Invoice ID: C100032\nProvider: P1073\nPatient: U2478\nProcedure: PROC_XRAY\nAmount: 811.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100513_C100513_invoice.txt_chunk0",
+    "claim_id": "C100513",
+    "provider_id": "P1059",
+    "text": "Invoice ID: C100513\nProvider: P1059\nPatient: U2286\nProcedure: PROC_SURG\nAmount: 11919.34\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100996_C100996_invoice.txt_chunk0",
+    "claim_id": "C100996",
+    "provider_id": "P1014",
+    "text": "Invoice ID: C100996\nProvider: P1014\nPatient: U2004\nProcedure: PROC_SURG\nAmount: 21755.22\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100967_C100967_invoice.txt_chunk0",
+    "claim_id": "C100967",
+    "provider_id": "P1027",
+    "text": "Invoice ID: C100967\nProvider: P1027\nPatient: U2323\nProcedure: PROC_B\nAmount: 1517.25\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100967_C100967_invoice.png_chunk0",
+    "claim_id": "C100967",
+    "provider_id": "P1027",
+    "text": "[PLACEHOLDER TEXT for C100967_invoice.png]"
+  },
+  {
+    "doc_id": "C100156_C100156_invoice.txt_chunk0",
+    "claim_id": "C100156",
+    "provider_id": "P1024",
+    "text": "Invoice ID: C100156\nProvider: P1024\nPatient: U2094\nProcedure: PROC_B\nAmount: 3112.83\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100572_C100572_invoice.txt_chunk0",
+    "claim_id": "C100572",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100572\nProvider: P1038\nPatient: U2115\nProcedure: PROC_SURG\nAmount: 22189.03\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100826_C100826_invoice.txt_chunk0",
+    "claim_id": "C100826",
+    "provider_id": "P1010",
+    "text": "Invoice ID: C100826\nProvider: P1010\nPatient: U2153\nProcedure: PROC_D\nAmount: 6606.97\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100334_C100334_invoice.txt_chunk0",
+    "claim_id": "C100334",
+    "provider_id": "P1043",
+    "text": "Invoice ID: C100334\nProvider: P1043\nPatient: U2209\nProcedure: PROC_SURG\nAmount: 21085.05\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100382_C100382_invoice.txt_chunk0",
+    "claim_id": "C100382",
+    "provider_id": "P1037",
+    "text": "Invoice ID: C100382\nProvider: P1037\nPatient: U2018\nProcedure: PROC_B\nAmount: 2485.15\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100529_C100529_invoice.txt_chunk0",
+    "claim_id": "C100529",
+    "provider_id": "P1006",
+    "text": "Invoice ID: C100529\nProvider: P1006\nPatient: U2446\nProcedure: PROC_B\nAmount: 2503.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100372_C100372_invoice.txt_chunk0",
+    "claim_id": "C100372",
+    "provider_id": "P1030",
+    "text": "Invoice ID: C100372\nProvider: P1030\nPatient: U2180\nProcedure: PROC_XRAY\nAmount: 1014.07\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100891_C100891_invoice.txt_chunk0",
+    "claim_id": "C100891",
+    "provider_id": "P1001",
+    "text": "Invoice ID: C100891\nProvider: P1001\nPatient: U2486\nProcedure: PROC_C\nAmount: 462.91\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100579_C100579_invoice.txt_chunk0",
+    "claim_id": "C100579",
+    "provider_id": "P1035",
+    "text": "Invoice ID: C100579\nProvider: P1035\nPatient: U2350\nProcedure: PROC_XRAY\nAmount: 695.47\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100601_C100601_invoice.txt_chunk0",
+    "claim_id": "C100601",
+    "provider_id": "P1063",
+    "text": "Invoice ID: C100601\nProvider: P1063\nPatient: U2137\nProcedure: PROC_B\nAmount: 2699.09\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100003_C100003_invoice.txt_chunk0",
+    "claim_id": "C100003",
+    "provider_id": "P1004",
+    "text": "Invoice ID: C100003\nProvider: P1004\nPatient: U2117\nProcedure: PROC_C\nAmount: 531.0\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100663_C100663_invoice.txt_chunk0",
+    "claim_id": "C100663",
+    "provider_id": "P1044",
+    "text": "Invoice ID: C100663\nProvider: P1044\nPatient: U2301\nProcedure: PROC_SURG\nAmount: 10919.82\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100747_C100747_invoice.txt_chunk0",
+    "claim_id": "C100747",
+    "provider_id": "P1057",
+    "text": "Invoice ID: C100747\nProvider: P1057\nPatient: U2162\nProcedure: PROC_C\nAmount: 480.19\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100130_C100130_invoice.txt_chunk0",
+    "claim_id": "C100130",
+    "provider_id": "P1047",
+    "text": "Invoice ID: C100130\nProvider: P1047\nPatient: U2392\nProcedure: PROC_B\nAmount: 2924.09\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100626_C100626_invoice.txt_chunk0",
+    "claim_id": "C100626",
+    "provider_id": "P1064",
+    "text": "Invoice ID: C100626\nProvider: P1064\nPatient: U2301\nProcedure: PROC_B\nAmount: 1942.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100624_C100624_invoice.txt_chunk0",
+    "claim_id": "C100624",
+    "provider_id": "P1066",
+    "text": "Invoice ID: C100624\nProvider: P1066\nPatient: U2382\nProcedure: PROC_XRAY\nAmount: 597.96\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100342_C100342_invoice.txt_chunk0",
+    "claim_id": "C100342",
+    "provider_id": "P1067",
+    "text": "Invoice ID: C100342\nProvider: P1067\nPatient: U2350\nProcedure: PROC_A\nAmount: 1107.23\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100835_C100835_invoice.txt_chunk0",
+    "claim_id": "C100835",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100835\nProvider: P1053\nPatient: U2057\nProcedure: PROC_B\nAmount: 1909.54\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100041_C100041_invoice.txt_chunk0",
+    "claim_id": "C100041",
+    "provider_id": "P1027",
+    "text": "Invoice ID: C100041\nProvider: P1027\nPatient: U2246\nProcedure: PROC_D\nAmount: 6570.3\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100321_C100321_invoice.txt_chunk0",
+    "claim_id": "C100321",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100321\nProvider: P1074\nPatient: U2389\nProcedure: PROC_D\nAmount: 4290.67\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100222_C100222_invoice.txt_chunk0",
+    "claim_id": "C100222",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100222\nProvider: P1045\nPatient: U2150\nProcedure: PROC_C\nAmount: 786.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100328_C100328_invoice.txt_chunk0",
+    "claim_id": "C100328",
+    "provider_id": "P1005",
+    "text": "Invoice ID: C100328\nProvider: P1005\nPatient: U2283\nProcedure: PROC_D\nAmount: 5247.17\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100916_C100916_invoice.txt_chunk0",
+    "claim_id": "C100916",
+    "provider_id": "P1012",
+    "text": "Invoice ID: C100916\nProvider: P1012\nPatient: U2370\nProcedure: PROC_C\nAmount: 746.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100511_C100511_invoice.txt_chunk0",
+    "claim_id": "C100511",
+    "provider_id": "P1065",
+    "text": "Invoice ID: C100511\nProvider: P1065\nPatient: U2460\nProcedure: PROC_D\nAmount: 3653.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100113_C100113_invoice.txt_chunk0",
+    "claim_id": "C100113",
+    "provider_id": "P1059",
+    "text": "Invoice ID: C100113\nProvider: P1059\nPatient: U2277\nProcedure: PROC_D\nAmount: 3011.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100048_C100048_invoice.txt_chunk0",
+    "claim_id": "C100048",
+    "provider_id": "P1023",
+    "text": "Invoice ID: C100048\nProvider: P1023\nPatient: U2041\nProcedure: PROC_A\nAmount: 1008.73\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100289_C100289_invoice.txt_chunk0",
+    "claim_id": "C100289",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100289\nProvider: P1071\nPatient: U2179\nProcedure: PROC_C\nAmount: 468.45\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100076_C100076_invoice.txt_chunk0",
+    "claim_id": "C100076",
+    "provider_id": "P1048",
+    "text": "Invoice ID: C100076\nProvider: P1048\nPatient: U2055\nProcedure: PROC_A\nAmount: 1084.78\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100206_C100206_invoice.txt_chunk0",
+    "claim_id": "C100206",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100206\nProvider: P1038\nPatient: U2371\nProcedure: PROC_XRAY\nAmount: 1134.37\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100978_C100978_invoice.txt_chunk0",
+    "claim_id": "C100978",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100978\nProvider: P1071\nPatient: U2380\nProcedure: PROC_D\nAmount: 4566.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100447_C100447_invoice.txt_chunk0",
+    "claim_id": "C100447",
+    "provider_id": "P1079",
+    "text": "Invoice ID: C100447\nProvider: P1079\nPatient: U2143\nProcedure: PROC_SURG\nAmount: 23912.09\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100285_C100285_invoice.txt_chunk0",
+    "claim_id": "C100285",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100285\nProvider: P1042\nPatient: U2287\nProcedure: PROC_SURG\nAmount: 19973.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100285_C100285_invoice.png_chunk0",
+    "claim_id": "C100285",
+    "provider_id": "P1042",
+    "text": "[PLACEHOLDER TEXT for C100285_invoice.png]"
+  },
+  {
+    "doc_id": "C100936_C100936_invoice.txt_chunk0",
+    "claim_id": "C100936",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100936\nProvider: P1071\nPatient: U2076\nProcedure: PROC_XRAY\nAmount: 1156.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100386_C100386_invoice.txt_chunk0",
+    "claim_id": "C100386",
+    "provider_id": "P1042",
+    "text": "Invoice ID: C100386\nProvider: P1042\nPatient: U2443\nProcedure: PROC_C\nAmount: 490.1\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100225_C100225_invoice.txt_chunk0",
+    "claim_id": "C100225",
+    "provider_id": "P1030",
+    "text": "Invoice ID: C100225\nProvider: P1030\nPatient: U2317\nProcedure: PROC_D\nAmount: 3328.13\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100707_C100707_invoice.txt_chunk0",
+    "claim_id": "C100707",
+    "provider_id": "P1009",
+    "text": "Invoice ID: C100707\nProvider: P1009\nPatient: U2488\nProcedure: PROC_A\nAmount: 1047.6\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100707_C100707_invoice.png_chunk0",
+    "claim_id": "C100707",
+    "provider_id": "P1009",
+    "text": "[PLACEHOLDER TEXT for C100707_invoice.png]"
+  },
+  {
+    "doc_id": "C100120_C100120_invoice.txt_chunk0",
+    "claim_id": "C100120",
+    "provider_id": "P1016",
+    "text": "Invoice ID: C100120\nProvider: P1016\nPatient: U2470\nProcedure: PROC_XRAY\nAmount: 1264.46\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100990_C100990_invoice.txt_chunk0",
+    "claim_id": "C100990",
+    "provider_id": "P1009",
+    "text": "Invoice ID: C100990\nProvider: P1009\nPatient: U2183\nProcedure: PROC_SURG\nAmount: 18662.24\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100512_C100512_invoice.txt_chunk0",
+    "claim_id": "C100512",
+    "provider_id": "P1065",
+    "text": "Invoice ID: C100512\nProvider: P1065\nPatient: U2067\nProcedure: PROC_D\nAmount: 5023.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100512_C100512_invoice.png_chunk0",
+    "claim_id": "C100512",
+    "provider_id": "P1065",
+    "text": "[PLACEHOLDER TEXT for C100512_invoice.png]"
+  },
+  {
+    "doc_id": "C100456_C100456_invoice.txt_chunk0",
+    "claim_id": "C100456",
+    "provider_id": "P1002",
+    "text": "Invoice ID: C100456\nProvider: P1002\nPatient: U2417\nProcedure: PROC_C\nAmount: 473.79\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100387_C100387_invoice.txt_chunk0",
+    "claim_id": "C100387",
+    "provider_id": "P1051",
+    "text": "Invoice ID: C100387\nProvider: P1051\nPatient: U2223\nProcedure: PROC_SURG\nAmount: 12691.04\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100595_C100595_invoice.txt_chunk0",
+    "claim_id": "C100595",
+    "provider_id": "P1057",
+    "text": "Invoice ID: C100595\nProvider: P1057\nPatient: U2220\nProcedure: PROC_XRAY\nAmount: 1073.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100221_C100221_invoice.txt_chunk0",
+    "claim_id": "C100221",
+    "provider_id": "P1003",
+    "text": "Invoice ID: C100221\nProvider: P1003\nPatient: U2462\nProcedure: PROC_A\nAmount: 645.74\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100268_C100268_invoice.txt_chunk0",
+    "claim_id": "C100268",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100268\nProvider: P1053\nPatient: U2064\nProcedure: PROC_XRAY\nAmount: 741.17\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100171_C100171_invoice.txt_chunk0",
+    "claim_id": "C100171",
+    "provider_id": "P1027",
+    "text": "Invoice ID: C100171\nProvider: P1027\nPatient: U2320\nProcedure: PROC_C\nAmount: 386.95\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100773_C100773_invoice.txt_chunk0",
+    "claim_id": "C100773",
+    "provider_id": "P1076",
+    "text": "Invoice ID: C100773\nProvider: P1076\nPatient: U2163\nProcedure: PROC_B\nAmount: 1652.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100768_C100768_invoice.txt_chunk0",
+    "claim_id": "C100768",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100768\nProvider: P1049\nPatient: U2143\nProcedure: PROC_B\nAmount: 2607.37\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100684_C100684_invoice.txt_chunk0",
+    "claim_id": "C100684",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100684\nProvider: P1046\nPatient: U2047\nProcedure: PROC_C\nAmount: 789.03\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100544_C100544_invoice.txt_chunk0",
+    "claim_id": "C100544",
+    "provider_id": "P1034",
+    "text": "Invoice ID: C100544\nProvider: P1034\nPatient: U2026\nProcedure: PROC_D\nAmount: 6295.18\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100544_C100544_invoice.png_chunk0",
+    "claim_id": "C100544",
+    "provider_id": "P1034",
+    "text": "[PLACEHOLDER TEXT for C100544_invoice.png]"
+  },
+  {
+    "doc_id": "C100884_C100884_invoice.txt_chunk0",
+    "claim_id": "C100884",
+    "provider_id": "P1058",
+    "text": "Invoice ID: C100884\nProvider: P1058\nPatient: U2457\nProcedure: PROC_B\nAmount: 2853.63\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100884_C100884_invoice.png_chunk0",
+    "claim_id": "C100884",
+    "provider_id": "P1058",
+    "text": "[PLACEHOLDER TEXT for C100884_invoice.png]"
+  },
+  {
+    "doc_id": "C100864_C100864_invoice.txt_chunk0",
+    "claim_id": "C100864",
+    "provider_id": "P1079",
+    "text": "Invoice ID: C100864\nProvider: P1079\nPatient: U2422\nProcedure: PROC_D\nAmount: 7235.7\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100765_C100765_invoice.txt_chunk0",
+    "claim_id": "C100765",
+    "provider_id": "P1035",
+    "text": "Invoice ID: C100765\nProvider: P1035\nPatient: U2140\nProcedure: PROC_D\nAmount: 5795.92\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100123_C100123_invoice.txt_chunk0",
+    "claim_id": "C100123",
+    "provider_id": "P1041",
+    "text": "Invoice ID: C100123\nProvider: P1041\nPatient: U2194\nProcedure: PROC_B\nAmount: 1278.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100123_C100123_invoice.png_chunk0",
+    "claim_id": "C100123",
+    "provider_id": "P1041",
+    "text": "[PLACEHOLDER TEXT for C100123_invoice.png]"
+  },
+  {
+    "doc_id": "C100915_C100915_invoice.txt_chunk0",
+    "claim_id": "C100915",
+    "provider_id": "P1019",
+    "text": "Invoice ID: C100915\nProvider: P1019\nPatient: U2252\nProcedure: PROC_A\nAmount: 603.17\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100180_C100180_invoice.txt_chunk0",
+    "claim_id": "C100180",
+    "provider_id": "P1036",
+    "text": "Invoice ID: C100180\nProvider: P1036\nPatient: U2471\nProcedure: PROC_D\nAmount: 7310.64\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100161_C100161_invoice.txt_chunk0",
+    "claim_id": "C100161",
+    "provider_id": "P1062",
+    "text": "Invoice ID: C100161\nProvider: P1062\nPatient: U2326\nProcedure: PROC_A\nAmount: 664.99\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100704_C100704_invoice.txt_chunk0",
+    "claim_id": "C100704",
+    "provider_id": "P1009",
+    "text": "Invoice ID: C100704\nProvider: P1009\nPatient: U2304\nProcedure: PROC_XRAY\nAmount: 729.88\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100265_C100265_invoice.txt_chunk0",
+    "claim_id": "C100265",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100265\nProvider: P1069\nPatient: U2066\nProcedure: PROC_C\nAmount: 371.25\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100734_C100734_invoice.txt_chunk0",
+    "claim_id": "C100734",
+    "provider_id": "P1037",
+    "text": "Invoice ID: C100734\nProvider: P1037\nPatient: U2102\nProcedure: PROC_XRAY\nAmount: 560.51\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100117_C100117_invoice.txt_chunk0",
+    "claim_id": "C100117",
+    "provider_id": "P1077",
+    "text": "Invoice ID: C100117\nProvider: P1077\nPatient: U2279\nProcedure: PROC_B\nAmount: 2283.8\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100844_C100844_invoice.txt_chunk0",
+    "claim_id": "C100844",
+    "provider_id": "P1029",
+    "text": "Invoice ID: C100844\nProvider: P1029\nPatient: U2050\nProcedure: PROC_B\nAmount: 1790.08\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100962_C100962_invoice.txt_chunk0",
+    "claim_id": "C100962",
+    "provider_id": "P1049",
+    "text": "Invoice ID: C100962\nProvider: P1049\nPatient: U2258\nProcedure: PROC_D\nAmount: 6569.76\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100763_C100763_invoice.txt_chunk0",
+    "claim_id": "C100763",
+    "provider_id": "P1050",
+    "text": "Invoice ID: C100763\nProvider: P1050\nPatient: U2221\nProcedure: PROC_D\nAmount: 7024.53\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100763_C100763_invoice.png_chunk0",
+    "claim_id": "C100763",
+    "provider_id": "P1050",
+    "text": "[PLACEHOLDER TEXT for C100763_invoice.png]"
+  },
+  {
+    "doc_id": "C100521_C100521_invoice.txt_chunk0",
+    "claim_id": "C100521",
+    "provider_id": "P1069",
+    "text": "Invoice ID: C100521\nProvider: P1069\nPatient: U2447\nProcedure: PROC_B\nAmount: 1847.0\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100672_C100672_invoice.txt_chunk0",
+    "claim_id": "C100672",
+    "provider_id": "P1034",
+    "text": "Invoice ID: C100672\nProvider: P1034\nPatient: U2295\nProcedure: PROC_SURG\nAmount: 23707.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100998_C100998_invoice.txt_chunk0",
+    "claim_id": "C100998",
+    "provider_id": "P1041",
+    "text": "Invoice ID: C100998\nProvider: P1041\nPatient: U2349\nProcedure: PROC_D\nAmount: 5361.41\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100468_C100468_invoice.txt_chunk0",
+    "claim_id": "C100468",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100468\nProvider: P1045\nPatient: U2279\nProcedure: PROC_SURG\nAmount: 14125.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100597_C100597_invoice.txt_chunk0",
+    "claim_id": "C100597",
+    "provider_id": "P1076",
+    "text": "Invoice ID: C100597\nProvider: P1076\nPatient: U2305\nProcedure: PROC_C\nAmount: 477.69\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100597_C100597_invoice.png_chunk0",
+    "claim_id": "C100597",
+    "provider_id": "P1076",
+    "text": "[PLACEHOLDER TEXT for C100597_invoice.png]"
+  },
+  {
+    "doc_id": "C100240_C100240_invoice.txt_chunk0",
+    "claim_id": "C100240",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100240\nProvider: P1053\nPatient: U2167\nProcedure: PROC_B\nAmount: 2691.67\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100134_C100134_invoice.txt_chunk0",
+    "claim_id": "C100134",
+    "provider_id": "P1013",
+    "text": "Invoice ID: C100134\nProvider: P1013\nPatient: U2124\nProcedure: PROC_SURG\nAmount: 22274.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100155_C100155_invoice.txt_chunk0",
+    "claim_id": "C100155",
+    "provider_id": "P1015",
+    "text": "Invoice ID: C100155\nProvider: P1015\nPatient: U2161\nProcedure: PROC_SURG\nAmount: 10642.01\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100353_C100353_invoice.txt_chunk0",
+    "claim_id": "C100353",
+    "provider_id": "P1024",
+    "text": "Invoice ID: C100353\nProvider: P1024\nPatient: U2462\nProcedure: PROC_C\nAmount: 784.96\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100353_C100353_invoice.png_chunk0",
+    "claim_id": "C100353",
+    "provider_id": "P1024",
+    "text": "[PLACEHOLDER TEXT for C100353_invoice.png]"
+  },
+  {
+    "doc_id": "C100139_C100139_invoice.txt_chunk0",
+    "claim_id": "C100139",
+    "provider_id": "P1019",
+    "text": "Invoice ID: C100139\nProvider: P1019\nPatient: U2362\nProcedure: PROC_D\nAmount: 5600.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100932_C100932_invoice.txt_chunk0",
+    "claim_id": "C100932",
+    "provider_id": "P1073",
+    "text": "Invoice ID: C100932\nProvider: P1073\nPatient: U2268\nProcedure: PROC_SURG\nAmount: 20107.14\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100965_C100965_invoice.txt_chunk0",
+    "claim_id": "C100965",
+    "provider_id": "P1077",
+    "text": "Invoice ID: C100965\nProvider: P1077\nPatient: U2211\nProcedure: PROC_SURG\nAmount: 11143.14\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100060_C100060_invoice.txt_chunk0",
+    "claim_id": "C100060",
+    "provider_id": "P1017",
+    "text": "Invoice ID: C100060\nProvider: P1017\nPatient: U2480\nProcedure: PROC_C\nAmount: 370.54\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100352_C100352_invoice.txt_chunk0",
+    "claim_id": "C100352",
+    "provider_id": "P1030",
+    "text": "Invoice ID: C100352\nProvider: P1030\nPatient: U2273\nProcedure: PROC_C\nAmount: 666.45\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100352_C100352_invoice.png_chunk0",
+    "claim_id": "C100352",
+    "provider_id": "P1030",
+    "text": "[PLACEHOLDER TEXT for C100352_invoice.png]"
+  },
+  {
+    "doc_id": "C100643_C100643_invoice.txt_chunk0",
+    "claim_id": "C100643",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100643\nProvider: P1045\nPatient: U2178\nProcedure: PROC_D\nAmount: 5414.84\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100165_C100165_invoice.txt_chunk0",
+    "claim_id": "C100165",
+    "provider_id": "P1006",
+    "text": "Invoice ID: C100165\nProvider: P1006\nPatient: U2322\nProcedure: PROC_B\nAmount: 1553.06\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100960_C100960_invoice.txt_chunk0",
+    "claim_id": "C100960",
+    "provider_id": "P1074",
+    "text": "Invoice ID: C100960\nProvider: P1074\nPatient: U2354\nProcedure: PROC_B\nAmount: 1343.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100960_C100960_invoice.png_chunk0",
+    "claim_id": "C100960",
+    "provider_id": "P1074",
+    "text": "[PLACEHOLDER TEXT for C100960_invoice.png]"
+  },
+  {
+    "doc_id": "C100879_C100879_invoice.txt_chunk0",
+    "claim_id": "C100879",
+    "provider_id": "P1033",
+    "text": "Invoice ID: C100879\nProvider: P1033\nPatient: U2190\nProcedure: PROC_XRAY\nAmount: 791.59\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100300_C100300_invoice.txt_chunk0",
+    "claim_id": "C100300",
+    "provider_id": "P1053",
+    "text": "Invoice ID: C100300\nProvider: P1053\nPatient: U2226\nProcedure: PROC_C\nAmount: 667.68\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100214_C100214_invoice.txt_chunk0",
+    "claim_id": "C100214",
+    "provider_id": "P1018",
+    "text": "Invoice ID: C100214\nProvider: P1018\nPatient: U2007\nProcedure: PROC_D\nAmount: 5161.2\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100214_C100214_invoice.png_chunk0",
+    "claim_id": "C100214",
+    "provider_id": "P1018",
+    "text": "[PLACEHOLDER TEXT for C100214_invoice.png]"
+  },
+  {
+    "doc_id": "C100407_C100407_invoice.txt_chunk0",
+    "claim_id": "C100407",
+    "provider_id": "P1056",
+    "text": "Invoice ID: C100407\nProvider: P1056\nPatient: U2088\nProcedure: PROC_A\nAmount: 1415.75\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100882_C100882_invoice.txt_chunk0",
+    "claim_id": "C100882",
+    "provider_id": "P1067",
+    "text": "Invoice ID: C100882\nProvider: P1067\nPatient: U2195\nProcedure: PROC_C\nAmount: 538.94\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100297_C100297_invoice.txt_chunk0",
+    "claim_id": "C100297",
+    "provider_id": "P1041",
+    "text": "Invoice ID: C100297\nProvider: P1041\nPatient: U2159\nProcedure: PROC_XRAY\nAmount: 686.15\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100297_C100297_invoice.png_chunk0",
+    "claim_id": "C100297",
+    "provider_id": "P1041",
+    "text": "[PLACEHOLDER TEXT for C100297_invoice.png]"
+  },
+  {
+    "doc_id": "C100394_C100394_invoice.txt_chunk0",
+    "claim_id": "C100394",
+    "provider_id": "P1045",
+    "text": "Invoice ID: C100394\nProvider: P1045\nPatient: U2021\nProcedure: PROC_XRAY\nAmount: 561.14\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100131_C100131_invoice.txt_chunk0",
+    "claim_id": "C100131",
+    "provider_id": "P1014",
+    "text": "Invoice ID: C100131\nProvider: P1014\nPatient: U2367\nProcedure: PROC_B\nAmount: 1274.02\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100314_C100314_invoice.txt_chunk0",
+    "claim_id": "C100314",
+    "provider_id": "P1055",
+    "text": "Invoice ID: C100314\nProvider: P1055\nPatient: U2124\nProcedure: PROC_XRAY\nAmount: 1257.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100911_C100911_invoice.txt_chunk0",
+    "claim_id": "C100911",
+    "provider_id": "P1025",
+    "text": "Invoice ID: C100911\nProvider: P1025\nPatient: U2498\nProcedure: PROC_C\nAmount: 503.79\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100738_C100738_invoice.txt_chunk0",
+    "claim_id": "C100738",
+    "provider_id": "P1001",
+    "text": "Invoice ID: C100738\nProvider: P1001\nPatient: U2177\nProcedure: PROC_C\nAmount: 4703.97\nDetails: Generic invoice for services rendered.\nNotes: Standard billing.\nNote: BILLED HOURS: 999\nExtra line: Equipment: EXTERNAL_URGENT_IMPLANT"
+  },
+  {
+    "doc_id": "C100731_C100731_invoice.txt_chunk0",
+    "claim_id": "C100731",
+    "provider_id": "P1028",
+    "text": "Invoice ID: C100731\nProvider: P1028\nPatient: U2091\nProcedure: PROC_XRAY\nAmount: 1183.86\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100416_C100416_invoice.txt_chunk0",
+    "claim_id": "C100416",
+    "provider_id": "P1009",
+    "text": "Invoice ID: C100416\nProvider: P1009\nPatient: U2328\nProcedure: PROC_D\nAmount: 4510.3\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100565_C100565_invoice.txt_chunk0",
+    "claim_id": "C100565",
+    "provider_id": "P1061",
+    "text": "Invoice ID: C100565\nProvider: P1061\nPatient: U2467\nProcedure: PROC_SURG\nAmount: 10662.12\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100038_C100038_invoice.txt_chunk0",
+    "claim_id": "C100038",
+    "provider_id": "P1009",
+    "text": "Invoice ID: C100038\nProvider: P1009\nPatient: U2127\nProcedure: PROC_D\nAmount: 3953.44\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100470_C100470_invoice.txt_chunk0",
+    "claim_id": "C100470",
+    "provider_id": "P1071",
+    "text": "Invoice ID: C100470\nProvider: P1071\nPatient: U2142\nProcedure: PROC_C\nAmount: 439.85\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100470_C100470_invoice.png_chunk0",
+    "claim_id": "C100470",
+    "provider_id": "P1071",
+    "text": "[PLACEHOLDER TEXT for C100470_invoice.png]"
+  },
+  {
+    "doc_id": "C100249_C100249_invoice.txt_chunk0",
+    "claim_id": "C100249",
+    "provider_id": "P1079",
+    "text": "Invoice ID: C100249\nProvider: P1079\nPatient: U2012\nProcedure: PROC_XRAY\nAmount: 980.98\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100249_C100249_invoice.png_chunk0",
+    "claim_id": "C100249",
+    "provider_id": "P1079",
+    "text": "[PLACEHOLDER TEXT for C100249_invoice.png]"
+  },
+  {
+    "doc_id": "C100505_C100505_invoice.txt_chunk0",
+    "claim_id": "C100505",
+    "provider_id": "P1068",
+    "text": "Invoice ID: C100505\nProvider: P1068\nPatient: U2387\nProcedure: PROC_SURG\nAmount: 19382.42\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100402_C100402_invoice.txt_chunk0",
+    "claim_id": "C100402",
+    "provider_id": "P1035",
+    "text": "Invoice ID: C100402\nProvider: P1035\nPatient: U2332\nProcedure: PROC_B\nAmount: 2799.56\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100053_C100053_invoice.txt_chunk0",
+    "claim_id": "C100053",
+    "provider_id": "P1038",
+    "text": "Invoice ID: C100053\nProvider: P1038\nPatient: U2343\nProcedure: PROC_D\nAmount: 3098.55\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100053_C100053_invoice.png_chunk0",
+    "claim_id": "C100053",
+    "provider_id": "P1038",
+    "text": "[PLACEHOLDER TEXT for C100053_invoice.png]"
+  },
+  {
+    "doc_id": "C100194_C100194_invoice.txt_chunk0",
+    "claim_id": "C100194",
+    "provider_id": "P1046",
+    "text": "Invoice ID: C100194\nProvider: P1046\nPatient: U2265\nProcedure: PROC_XRAY\nAmount: 1117.94\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100136_C100136_invoice.txt_chunk0",
+    "claim_id": "C100136",
+    "provider_id": "P1054",
+    "text": "Invoice ID: C100136\nProvider: P1054\nPatient: U2272\nProcedure: PROC_SURG\nAmount: 15067.28\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100581_C100581_invoice.txt_chunk0",
+    "claim_id": "C100581",
+    "provider_id": "P1050",
+    "text": "Invoice ID: C100581\nProvider: P1050\nPatient: U2073\nProcedure: PROC_A\nAmount: 731.73\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100662_C100662_invoice.txt_chunk0",
+    "claim_id": "C100662",
+    "provider_id": "P1015",
+    "text": "Invoice ID: C100662\nProvider: P1015\nPatient: U2224\nProcedure: PROC_B\nAmount: 2527.58\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100671_C100671_invoice.txt_chunk0",
+    "claim_id": "C100671",
+    "provider_id": "P1031",
+    "text": "Invoice ID: C100671\nProvider: P1031\nPatient: U2424\nProcedure: PROC_SURG\nAmount: 17418.34\nDetails: Generic invoice for services rendered.\nNotes: Standard billing."
+  },
+  {
+    "doc_id": "C100671_C100671_invoice.png_chunk0",
+    "claim_id": "C100671",
+    "provider_id": "P1031",
+    "text": "[PLACEHOLDER TEXT for C100671_invoice.png]"
+  }
+]

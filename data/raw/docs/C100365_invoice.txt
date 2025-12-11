@@ -1,0 +1,9 @@
+Invoice ID: C100365
+Provider: P1057
+Patient: U2240
+Procedure: PROC_XRAY
+Amount: 2880.96
+Details: Generic invoice for services rendered.
+Notes: Standard billing.
+Note: DUPLICATE CHARGE
+Extra line: Equipment: EXTERNAL_URGENT_IMPLANT

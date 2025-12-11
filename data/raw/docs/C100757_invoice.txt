@@ -1,0 +1,9 @@
+Invoice ID: C100757
+Provider: P1017
+Patient: U2411
+Procedure: PROC_A
+Amount: 3577.23
+Details: Generic invoice for services rendered.
+Notes: Standard billing.
+Note: EXTERNAL_URGENT_IMPLANT
+Extra line: Equipment: EXTERNAL_URGENT_IMPLANT

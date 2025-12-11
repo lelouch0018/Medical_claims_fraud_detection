@@ -1,0 +1,9 @@
+data/raw/docs/*.png
+data/raw/docs/*.jpg
+data/raw/docs/*.txt
+data/processed/*.parquet
+models/faiss_index.idx
+models/embeddings.npy
+__pycache__/
+*.log
+.env

@@ -1,0 +1,7 @@
+Invoice ID: C100015
+Provider: P1033
+Patient: U2488
+Procedure: PROC_XRAY
+Amount: 629.06
+Details: Generic invoice for services rendered.
+Notes: Standard billing.

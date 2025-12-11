@@ -1,0 +1,9 @@
+Invoice ID: C100716
+Provider: P1022
+Patient: U2341
+Procedure: PROC_A
+Amount: 7756.36
+Details: Generic invoice for services rendered.
+Notes: Standard billing.
+Note: NOT COVERED
+Extra line: Equipment: EXTERNAL_URGENT_IMPLANT

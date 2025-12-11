@@ -1,0 +1,7 @@
+Invoice ID: C100371
+Provider: P1018
+Patient: U2123
+Procedure: PROC_C
+Amount: 502.07
+Details: Generic invoice for services rendered.
+Notes: Standard billing.
