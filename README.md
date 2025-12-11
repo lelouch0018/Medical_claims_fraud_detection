@@ -100,7 +100,7 @@ fraud_etl_rag_fastapi/
 ## **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/fraud-etl-rag-fastapi.git
+git clone https://github.com/<lelouch0018>/fraud-etl-rag-fastapi.git
 cd fraud-etl-rag-fastapi
 ```
 
